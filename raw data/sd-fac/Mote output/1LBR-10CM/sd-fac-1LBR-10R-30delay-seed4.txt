@@ -1,0 +1,417 @@
+422	ID:7	Rime started with address 7.7
+433	ID:7	Short MAC 0707 MAC 00:12:74:07:00:07:07:07 Contiki-3.x-3153-g01bafba64 started. Node id is set to 7.
+441	ID:1	Rime started with address 1.1
+442	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+445	ID:7	Init of IPv6 data structures
+446	ID:7	16 neighbors
+447	ID:7	2 default routers
+448	ID:7	3 prefixes
+449	ID:7	16 routes
+450	ID:7	3 unicast addresses
+451	ID:7	4 multicast addresses
+452	ID:1	Short MAC 0101 MAC 00:12:74:01:00:01:01:01 Contiki-3.x-3153-g01bafba64 started. Node id is set to 1.
+453	ID:7	0 anycast addresses
+458	ID:7	Adding prefix fe80::length 64, vlifetime 0
+460	ID:7	# Print interface address list: 
+460	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+461	ID:6	Rime started with address 6.6
+463	ID:1	Init of IPv6 data structures
+463	ID:7	# Address 1: ::  state: 0  type: 0  isused: 0
+464	ID:1	16 neighbors
+465	ID:1	2 default routers
+466	ID:1	3 prefixes
+467	ID:7	# Address 2: ::  state: 0  type: 0  isused: 0
+467	ID:1	16 routes
+468	ID:1	3 unicast addresses
+470	ID:1	5 multicast addresses
+471	ID:1	2 anycast addresses
+472	ID:6	Short MAC 0606 MAC 00:12:74:06:00:06:06:06 Contiki-3.x-3153-g01bafba64 started. Node id is set to 6.
+472	ID:7	# Address 3: fe80::ff:fe00:707  state: 1  type: 1  isused: 1
+474	ID:7	Starting 'node'
+475	ID:7	I'm the Node.
+477	ID:1	# Initial registration list
+480	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+483	ID:6	Init of IPv6 data structures
+484	ID:6	16 neighbors
+485	ID:6	2 default routers
+486	ID:6	3 prefixes
+487	ID:6	16 routes
+488	ID:6	3 unicast addresses
+490	ID:6	4 multicast addresses
+490	ID:1	[ MAC 00:12:74:02:00:02:02:02   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0111aeccd1b2020200a2bb879de20202 ]
+491	ID:6	0 anycast addresses
+496	ID:6	Adding prefix fe80::length 64, vlifetime 0
+498	ID:6	# Print interface address list: 
+502	ID:6	# Address 1: ::  state: 0  type: 0  isused: 0
+504	ID:1	[ MAC 00:12:74:03:00:03:03:03   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0222df0200c3192a12b3cc42aefef203 ]
+505	ID:6	# Address 2: ::  state: 0  type: 0  isused: 0
+511	ID:6	# Address 3: fe80::ff:fe00:606  state: 1  type: 1  isused: 1
+511	ID:12	Rime started with address 12.12
+512	ID:6	Starting 'node'
+513	ID:6	I'm the Node.
+517	ID:1	[ MAC 00:12:74:04:00:04:04:04   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0333df0200c3192a12b3cc42aefef203 ]
+522	ID:12	Short MAC 0c0c MAC 00:12:74:0c:00:0c:0c:0c Contiki-3.x-3153-g01bafba64 started. Node id is set to 12.
+530	ID:12	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+531	ID:1	[ MAC 00:12:74:05:00:05:05:05   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0444df0200c3192a12b3cc42aefef203 ]
+533	ID:12	Init of IPv6 data structures
+534	ID:12	16 neighbors
+536	ID:12	2 default routers
+536	ID:12	3 prefixes
+537	ID:12	16 routes
+539	ID:12	3 unicast addresses
+540	ID:12	4 multicast addresses
+542	ID:12	0 anycast addresses
+545	ID:1	[ MAC 00:12:74:06:00:06:06:06   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0555df0200c3192a12b3cc42aefef203 ]
+546	ID:12	Adding prefix fe80::length 64, vlifetime 0
+549	ID:12	# Print interface address list: 
+552	ID:12	# Address 1: ::  state: 0  type: 0  isused: 0
+555	ID:12	# Address 2: ::  state: 0  type: 0  isused: 0
+558	ID:1	[ MAC 00:12:74:07:00:07:07:07   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0666df0200c3192a12b3cc42aefef203 ]
+561	ID:12	# Address 3: fe80::ff:fe00:c0c  state: 1  type: 1  isused: 1
+563	ID:12	Starting 'node'
+564	ID:12	I'm the Node.
+572	ID:1	[ MAC 00:12:74:08:00:08:08:08   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0777df0200c3192a12b3cc42aefef203 ]
+574	ID:1	#list of authorized node
+585	ID:1	MAC:00:12:74:02:00:02:02:02  KEY:0111aeccd1b2020200a2bb879de20202
+592	ID:8	Rime started with address 8.8
+594	ID:1	MAC:00:12:74:03:00:03:03:03  KEY:0222df0200c3192a12b3cc42aefef203
+603	ID:8	Short MAC 0808 MAC 00:12:74:08:00:08:08:08 Contiki-3.x-3153-g01bafba64 started. Node id is set to 8.
+604	ID:1	MAC:00:12:74:04:00:04:04:04  KEY:0333df0200c3192a12b3cc42aefef203
+611	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+613	ID:1	MAC:00:12:74:05:00:05:05:05  KEY:0444df0200c3192a12b3cc42aefef203
+614	ID:8	Init of IPv6 data structures
+615	ID:8	16 neighbors
+616	ID:8	2 default routers
+617	ID:8	3 prefixes
+618	ID:8	16 routes
+619	ID:8	3 unicast addresses
+621	ID:8	4 multicast addresses
+622	ID:8	0 anycast addresses
+623	ID:1	MAC:00:12:74:06:00:06:06:06  KEY:0555df0200c3192a12b3cc42aefef203
+627	ID:8	Adding prefix fe80::length 64, vlifetime 0
+629	ID:8	# Print interface address list: 
+632	ID:1	MAC:00:12:74:07:00:07:07:07  KEY:0666df0200c3192a12b3cc42aefef203
+633	ID:8	# Address 1: ::  state: 0  type: 0  isused: 0
+636	ID:8	# Address 2: ::  state: 0  type: 0  isused: 0
+642	ID:1	MAC:00:12:74:08:00:08:08:08  KEY:0777df0200c3192a12b3cc42aefef203
+642	ID:8	# Address 3: fe80::ff:fe00:808  state: 1  type: 1  isused: 1
+643	ID:8	Starting 'node'
+644	ID:8	I'm the Node.
+649	ID:1	Adding prefix fe80::length 64, flags 0, Valid lifetime 0, Preffered lifetime 0
+658	ID:1	Adding prefix 2001:da8::length 64, flags c0, Valid lifetime 258, Preffered lifetime 258
+660	ID:1	# Print interface address list: 
+664	ID:1	# Address 1: ::  state: 0  type: 0  isused: 0
+670	ID:1	# Address 2: 2001:da8::ff:fe00:101  state: 1  type: 1  isused: 1
+675	ID:1	# Address 3: fe80::ff:fe00:101  state: 1  type: 1  isused: 1
+677	ID:1	Starting 'ar'
+678	ID:1	I'm the AR.
+772	ID:11	Rime started with address 11.11
+783	ID:11	Short MAC 0b0b MAC 00:12:74:0b:00:0b:0b:0b Contiki-3.x-3153-g01bafba64 started. Node id is set to 11.
+792	ID:11	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+794	ID:11	Init of IPv6 data structures
+795	ID:11	16 neighbors
+797	ID:11	2 default routers
+798	ID:11	3 prefixes
+798	ID:11	16 routes
+800	ID:11	3 unicast addresses
+801	ID:11	4 multicast addresses
+803	ID:11	0 anycast addresses
+807	ID:11	Adding prefix fe80::length 64, vlifetime 0
+810	ID:11	# Print interface address list: 
+813	ID:11	# Address 1: ::  state: 0  type: 0  isused: 0
+817	ID:11	# Address 2: ::  state: 0  type: 0  isused: 0
+822	ID:11	# Address 3: fe80::ff:fe00:b0b  state: 1  type: 1  isused: 1
+824	ID:11	Starting 'node'
+825	ID:11	I'm the Node.
+865	ID:3	Rime started with address 3.3
+876	ID:3	Short MAC 0303 MAC 00:12:74:03:00:03:03:03 Contiki-3.x-3153-g01bafba64 started. Node id is set to 3.
+882	ID:4	Rime started with address 4.4
+884	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+887	ID:3	Init of IPv6 data structures
+888	ID:3	16 neighbors
+889	ID:3	2 default routers
+890	ID:3	3 prefixes
+891	ID:3	16 routes
+892	ID:3	3 unicast addresses
+893	ID:4	Short MAC 0404 MAC 00:12:74:04:00:04:04:04 Contiki-3.x-3153-g01bafba64 started. Node id is set to 4.
+894	ID:3	4 multicast addresses
+895	ID:3	0 anycast addresses
+900	ID:3	Adding prefix fe80::length 64, vlifetime 0
+901	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+902	ID:10	Rime started with address 10.10
+902	ID:3	# Print interface address list: 
+904	ID:4	Init of IPv6 data structures
+905	ID:4	16 neighbors
+906	ID:3	# Address 1: ::  state: 0  type: 0  isused: 0
+906	ID:4	2 default routers
+907	ID:4	3 prefixes
+908	ID:4	16 routes
+909	ID:3	# Address 2: ::  state: 0  type: 0  isused: 0
+909	ID:4	3 unicast addresses
+911	ID:4	4 multicast addresses
+912	ID:4	0 anycast addresses
+913	ID:10	Short MAC 0a0a MAC 00:12:74:0a:00:0a:0a:0a Contiki-3.x-3153-g01bafba64 started. Node id is set to 10.
+915	ID:3	# Address 3: fe80::ff:fe00:303  state: 1  type: 1  isused: 1
+916	ID:3	Starting 'node'
+917	ID:4	Adding prefix fe80::length 64, vlifetime 0
+917	ID:3	I'm the Node.
+919	ID:4	# Print interface address list: 
+922	ID:10	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+923	ID:4	# Address 1: ::  state: 0  type: 0  isused: 0
+924	ID:10	Init of IPv6 data structures
+926	ID:10	16 neighbors
+926	ID:4	# Address 2: ::  state: 0  type: 0  isused: 0
+927	ID:10	2 default routers
+928	ID:10	3 prefixes
+928	ID:10	16 routes
+930	ID:10	3 unicast addresses
+931	ID:10	4 multicast addresses
+932	ID:4	# Address 3: fe80::ff:fe00:404  state: 1  type: 1  isused: 1
+933	ID:10	0 anycast addresses
+933	ID:4	Starting 'node'
+934	ID:4	I'm the Node.
+937	ID:10	Adding prefix fe80::length 64, vlifetime 0
+940	ID:10	# Print interface address list: 
+943	ID:10	# Address 1: ::  state: 0  type: 0  isused: 0
+947	ID:10	# Address 2: ::  state: 0  type: 0  isused: 0
+952	ID:10	# Address 3: fe80::ff:fe00:a0a  state: 1  type: 1  isused: 1
+954	ID:10	Starting 'node'
+955	ID:10	I'm the Node.
+1154	ID:2	Rime started with address 2.2
+1165	ID:2	Short MAC 0202 MAC 00:12:74:02:00:02:02:02 Contiki-3.x-3153-g01bafba64 started. Node id is set to 2.
+1165	ID:9	Rime started with address 9.9
+1173	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1176	ID:9	Short MAC 0909 MAC 00:12:74:09:00:09:09:09 Contiki-3.x-3153-g01bafba64 started. Node id is set to 9.
+1176	ID:2	Init of IPv6 data structures
+1177	ID:2	16 neighbors
+1178	ID:2	2 default routers
+1179	ID:2	3 prefixes
+1180	ID:2	16 routes
+1181	ID:2	3 unicast addresses
+1183	ID:2	5 multicast addresses
+1184	ID:9	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1184	ID:2	2 anycast addresses
+1187	ID:9	Init of IPv6 data structures
+1188	ID:9	16 neighbors
+1189	ID:9	2 default routers
+1190	ID:2	# Initial registration list
+1190	ID:9	3 prefixes
+1191	ID:9	16 routes
+1192	ID:9	3 unicast addresses
+1194	ID:9	4 multicast addresses
+1195	ID:9	0 anycast addresses
+1200	ID:9	Adding prefix fe80::length 64, vlifetime 0
+1202	ID:9	# Print interface address list: 
+1203	ID:2	[ MAC 00:12:74:02:00:02:02:02   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0111aeccd1b2020200a2bb879de20202 ]
+1206	ID:9	# Address 1: ::  state: 0  type: 0  isused: 0
+1209	ID:9	# Address 2: ::  state: 0  type: 0  isused: 0
+1215	ID:9	# Address 3: fe80::ff:fe00:909  state: 1  type: 1  isused: 1
+1216	ID:9	Starting 'node'
+1217	ID:2	[ MAC 00:12:74:03:00:03:03:03   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0222df0200c3192a12b3cc42aefef203 ]
+1217	ID:9	I'm the Node.
+1230	ID:2	[ MAC 00:12:74:04:00:04:04:04   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0333df0200c3192a12b3cc42aefef203 ]
+1244	ID:2	[ MAC 00:12:74:05:00:05:05:05   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0444df0200c3192a12b3cc42aefef203 ]
+1258	ID:2	[ MAC 00:12:74:06:00:06:06:06   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0555df0200c3192a12b3cc42aefef203 ]
+1268	ID:5	Rime started with address 5.5
+1271	ID:2	[ MAC 00:12:74:07:00:07:07:07   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0666df0200c3192a12b3cc42aefef203 ]
+1279	ID:5	Short MAC 0505 MAC 00:12:74:05:00:05:05:05 Contiki-3.x-3153-g01bafba64 started. Node id is set to 5.
+1285	ID:2	[ MAC 00:12:74:08:00:08:08:08   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0777df0200c3192a12b3cc42aefef203 ]
+1287	ID:2	#list of authorized node
+1288	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1290	ID:5	Init of IPv6 data structures
+1292	ID:5	16 neighbors
+1293	ID:5	2 default routers
+1294	ID:5	3 prefixes
+1294	ID:5	16 routes
+1296	ID:5	3 unicast addresses
+1297	ID:5	4 multicast addresses
+1298	ID:2	MAC:00:12:74:02:00:02:02:02  KEY:0111aeccd1b2020200a2bb879de20202
+1299	ID:5	0 anycast addresses
+1303	ID:5	Adding prefix fe80::length 64, vlifetime 0
+1306	ID:5	# Print interface address list: 
+1307	ID:2	MAC:00:12:74:03:00:03:03:03  KEY:0222df0200c3192a12b3cc42aefef203
+1309	ID:5	# Address 1: ::  state: 0  type: 0  isused: 0
+1313	ID:5	# Address 2: ::  state: 0  type: 0  isused: 0
+1317	ID:2	MAC:00:12:74:04:00:04:04:04  KEY:0333df0200c3192a12b3cc42aefef203
+1318	ID:5	# Address 3: fe80::ff:fe00:505  state: 1  type: 1  isused: 1
+1320	ID:5	Starting 'node'
+1321	ID:5	I'm the Node.
+1326	ID:2	MAC:00:12:74:05:00:05:05:05  KEY:0444df0200c3192a12b3cc42aefef203
+1336	ID:2	MAC:00:12:74:06:00:06:06:06  KEY:0555df0200c3192a12b3cc42aefef203
+1345	ID:2	MAC:00:12:74:07:00:07:07:07  KEY:0666df0200c3192a12b3cc42aefef203
+1355	ID:2	MAC:00:12:74:08:00:08:08:08  KEY:0777df0200c3192a12b3cc42aefef203
+1359	ID:2	Adding prefix fe80::length 64, vlifetime 0
+1362	ID:2	# Print interface address list: 
+1365	ID:2	# Address 1: ::  state: 0  type: 0  isused: 0
+1368	ID:2	# Address 2: ::  state: 0  type: 0  isused: 0
+1374	ID:2	# Address 3: fe80::ff:fe00:202  state: 1  type: 1  isused: 1
+1376	ID:2	Starting 'mch'
+1377	ID:2	I'm the MCH.
+23939	ID:2	Sending mch_new 0
+23944	ID:2	@ Sending mch_new to ff02::2 from fe80::ff:fe00:202
+23966	ID:1	Received mch_new from fe80::ff:fe00:202 to ff02::2
+23973	ID:1	Adding neighbor with ip addr fe80::ff:fe00:202 link addr 02:02 state 2
+23980	ID:1	Sending MCH_new_ack to fe80::ff:fe00:202 from fe80::ff:fe00:101
+23982	ID:6	contikimac: data (57)
+23983	ID:1	next hop is fe80::ff:fe00:202
+23990	ID:8	contikimac: data (57)
+24011	ID:3	contikimac: data (57)
+24028	ID:4	contikimac: data (57)
+24032	ID:12	contikimac: data (57)
+24042	ID:5	contikimac: data (57)
+24046	ID:11	contikimac: data (57)
+24049	ID:10	contikimac: data (57)
+24063	ID:9	contikimac: data (57)
+24071	ID:7	contikimac: data (57)
+24172	ID:10	ContikiMAC: ignored ack
+24180	ID:2	Received MCH_new_ack from fe80::ff:fe00:101 to fe80::ff:fe00:202
+24186	ID:2	Adding neighbor with ip addr fe80::ff:fe00:101 link addr 01:01 state 2
+24188	ID:2	uip_ds6_defrt_add
+24193	ID:2	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:101
+24200	ID:2	Sending ClusterID_req to fe80::ff:fe00:101 from fe80::ff:fe00:202
+24203	ID:2	next hop is fe80::ff:fe00:101
+24343	ID:1	Received ClusterID_req from fe80::ff:fe00:202 to fe80::ff:fe00:101
+24349	ID:1	Sending ClusterID_alloc to ff02::1 from fe80::ff:fe00:101
+24387	ID:3	contikimac: data (70)
+24390	ID:3	contikimac: failed to parse (0)
+24406	ID:4	contikimac: data (70)
+24410	ID:4	contikimac: failed to parse (0)
+24410	ID:12	contikimac: data (70)
+24414	ID:12	contikimac: failed to parse (0)
+24418	ID:5	contikimac: data (70)
+24422	ID:5	contikimac: failed to parse (0)
+24422	ID:11	contikimac: data (70)
+24426	ID:10	contikimac: data (70)
+24429	ID:10	contikimac: failed to parse (0)
+24431	ID:2	Received ClusterID_alloc from fe80::ff:fe00:101 to ff02::1
+24434	ID:2	Processing PREFIX option in ClusterID_alloc
+24438	ID:9	contikimac: data (70)
+24439	ID:2	Adding prefix 2001:da8::length 64, vlifetime 600
+24441	ID:9	contikimac: failed to parse (0)
+24444	ID:2	2001:da8::ff:fe00:202 MCH->Complete address configuration.
+24445	ID:7	contikimac: data (70)
+24447	ID:2	Processing SLLAO option in ClusterID_alloc
+24449	ID:7	contikimac: failed to parse (0)
+24450	ID:2	Processing MTU option in ClusterID_alloc
+24457	ID:2	Sending MCH_addr_parameter to ff02::1 from fe80::ff:fe00:202
+24485	ID:6	contikimac: data (70)
+24488	ID:6	contikimac: failed to parse (0)
+24489	ID:8	contikimac: data (70)
+24492	ID:8	contikimac: failed to parse (0)
+24609	ID:6	contikimac: data (70)
+24613	ID:8	contikimac: data (70)
+24616	ID:6	Received MCH_addr_parameter from fe80::ff:fe00:202 to ff02::1
+24619	ID:6	Processing PREFIX option in MCH_addr_parameter
+24620	ID:8	Received MCH_addr_parameter from fe80::ff:fe00:202 to ff02::1
+24624	ID:8	Processing PREFIX option in MCH_addr_parameter
+24624	ID:6	Adding prefix 2001:da8::length 64, vlifetime 23
+24628	ID:8	Adding prefix 2001:da8::length 64, vlifetime 23
+24629	ID:6	2001:da8::ff:fe00:606@ CM->Complete address configuration.
+24633	ID:6	Processing SLLAO option in MCH_addr_parameter
+24634	ID:8	2001:da8::ff:fe00:808@ CM->Complete address configuration.
+24637	ID:3	contikimac: data (70)
+24637	ID:8	Processing SLLAO option in MCH_addr_parameter
+24639	ID:6	Adding neighbor with ip addr fe80::ff:fe00:202 link addr 02:02 state 2
+24642	ID:6	Processing MTU option in MCH_addr_parameter
+24644	ID:6	uip_ds6_defrt_add
+24644	ID:3	Received MCH_addr_parameter from fe80::ff:fe00:202 to ff02::1
+24644	ID:8	Adding neighbor with ip addr fe80::ff:fe00:202 link addr 02:02 state 2
+24647	ID:8	Processing MTU option in MCH_addr_parameter
+24647	ID:3	Processing PREFIX option in MCH_addr_parameter
+24648	ID:8	uip_ds6_defrt_add
+24649	ID:6	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:202
+24652	ID:3	Adding prefix 2001:da8::length 64, vlifetime 23
+24653	ID:8	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:202
+24654	ID:6	contikimac: radio is turned off
+24656	ID:4	contikimac: data (70)
+24657	ID:6	contikimac: failed to parse (0)
+24657	ID:3	2001:da8::ff:fe00:303@ CM->Complete address configuration.
+24659	ID:8	contikimac: radio is turned off
+24660	ID:12	contikimac: data (70)
+24660	ID:3	Processing SLLAO option in MCH_addr_parameter
+24661	ID:8	contikimac: failed to parse (0)
+24663	ID:4	Received MCH_addr_parameter from fe80::ff:fe00:202 to ff02::1
+24664	ID:5	contikimac: data (70)
+24667	ID:4	Processing PREFIX option in MCH_addr_parameter
+24667	ID:12	Received MCH_addr_parameter from fe80::ff:fe00:202 to ff02::1
+24667	ID:3	Adding neighbor with ip addr fe80::ff:fe00:202 link addr 02:02 state 2
+24668	ID:11	contikimac: data (70)
+24670	ID:3	Processing MTU option in MCH_addr_parameter
+24670	ID:12	Processing PREFIX option in MCH_addr_parameter
+24671	ID:5	Received MCH_addr_parameter from fe80::ff:fe00:202 to ff02::1
+24671	ID:4	Adding prefix 2001:da8::length 64, vlifetime 23
+24672	ID:3	uip_ds6_defrt_add
+24674	ID:5	Processing PREFIX option in MCH_addr_parameter
+24675	ID:12	Adding prefix 2001:da8::length 64, vlifetime 23
+24676	ID:11	Received MCH_addr_parameter from fe80::ff:fe00:202 to ff02::1
+24676	ID:10	contikimac: data (70)
+24677	ID:4	2001:da8::ff:fe00:404@ CM->Complete address configuration.
+24677	ID:3	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:202
+24679	ID:11	Processing PREFIX option in MCH_addr_parameter
+24679	ID:5	Adding prefix 2001:da8::length 64, vlifetime 23
+24680	ID:4	Processing SLLAO option in MCH_addr_parameter
+24681	ID:12	2001:da8::ff:fe00:c0c@ CM->Complete address configuration.
+24682	ID:3	contikimac: radio is turned off
+24683	ID:10	Received MCH_addr_parameter from fe80::ff:fe00:202 to ff02::1
+24683	ID:11	Adding prefix 2001:da8::length 64, vlifetime 23
+24684	ID:12	Processing SLLAO option in MCH_addr_parameter
+24685	ID:5	2001:da8::ff:fe00:505@ CM->Complete address configuration.
+24686	ID:10	Processing PREFIX option in MCH_addr_parameter
+24687	ID:4	Adding neighbor with ip addr fe80::ff:fe00:202 link addr 02:02 state 2
+24688	ID:9	contikimac: data (70)
+24688	ID:5	Processing SLLAO option in MCH_addr_parameter
+24689	ID:11	2001:da8::ff:fe00:b0b@ CM->Complete address configuration.
+24690	ID:4	Processing MTU option in MCH_addr_parameter
+24691	ID:12	Adding neighbor with ip addr fe80::ff:fe00:202 link addr 02:02 state 2
+24691	ID:10	Adding prefix 2001:da8::length 64, vlifetime 23
+24691	ID:4	uip_ds6_defrt_add
+24692	ID:11	Processing SLLAO option in MCH_addr_parameter
+24694	ID:12	Processing MTU option in MCH_addr_parameter
+24695	ID:9	Received MCH_addr_parameter from fe80::ff:fe00:202 to ff02::1
+24695	ID:5	Adding neighbor with ip addr fe80::ff:fe00:202 link addr 02:02 state 2
+24695	ID:12	uip_ds6_defrt_add
+24695	ID:7	contikimac: data (70)
+24696	ID:4	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:202
+24696	ID:10	2001:da8::ff:fe00:a0a@ CM->Complete address configuration.
+24698	ID:5	Processing MTU option in MCH_addr_parameter
+24698	ID:9	Processing PREFIX option in MCH_addr_parameter
+24699	ID:5	uip_ds6_defrt_add
+24699	ID:11	Adding neighbor with ip addr fe80::ff:fe00:202 link addr 02:02 state 2
+24700	ID:10	Processing SLLAO option in MCH_addr_parameter
+24700	ID:12	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:202
+24702	ID:4	contikimac: radio is turned off
+24702	ID:11	Processing MTU option in MCH_addr_parameter
+24703	ID:7	Received MCH_addr_parameter from fe80::ff:fe00:202 to ff02::1
+24703	ID:9	Adding prefix 2001:da8::length 64, vlifetime 23
+24703	ID:11	uip_ds6_defrt_add
+24704	ID:5	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:202
+24706	ID:12	contikimac: radio is turned off
+24706	ID:7	Processing PREFIX option in MCH_addr_parameter
+24706	ID:10	Adding neighbor with ip addr fe80::ff:fe00:202 link addr 02:02 state 2
+24708	ID:9	2001:da8::ff:fe00:909@ CM->Complete address configuration.
+24709	ID:11	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:202
+24709	ID:10	Processing MTU option in MCH_addr_parameter
+24710	ID:5	contikimac: radio is turned off
+24711	ID:7	Adding prefix 2001:da8::length 64, vlifetime 23
+24711	ID:10	uip_ds6_defrt_add
+24711	ID:9	Processing SLLAO option in MCH_addr_parameter
+24714	ID:11	contikimac: radio is turned off
+24716	ID:10	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:202
+24716	ID:7	2001:da8::ff:fe00:707@ CM->Complete address configuration.
+24718	ID:9	Adding neighbor with ip addr fe80::ff:fe00:202 link addr 02:02 state 2
+24719	ID:7	Processing SLLAO option in MCH_addr_parameter
+24721	ID:9	Processing MTU option in MCH_addr_parameter
+24721	ID:10	contikimac: radio is turned off
+24722	ID:9	uip_ds6_defrt_add
+24726	ID:7	Adding neighbor with ip addr fe80::ff:fe00:202 link addr 02:02 state 2
+24728	ID:9	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:202
+24729	ID:7	Processing MTU option in MCH_addr_parameter
+24730	ID:7	uip_ds6_defrt_add
+24733	ID:9	contikimac: radio is turned off
+24736	ID:7	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:202
+24741	ID:7	contikimac: radio is turned off
+33941	ID:2	Defrt, IP address fe80::ff:fe00:101
+33945	ID:2	Defrt found, IP address fe80::ff:fe00:101
+33949	ID:2	Defrt, IP address fe80::ff:fe00:101
+33953	ID:2	Defrt found, IP address fe80::ff:fe00:101
+33955	ID:2	Router found ? (boolean): 1

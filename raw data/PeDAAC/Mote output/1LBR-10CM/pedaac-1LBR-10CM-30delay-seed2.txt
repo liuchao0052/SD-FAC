@@ -1,0 +1,825 @@
+459	ID:9	Rime started with address 9.9
+470	ID:9	Short MAC 0909 MAC 00:12:74:09:00:09:09:09 Contiki-3.x-3153-g01bafba64 started. Node id is set to 9.
+479	ID:9	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+481	ID:9	Init of IPv6 data structures
+483	ID:9	16 neighbors
+484	ID:9	2 default routers
+485	ID:9	3 prefixes
+485	ID:9	16 routes
+487	ID:9	3 unicast addresses
+488	ID:9	4 multicast addresses
+490	ID:9	0 anycast addresses
+494	ID:9	Adding prefix fe80::length 64, vlifetime 0
+497	ID:9	# Print interface address list: 
+500	ID:9	# Address 1: ::  state: 0  type: 0  isused: 0
+501	ID:8	Rime started with address 8.8
+504	ID:9	# Address 2: ::  state: 0  type: 0  isused: 0
+509	ID:11	Rime started with address 11.11
+509	ID:9	# Address 3: fe80::ff:fe00:909  state: 1  type: 1  isused: 1
+511	ID:9	Starting 'node'
+512	ID:8	Short MAC 0808 MAC 00:12:74:08:00:08:08:08 Contiki-3.x-3153-g01bafba64 started. Node id is set to 8.
+512	ID:9	I'm the Node.
+520	ID:11	Short MAC 0b0b MAC 00:12:74:0b:00:0b:0b:0b Contiki-3.x-3153-g01bafba64 started. Node id is set to 11.
+520	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+523	ID:8	Init of IPv6 data structures
+524	ID:8	16 neighbors
+526	ID:8	2 default routers
+526	ID:8	3 prefixes
+527	ID:8	16 routes
+527	ID:1	Rime started with address 1.1
+528	ID:11	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+529	ID:8	3 unicast addresses
+530	ID:8	4 multicast addresses
+531	ID:11	Init of IPv6 data structures
+532	ID:8	0 anycast addresses
+532	ID:11	16 neighbors
+534	ID:11	2 default routers
+534	ID:11	3 prefixes
+535	ID:11	16 routes
+536	ID:8	Adding prefix fe80::length 64, vlifetime 0
+537	ID:11	3 unicast addresses
+538	ID:1	Short MAC 0101 MAC 00:12:74:01:00:01:01:01 Contiki-3.x-3153-g01bafba64 started. Node id is set to 1.
+538	ID:11	4 multicast addresses
+539	ID:8	# Print interface address list: 
+540	ID:11	0 anycast addresses
+542	ID:8	# Address 1: ::  state: 0  type: 0  isused: 0
+544	ID:11	Adding prefix fe80::length 64, vlifetime 0
+545	ID:8	# Address 2: ::  state: 0  type: 0  isused: 0
+546	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+547	ID:11	# Print interface address list: 
+549	ID:1	Init of IPv6 data structures
+550	ID:11	# Address 1: ::  state: 0  type: 0  isused: 0
+550	ID:1	16 neighbors
+551	ID:8	# Address 3: fe80::ff:fe00:808  state: 1  type: 1  isused: 1
+552	ID:1	2 default routers
+552	ID:1	3 prefixes
+553	ID:8	Starting 'node'
+553	ID:1	16 routes
+553	ID:11	# Address 2: ::  state: 0  type: 0  isused: 0
+554	ID:8	I'm the Node.
+555	ID:1	3 unicast addresses
+556	ID:1	5 multicast addresses
+558	ID:1	2 anycast addresses
+559	ID:11	# Address 3: fe80::ff:fe00:b0b  state: 1  type: 1  isused: 1
+561	ID:11	Starting 'node'
+562	ID:11	I'm the Node.
+563	ID:1	# Initial registration list
+577	ID:1	[ MAC 00:12:74:02:00:02:02:02   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0111aeccd1b2020200a2bb879de20202 ]
+590	ID:1	[ MAC 00:12:74:03:00:03:03:03   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0222df0200c3192a12b3cc42aefef203 ]
+604	ID:1	[ MAC 00:12:74:04:00:04:04:04   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0333df0200c3192a12b3cc42aefef203 ]
+618	ID:1	[ MAC 00:12:74:05:00:05:05:05   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0444df0200c3192a12b3cc42aefef203 ]
+631	ID:1	[ MAC 00:12:74:06:00:06:06:06   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0555df0200c3192a12b3cc42aefef203 ]
+645	ID:1	[ MAC 00:12:74:07:00:07:07:07   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0666df0200c3192a12b3cc42aefef203 ]
+658	ID:1	[ MAC 00:12:74:08:00:08:08:08   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0777df0200c3192a12b3cc42aefef203 ]
+660	ID:1	#list of authorized node
+671	ID:1	MAC:00:12:74:02:00:02:02:02  KEY:0111aeccd1b2020200a2bb879de20202
+681	ID:1	MAC:00:12:74:03:00:03:03:03  KEY:0222df0200c3192a12b3cc42aefef203
+690	ID:1	MAC:00:12:74:04:00:04:04:04  KEY:0333df0200c3192a12b3cc42aefef203
+700	ID:1	MAC:00:12:74:05:00:05:05:05  KEY:0444df0200c3192a12b3cc42aefef203
+709	ID:1	MAC:00:12:74:06:00:06:06:06  KEY:0555df0200c3192a12b3cc42aefef203
+719	ID:1	MAC:00:12:74:07:00:07:07:07  KEY:0666df0200c3192a12b3cc42aefef203
+728	ID:1	MAC:00:12:74:08:00:08:08:08  KEY:0777df0200c3192a12b3cc42aefef203
+735	ID:1	Adding prefix fe80::length 64, flags 0, Valid lifetime 0, Preffered lifetime 0
+744	ID:1	Adding prefix 2001:da8::length 64, flags c0, Valid lifetime 258, Preffered lifetime 258
+747	ID:1	# Print interface address list: 
+750	ID:1	# Address 1: ::  state: 0  type: 0  isused: 0
+755	ID:7	Rime started with address 7.7
+756	ID:1	# Address 2: 2001:da8::ff:fe00:101  state: 1  type: 1  isused: 1
+762	ID:1	# Address 3: fe80::ff:fe00:12  state: 1  type: 1  isused: 1
+764	ID:1	Starting 'lbr'
+765	ID:1	I'm the 6LBR.
+766	ID:7	Short MAC 0707 MAC 00:12:74:07:00:07:07:07 Contiki-3.x-3153-g01bafba64 started. Node id is set to 7.
+775	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+775	ID:2	Rime started with address 2.2
+778	ID:7	Init of IPv6 data structures
+779	ID:7	16 neighbors
+780	ID:7	2 default routers
+781	ID:7	3 prefixes
+782	ID:7	16 routes
+783	ID:7	3 unicast addresses
+784	ID:7	4 multicast addresses
+786	ID:7	0 anycast addresses
+786	ID:2	Short MAC 0202 MAC 00:12:74:02:00:02:02:02 Contiki-3.x-3153-g01bafba64 started. Node id is set to 2.
+791	ID:7	Adding prefix fe80::length 64, vlifetime 0
+793	ID:7	# Print interface address list: 
+795	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+796	ID:7	# Address 1: ::  state: 0  type: 0  isused: 0
+797	ID:2	Init of IPv6 data structures
+798	ID:2	16 neighbors
+800	ID:2	2 default routers
+800	ID:7	# Address 2: ::  state: 0  type: 0  isused: 0
+800	ID:2	3 prefixes
+801	ID:2	16 routes
+803	ID:2	3 unicast addresses
+804	ID:2	4 multicast addresses
+805	ID:7	# Address 3: fe80::ff:fe00:707  state: 1  type: 1  isused: 1
+806	ID:2	0 anycast addresses
+807	ID:7	Starting 'node'
+808	ID:7	I'm the Node.
+810	ID:2	Adding prefix fe80::length 64, vlifetime 0
+813	ID:2	# Print interface address list: 
+815	ID:3	Rime started with address 3.3
+816	ID:2	# Address 1: ::  state: 0  type: 0  isused: 0
+820	ID:2	# Address 2: ::  state: 0  type: 0  isused: 0
+825	ID:2	# Address 3: fe80::ff:fe00:202  state: 1  type: 1  isused: 1
+826	ID:3	Short MAC 0303 MAC 00:12:74:03:00:03:03:03 Contiki-3.x-3153-g01bafba64 started. Node id is set to 3.
+827	ID:2	Starting 'node'
+828	ID:2	I'm the Node.
+834	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+837	ID:3	Init of IPv6 data structures
+838	ID:3	16 neighbors
+839	ID:3	2 default routers
+840	ID:3	3 prefixes
+841	ID:3	16 routes
+842	ID:3	3 unicast addresses
+844	ID:3	4 multicast addresses
+845	ID:3	0 anycast addresses
+850	ID:3	Adding prefix fe80::length 64, vlifetime 0
+852	ID:3	# Print interface address list: 
+856	ID:3	# Address 1: ::  state: 0  type: 0  isused: 0
+859	ID:3	# Address 2: ::  state: 0  type: 0  isused: 0
+865	ID:3	# Address 3: fe80::ff:fe00:303  state: 1  type: 1  isused: 1
+867	ID:3	Starting 'node'
+868	ID:3	I'm the Node.
+983	ID:10	Rime started with address 10.10
+994	ID:10	Short MAC 0a0a MAC 00:12:74:0a:00:0a:0a:0a Contiki-3.x-3153-g01bafba64 started. Node id is set to 10.
+1003	ID:10	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1006	ID:10	Init of IPv6 data structures
+1007	ID:10	16 neighbors
+1008	ID:10	2 default routers
+1009	ID:10	3 prefixes
+1010	ID:10	16 routes
+1011	ID:10	3 unicast addresses
+1013	ID:10	4 multicast addresses
+1014	ID:10	0 anycast addresses
+1019	ID:10	Adding prefix fe80::length 64, vlifetime 0
+1021	ID:10	# Print interface address list: 
+1024	ID:10	# Address 1: ::  state: 0  type: 0  isused: 0
+1028	ID:10	# Address 2: ::  state: 0  type: 0  isused: 0
+1033	ID:10	# Address 3: fe80::ff:fe00:a0a  state: 1  type: 1  isused: 1
+1035	ID:10	Starting 'node'
+1036	ID:10	I'm the Node.
+1161	ID:5	Rime started with address 5.5
+1171	ID:5	Short MAC 0505 MAC 00:12:74:05:00:05:05:05 Contiki-3.x-3153-g01bafba64 started. Node id is set to 5.
+1180	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1183	ID:5	Init of IPv6 data structures
+1184	ID:5	16 neighbors
+1185	ID:5	2 default routers
+1186	ID:5	3 prefixes
+1187	ID:5	16 routes
+1188	ID:5	3 unicast addresses
+1190	ID:5	4 multicast addresses
+1191	ID:5	0 anycast addresses
+1196	ID:4	Rime started with address 4.4
+1196	ID:5	Adding prefix fe80::length 64, vlifetime 0
+1198	ID:5	# Print interface address list: 
+1201	ID:5	# Address 1: ::  state: 0  type: 0  isused: 0
+1205	ID:5	# Address 2: ::  state: 0  type: 0  isused: 0
+1206	ID:4	Short MAC 0404 MAC 00:12:74:04:00:04:04:04 Contiki-3.x-3153-g01bafba64 started. Node id is set to 4.
+1211	ID:5	# Address 3: fe80::ff:fe00:505  state: 1  type: 1  isused: 1
+1212	ID:5	Starting 'node'
+1213	ID:5	I'm the Node.
+1215	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1218	ID:4	Init of IPv6 data structures
+1219	ID:4	16 neighbors
+1220	ID:4	2 default routers
+1221	ID:4	3 prefixes
+1222	ID:4	16 routes
+1223	ID:4	3 unicast addresses
+1225	ID:4	4 multicast addresses
+1226	ID:4	0 anycast addresses
+1231	ID:4	Adding prefix fe80::length 64, vlifetime 0
+1233	ID:4	# Print interface address list: 
+1236	ID:4	# Address 1: ::  state: 0  type: 0  isused: 0
+1240	ID:4	# Address 2: ::  state: 0  type: 0  isused: 0
+1245	ID:6	Rime started with address 6.6
+1246	ID:4	# Address 3: fe80::ff:fe00:404  state: 1  type: 1  isused: 1
+1247	ID:4	Starting 'node'
+1248	ID:4	I'm the Node.
+1256	ID:6	Short MAC 0606 MAC 00:12:74:06:00:06:06:06 Contiki-3.x-3153-g01bafba64 started. Node id is set to 6.
+1264	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1267	ID:6	Init of IPv6 data structures
+1268	ID:6	16 neighbors
+1269	ID:6	2 default routers
+1270	ID:6	3 prefixes
+1271	ID:6	16 routes
+1272	ID:6	3 unicast addresses
+1274	ID:6	4 multicast addresses
+1275	ID:6	0 anycast addresses
+1280	ID:6	Adding prefix fe80::length 64, vlifetime 0
+1282	ID:6	# Print interface address list: 
+1286	ID:6	# Address 1: ::  state: 0  type: 0  isused: 0
+1289	ID:6	# Address 2: ::  state: 0  type: 0  isused: 0
+1295	ID:6	# Address 3: fe80::ff:fe00:606  state: 1  type: 1  isused: 1
+1297	ID:6	Starting 'node'
+1298	ID:6	I'm the Node.
+2515	ID:9	Powertrace 2263 64984 0 416
+2557	ID:8	Powertrace 2263 64984 0 416
+2564	ID:11	Powertrace 2278 64969 0 416
+2788	ID:1	Powertrace 288 P 1.1 0 8276 65114 0 442 0 442 8276 65114 0 442 0 442 (radio 0.60% / 0.60% tx 0.00% / 0.00% listen 0.60% / 0.60%)
+2811	ID:7	Powertrace 2263 64984 0 416
+2831	ID:2	Powertrace 2263 64984 0 416
+2870	ID:3	Powertrace 2263 64984 0 416
+3038	ID:10	Powertrace 2278 64969 0 416
+3216	ID:5	Powertrace 2263 64984 0 416
+3251	ID:4	Powertrace 2263 64984 0 416
+3300	ID:6	Powertrace 2263 64984 0 416
+4515	ID:9	Powertrace 2872 129911 0 832
+4557	ID:8	Powertrace 2872 129911 0 832
+4564	ID:11	Powertrace 2887 129896 0 832
+4788	ID:1	Powertrace 544 P 1.1 1 9417 129509 0 858 0 858 1138 64395 0 416 0 416 (radio 0.61% / 0.63% tx 0.00% / 0.00% listen 0.61% / 0.63%)
+4811	ID:7	Powertrace 2872 129911 0 832
+4831	ID:2	Powertrace 2872 129911 0 832
+4871	ID:3	Powertrace 2872 129911 0 832
+5039	ID:10	Powertrace 2887 129896 0 832
+5216	ID:5	Powertrace 2872 129911 0 832
+5251	ID:4	Powertrace 2872 129911 0 832
+5301	ID:6	Powertrace 2872 129911 0 832
+6516	ID:9	Powertrace 3504 194826 0 1248
+6558	ID:8	Powertrace 3504 194826 0 1248
+6565	ID:11	Powertrace 3519 194811 0 1248
+6789	ID:1	Powertrace 800 P 1.1 2 10586 193876 0 1274 0 1274 1166 64367 0 416 0 416 (radio 0.62% / 0.63% tx 0.00% / 0.00% listen 0.62% / 0.63%)
+6812	ID:7	Powertrace 3504 194826 0 1248
+6832	ID:2	Powertrace 3504 194826 0 1248
+6871	ID:3	Powertrace 3504 194826 0 1248
+7039	ID:10	Powertrace 3519 194811 0 1248
+7217	ID:5	Powertrace 3504 194826 0 1248
+7252	ID:4	Powertrace 3504 194826 0 1248
+7301	ID:6	Powertrace 3504 194826 0 1248
+8515	ID:9	Powertrace 4137 259718 0 1664
+8557	ID:8	Powertrace 4137 259718 0 1664
+8565	ID:11	Powertrace 4152 259703 0 1664
+8790	ID:1	Powertrace 1056 P 1.1 3 11778 258220 0 1690 0 1690 1189 64344 0 416 0 416 (radio 0.62% / 0.63% tx 0.00% / 0.00% listen 0.62% / 0.63%)
+8812	ID:7	Powertrace 4137 259718 0 1664
+8831	ID:2	Powertrace 4137 259718 0 1664
+8850	ID:3	Sending node_new 0
+8856	ID:3	Sending node_new to ff02::2 from fe80::ff:fe00:303
+8930	ID:1	Received node_new from fe80::ff:fe00:303 to ff02::2
+8937	ID:1	Adding neighbor with ip addr fe80::ff:fe00:303 link addr 03:03 state 2
+8944	ID:1	Sending Node_new_ack to fe80::ff:fe00:303 from fe80::ff:fe00:12
+8947	ID:1	next hop is fe80::ff:fe00:303
+9004	ID:3	Powertrace 8980 259206 2703 1742
+9039	ID:10	Powertrace 4273 259582 0 1843
+9213	ID:3	uip_ds6_defrt_add
+9217	ID:5	Powertrace 4279 259576 0 2040
+9218	ID:3	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:12
+9225	ID:3	Received Node_new_ack from fe80::ff:fe00:12 to fe80::ff:fe00:303
+9228	ID:3	next hop is fe80::ff:fe00:303
+9231	ID:3	tcpip_ipv6_output: neighbor not in cache
+9252	ID:4	Powertrace 4248 259607 0 1867
+9301	ID:6	Powertrace 4260 259595 0 2022
+10515	ID:9	Powertrace 4890 324501 0 2292
+10557	ID:8	Powertrace 4894 324497 0 2466
+10565	ID:11	Powertrace 4910 324481 0 2487
+10794	ID:1	Powertrace 1312 P 1.1 4 17212 318322 1929 3264 0 2093 5431 60102 1929 1574 0 403 (radio 1.54% / 5.34% tx 0.57% / 2.94% listen 0.97% / 2.40%)
+10812	ID:7	Powertrace 4896 324495 0 2490
+10831	ID:2	Powertrace 4912 324479 0 2451
+10873	ID:3	Powertrace 10381 319010 2703 2347
+11039	ID:10	Powertrace 4906 324485 0 2259
+11217	ID:5	Powertrace 4912 324479 0 2456
+11252	ID:4	Powertrace 4880 324511 0 2283
+11301	ID:6	Powertrace 4893 324498 0 2438
+12024	ID:5	Sending node_new 0
+12029	ID:5	Sending node_new to ff02::2 from fe80::ff:fe00:505
+12054	ID:1	Received node_new from fe80::ff:fe00:505 to ff02::2
+12061	ID:1	Adding neighbor with ip addr fe80::ff:fe00:505 link addr 05:05 state 2
+12068	ID:1	Sending Node_new_ack to fe80::ff:fe00:505 from fe80::ff:fe00:12
+12072	ID:1	next hop is fe80::ff:fe00:505
+12447	ID:7	Sending node_new 0
+12452	ID:7	Sending node_new to ff02::2 from fe80::ff:fe00:707
+12516	ID:9	Powertrace 5792 389146 0 3066
+12555	ID:1	Received node_new from fe80::ff:fe00:707 to ff02::2
+12558	ID:8	Powertrace 5777 389161 0 3256
+12562	ID:1	Adding neighbor with ip addr fe80::ff:fe00:707 link addr 07:07 state 2
+12565	ID:11	Powertrace 5799 389139 0 3306
+12569	ID:1	Sending Node_new_ack to fe80::ff:fe00:707 from fe80::ff:fe00:12
+12572	ID:1	next hop is fe80::ff:fe00:707
+12775	ID:7	uip_ds6_defrt_add
+12781	ID:7	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:12
+12787	ID:7	Received Node_new_ack from fe80::ff:fe00:12 to fe80::ff:fe00:707
+12791	ID:7	next hop is fe80::ff:fe00:707
+12794	ID:7	tcpip_ipv6_output: neighbor not in cache
+12803	ID:1	Powertrace 1569 P 1.1 5 23518 377856 3500 5144 0 2661 6303 59534 1571 1880 0 568 (radio 2.15% / 5.24% tx 0.87% / 2.38% listen 1.28% / 2.85%)
+12813	ID:7	Powertrace 11249 383689 2699 3251
+12832	ID:2	Powertrace 5789 389149 0 3272
+12873	ID:3	Powertrace 11322 383616 2703 3399
+12934	ID:5	uip_ds6_defrt_add
+12939	ID:5	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:12
+12946	ID:5	Received Node_new_ack from fe80::ff:fe00:12 to fe80::ff:fe00:505
+12949	ID:5	next hop is fe80::ff:fe00:505
+12953	ID:5	tcpip_ipv6_output: neighbor not in cache
+13039	ID:10	Powertrace 5810 389128 0 3243
+13219	ID:5	Powertrace 11280 383658 2696 3329
+13252	ID:4	Powertrace 5767 389171 0 3258
+13301	ID:6	Powertrace 5775 389163 0 3443
+14515	ID:9	Powertrace 6425 454038 0 3659
+14557	ID:8	Powertrace 6409 454054 0 4059
+14565	ID:11	Powertrace 6432 454031 0 3899
+14793	ID:1	Powertrace 1824 P 1.1 6 26522 440084 4426 6050 0 3051 3001 62228 926 906 0 390 (radio 2.24% / 2.80% tx 0.94% / 1.41% listen 1.29% / 1.38%)
+14813	ID:7	Powertrace 11935 448528 2699 3864
+14831	ID:2	Powertrace 6437 454026 0 3865
+14873	ID:3	Powertrace 12003 448460 2703 3815
+14979	ID:9	Sending node_new 0
+14984	ID:9	Sending node_new to ff02::2 from fe80::ff:fe00:909
+15039	ID:10	Powertrace 6556 453907 0 3843
+15055	ID:1	Received node_new from fe80::ff:fe00:909 to ff02::2
+15063	ID:1	Adding neighbor with ip addr fe80::ff:fe00:909 link addr 09:09 state 2
+15070	ID:1	Sending Node_new_ack to fe80::ff:fe00:909 from fe80::ff:fe00:12
+15073	ID:1	next hop is fe80::ff:fe00:909
+15218	ID:5	Powertrace 12078 448385 2696 3947
+15233	ID:9	uip_ds6_defrt_add
+15238	ID:9	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:12
+15245	ID:9	Received Node_new_ack from fe80::ff:fe00:12 to fe80::ff:fe00:909
+15248	ID:9	next hop is fe80::ff:fe00:909
+15252	ID:9	tcpip_ipv6_output: neighbor not in cache
+15252	ID:4	Powertrace 6539 453924 0 4062
+15301	ID:6	Powertrace 6534 453929 0 4017
+15856	ID:11	Sending node_new 0
+15862	ID:11	Sending node_new to ff02::2 from fe80::ff:fe00:b0b
+15929	ID:1	Received node_new from fe80::ff:fe00:b0b to ff02::2
+15937	ID:1	Adding neighbor with ip addr fe80::ff:fe00:b0b link addr 0b:0b state 2
+15944	ID:1	Sending Node_new_ack to fe80::ff:fe00:b0b from fe80::ff:fe00:12
+15947	ID:1	next hop is fe80::ff:fe00:b0b
+16156	ID:11	uip_ds6_defrt_add
+16162	ID:11	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:12
+16169	ID:11	Received Node_new_ack from fe80::ff:fe00:12 to fe80::ff:fe00:b0b
+16172	ID:11	next hop is fe80::ff:fe00:b0b
+16175	ID:11	tcpip_ipv6_output: neighbor not in cache
+16517	ID:9	Powertrace 12783 513216 2696 4697
+16557	ID:8	Powertrace 7291 518708 0 5062
+16566	ID:11	Powertrace 12802 513197 2693 4721
+16794	ID:1	Powertrace 2080 P 1.1 7 34886 497256 7286 8431 0 3899 8361 57172 2860 2381 0 848 (radio 2.95% / 7.99% tx 1.36% / 4.36% listen 1.58% / 3.63%)
+16813	ID:7	Powertrace 12900 513099 2699 4832
+16831	ID:2	Powertrace 7326 518673 0 4643
+16873	ID:3	Powertrace 12946 513053 2703 4958
+17039	ID:10	Powertrace 7393 518606 0 4906
+17218	ID:5	Powertrace 12876 513123 2696 4527
+17252	ID:4	Powertrace 7313 518686 0 4837
+17301	ID:6	Powertrace 7299 518700 0 4820
+18517	ID:9	Powertrace 13475 578071 2696 5113
+18558	ID:8	Powertrace 7935 583611 0 5478
+18567	ID:11	Powertrace 13494 578052 2693 5137
+18792	ID:1	Powertrace 2336 P 1.1 8 36241 561437 7286 8847 0 4315 1352 64181 0 416 0 416 (radio 2.69% / 0.63% tx 1.21% / 0.00% listen 1.48% / 0.63%)
+18813	ID:7	Powertrace 13591 577955 2699 5248
+18832	ID:2	Powertrace 7970 583576 0 5059
+18852	ID:3	Defrt, IP address fe80::ff:fe00:12
+18858	ID:3	Defrt INCOMPLETE found, IP address fe80::ff:fe00:12
+18861	ID:3	Defrt, IP address fe80::ff:fe00:12
+18866	ID:3	Defrt INCOMPLETE found, IP address fe80::ff:fe00:12
+18868	ID:3	Router found ? (boolean): 1
+18877	ID:3	Powertrace 14288 577397 2703 5374
+19039	ID:10	Powertrace 8037 583509 0 5322
+19218	ID:5	Powertrace 13567 577979 2696 4943
+19252	ID:4	Powertrace 7957 583589 0 5253
+19301	ID:6	Powertrace 7943 583603 0 5236
+20517	ID:9	Powertrace 14156 642915 2696 5529
+20557	ID:8	Powertrace 8568 648503 0 5894
+20566	ID:11	Powertrace 14174 642897 2693 5553
+20792	ID:1	Powertrace 2592 P 1.1 9 37538 625676 7286 9263 0 4731 1294 64239 0 416 0 416 (radio 2.49% / 0.63% tx 1.09% / 0.00% listen 1.39% / 0.63%)
+20813	ID:7	Powertrace 14272 642799 2699 5664
+20831	ID:2	Powertrace 8603 648468 0 5475
+20873	ID:3	Powertrace 14944 642126 2703 5790
+21039	ID:10	Powertrace 8670 648401 0 5738
+21218	ID:5	Powertrace 14248 642823 2696 5359
+21252	ID:4	Powertrace 8590 648481 0 5669
+21301	ID:6	Powertrace 8576 648495 0 5652
+22026	ID:5	Defrt, IP address fe80::ff:fe00:12
+22032	ID:5	Defrt INCOMPLETE found, IP address fe80::ff:fe00:12
+22035	ID:5	Defrt, IP address fe80::ff:fe00:12
+22040	ID:5	Defrt INCOMPLETE found, IP address fe80::ff:fe00:12
+22042	ID:5	Router found ? (boolean): 1
+22449	ID:7	Defrt, IP address fe80::ff:fe00:12
+22454	ID:7	Defrt INCOMPLETE found, IP address fe80::ff:fe00:12
+22458	ID:7	Defrt, IP address fe80::ff:fe00:12
+22463	ID:7	Defrt INCOMPLETE found, IP address fe80::ff:fe00:12
+22465	ID:7	Router found ? (boolean): 1
+22517	ID:9	Powertrace 14836 707771 2696 5945
+22557	ID:8	Powertrace 9201 713406 0 6310
+22566	ID:11	Powertrace 14854 707753 2693 5969
+22793	ID:1	Powertrace 2848 P 1.1 10 38833 689917 7286 9679 0 5147 1292 64241 0 416 0 416 (radio 2.32% / 0.63% tx 0.99% / 0.00% listen 1.32% / 0.63%)
+22813	ID:7	Powertrace 15599 707007 2699 6080
+22831	ID:2	Powertrace 9236 713371 0 5891
+22873	ID:3	Powertrace 15600 707006 2703 6206
+23039	ID:10	Powertrace 9303 713304 0 6154
+23218	ID:5	Powertrace 15560 707046 2696 5775
+23252	ID:4	Powertrace 9223 713384 0 6085
+23301	ID:6	Powertrace 9209 713398 0 6068
+23396	ID:2	Sending node_new 0
+23402	ID:2	Sending node_new to ff02::2 from fe80::ff:fe00:202
+23431	ID:1	Received node_new from fe80::ff:fe00:202 to ff02::2
+23439	ID:1	Adding neighbor with ip addr fe80::ff:fe00:202 link addr 02:02 state 2
+23446	ID:1	Sending Node_new_ack to fe80::ff:fe00:202 from fe80::ff:fe00:12
+23449	ID:1	next hop is fe80::ff:fe00:202
+23797	ID:2	uip_ds6_defrt_add
+23803	ID:2	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:12
+23809	ID:2	Received Node_new_ack from fe80::ff:fe00:12 to fe80::ff:fe00:202
+23813	ID:2	next hop is fe80::ff:fe00:202
+23816	ID:2	tcpip_ipv6_output: neighbor not in cache
+24517	ID:9	Powertrace 15659 772495 2696 6471
+24558	ID:8	Powertrace 9977 778177 0 7113
+24567	ID:11	Powertrace 15678 772476 2693 6773
+24645	ID:4	Sending node_new 0
+24650	ID:4	Sending node_new to ff02::2 from fe80::ff:fe00:404
+24679	ID:1	Received node_new from fe80::ff:fe00:404 to ff02::2
+24687	ID:1	Adding neighbor with ip addr fe80::ff:fe00:404 link addr 04:04 state 2
+24694	ID:1	Sending Node_new_ack to fe80::ff:fe00:404 from fe80::ff:fe00:12
+24697	ID:1	next hop is fe80::ff:fe00:404
+24794	ID:1	Powertrace 3104 P 1.1 11 44850 749437 8642 11419 0 5674 6014 59520 1356 1740 0 527 (radio 2.52% / 4.72% tx 1.08% / 2.06% listen 1.43% / 2.65%)
+24813	ID:7	Powertrace 16531 771621 2699 7049
+24833	ID:2	Powertrace 15616 772538 2698 6824
+24873	ID:3	Powertrace 16532 771620 2703 7008
+24969	ID:4	uip_ds6_defrt_add
+24974	ID:4	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:12
+24981	ID:4	Received Node_new_ack from fe80::ff:fe00:12 to fe80::ff:fe00:404
+24981	ID:9	Defrt, IP address fe80::ff:fe00:12
+24985	ID:4	next hop is fe80::ff:fe00:404
+24987	ID:9	Defrt INCOMPLETE found, IP address fe80::ff:fe00:12
+24988	ID:4	tcpip_ipv6_output: neighbor not in cache
+24991	ID:9	Defrt, IP address fe80::ff:fe00:12
+24996	ID:9	Defrt INCOMPLETE found, IP address fe80::ff:fe00:12
+24998	ID:9	Router found ? (boolean): 1
+25040	ID:10	Powertrace 10201 777953 0 7172
+25218	ID:5	Powertrace 16487 771665 2696 6755
+25254	ID:4	Powertrace 15603 772551 2690 6981
+25302	ID:6	Powertrace 10112 778042 0 7053
+25858	ID:11	Defrt, IP address fe80::ff:fe00:12
+25864	ID:11	Defrt INCOMPLETE found, IP address fe80::ff:fe00:12
+25868	ID:11	Defrt, IP address fe80::ff:fe00:12
+25873	ID:11	Defrt INCOMPLETE found, IP address fe80::ff:fe00:12
+25875	ID:11	Router found ? (boolean): 1
+26517	ID:9	Powertrace 17123 836555 2696 7067
+26558	ID:8	Powertrace 10746 842933 0 7933
+26566	ID:11	Powertrace 17147 836531 2693 7527
+26795	ID:1	Powertrace 3360 P 1.1 12 49014 810808 10355 12667 0 6104 4161 61371 1713 1248 0 430 (radio 2.67% / 4.51% tx 1.20% / 2.61% listen 1.47% / 1.90%)
+26813	ID:7	Powertrace 17192 836486 2699 7662
+26833	ID:2	Powertrace 16312 837367 2698 7417
+26873	ID:3	Powertrace 17203 836475 2703 7601
+27039	ID:10	Powertrace 10848 842831 0 7588
+27218	ID:5	Powertrace 17143 836535 2696 7171
+27253	ID:4	Powertrace 16284 837395 2690 7397
+27301	ID:6	Powertrace 10759 842920 0 7469
+27522	ID:6	Sending node_new 0
+27528	ID:6	Sending node_new to ff02::2 from fe80::ff:fe00:606
+27553	ID:1	Received node_new from fe80::ff:fe00:606 to ff02::2
+27562	ID:1	Adding neighbor with ip addr fe80::ff:fe00:606 link addr 06:06 state 2
+27568	ID:1	Sending Node_new_ack to fe80::ff:fe00:606 from fe80::ff:fe00:12
+27572	ID:1	next hop is fe80::ff:fe00:606
+27607	ID:8	Sending node_new 0
+27612	ID:8	Sending node_new to ff02::2 from fe80::ff:fe00:808
+27804	ID:1	Received node_new from fe80::ff:fe00:808 to ff02::2
+27812	ID:1	Adding neighbor with ip addr fe80::ff:fe00:808 link addr 08:08 state 2
+27819	ID:1	Sending Node_new_ack to fe80::ff:fe00:808 from fe80::ff:fe00:12
+27822	ID:1	next hop is fe80::ff:fe00:808
+28025	ID:8	uip_ds6_defrt_add
+28030	ID:8	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:12
+28037	ID:8	Received Node_new_ack from fe80::ff:fe00:12 to fe80::ff:fe00:808
+28040	ID:8	next hop is fe80::ff:fe00:808
+28044	ID:8	tcpip_ipv6_output: neighbor not in cache
+28517	ID:9	Powertrace 18060 901154 2696 7869
+28559	ID:8	Powertrace 17323 901892 2695 8785
+28566	ID:11	Powertrace 18077 901137 2693 8378
+28794	ID:1	Powertrace 3616 P 1.1 13 54177 871182 10856 14046 0 6732 5160 60374 501 1379 0 628 (radio 2.69% / 2.86% tx 1.17% / 0.76% listen 1.51% / 2.10%)
+28813	ID:7	Powertrace 18138 901076 2699 8601
+28833	ID:2	Powertrace 17347 901868 2698 8568
+28873	ID:3	Powertrace 18124 901090 2703 8425
+29039	ID:10	Powertrace 11774 907441 0 8343
+29218	ID:5	Powertrace 18073 901141 2696 8026
+29253	ID:4	Powertrace 17230 901985 2690 8258
+29302	ID:6	Powertrace 16359 902856 2699 8356
+29518	ID:6	uip_ds6_defrt_add
+29523	ID:6	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:12
+29530	ID:6	Received Node_new_ack from fe80::ff:fe00:12 to fe80::ff:fe00:606
+29534	ID:6	next hop is fe80::ff:fe00:606
+29537	ID:6	tcpip_ipv6_output: neighbor not in cache
+30517	ID:9	Powertrace 18741 966019 2696 8462
+30559	ID:8	Powertrace 18015 966747 2695 9278
+30566	ID:11	Powertrace 18744 966016 2693 9004
+30573	ID:1	R_addr_parameter_timer expired. Sending Address parameters.
+30577	ID:1	R_addr_parameter_timer expired. Sending Address parameters.
+30583	ID:1	Sending R_addr_parameter to ff02::1 from fe80::ff:fe00:12
+30613	ID:9	Received R_addr_parameter from fe80::ff:fe00:12 to ff02::1
+30617	ID:9	Processing PREFIX option in R_addr_parameter
+30622	ID:9	Adding prefix 2001:da8::length 64, vlifetime 600
+30624	ID:9	Complete address configuration.
+30626	ID:9	Processing SLLAO option in RA
+30634	ID:9	Adding neighbor with ip addr fe80::ff:fe00:12 link addr 01:01 state 2
+30637	ID:9	Processing MTU option in R_addr_parameter
+30638	ID:10	Received R_addr_parameter from fe80::ff:fe00:12 to ff02::1
+30641	ID:10	Processing PREFIX option in R_addr_parameter
+30646	ID:10	Adding prefix 2001:da8::length 64, vlifetime 600
+30648	ID:10	Complete address configuration.
+30649	ID:6	Received R_addr_parameter from fe80::ff:fe00:12 to ff02::1
+30650	ID:10	Processing SLLAO option in RA
+30652	ID:6	Processing PREFIX option in R_addr_parameter
+30653	ID:8	Received R_addr_parameter from fe80::ff:fe00:12 to ff02::1
+30656	ID:8	Processing PREFIX option in R_addr_parameter
+30657	ID:6	Adding prefix 2001:da8::length 64, vlifetime 600
+30657	ID:7	Received R_addr_parameter from fe80::ff:fe00:12 to ff02::1
+30658	ID:10	Adding neighbor with ip addr fe80::ff:fe00:12 link addr 01:01 state 2
+30659	ID:6	Complete address configuration.
+30660	ID:7	Processing PREFIX option in R_addr_parameter
+30661	ID:11	Received R_addr_parameter from fe80::ff:fe00:12 to ff02::1
+30661	ID:8	Adding prefix 2001:da8::length 64, vlifetime 600
+30661	ID:10	Processing MTU option in R_addr_parameter
+30661	ID:6	Processing SLLAO option in RA
+30662	ID:10	uip_ds6_defrt_add
+30663	ID:8	Complete address configuration.
+30664	ID:11	Processing PREFIX option in R_addr_parameter
+30665	ID:8	Processing SLLAO option in RA
+30665	ID:7	Adding prefix 2001:da8::length 64, vlifetime 600
+30667	ID:10	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:12
+30667	ID:7	Complete address configuration.
+30669	ID:11	Adding prefix 2001:da8::length 64, vlifetime 600
+30669	ID:6	Adding neighbor with ip addr fe80::ff:fe00:12 link addr 01:01 state 2
+30669	ID:7	Processing SLLAO option in RA
+30671	ID:11	Complete address configuration.
+30672	ID:6	Processing MTU option in R_addr_parameter
+30673	ID:8	Adding neighbor with ip addr fe80::ff:fe00:12 link addr 01:01 state 2
+30673	ID:11	Processing SLLAO option in RA
+30676	ID:8	Processing MTU option in R_addr_parameter
+30676	ID:2	Received R_addr_parameter from fe80::ff:fe00:12 to ff02::1
+30677	ID:7	Adding neighbor with ip addr fe80::ff:fe00:12 link addr 01:01 state 2
+30680	ID:2	Processing PREFIX option in R_addr_parameter
+30680	ID:7	Processing MTU option in R_addr_parameter
+30681	ID:11	Adding neighbor with ip addr fe80::ff:fe00:12 link addr 01:01 state 2
+30684	ID:11	Processing MTU option in R_addr_parameter
+30685	ID:2	Adding prefix 2001:da8::length 64, vlifetime 600
+30687	ID:2	Complete address configuration.
+30688	ID:5	Received R_addr_parameter from fe80::ff:fe00:12 to ff02::1
+30689	ID:2	Processing SLLAO option in RA
+30691	ID:5	Processing PREFIX option in R_addr_parameter
+30696	ID:5	Adding prefix 2001:da8::length 64, vlifetime 600
+30697	ID:2	Adding neighbor with ip addr fe80::ff:fe00:12 link addr 01:01 state 2
+30699	ID:5	Complete address configuration.
+30699	ID:2	Processing MTU option in R_addr_parameter
+30701	ID:5	Processing SLLAO option in RA
+30708	ID:5	Adding neighbor with ip addr fe80::ff:fe00:12 link addr 01:01 state 2
+30711	ID:5	Processing MTU option in R_addr_parameter
+30720	ID:3	Received R_addr_parameter from fe80::ff:fe00:12 to ff02::1
+30723	ID:3	Processing PREFIX option in R_addr_parameter
+30723	ID:4	Received R_addr_parameter from fe80::ff:fe00:12 to ff02::1
+30727	ID:4	Processing PREFIX option in R_addr_parameter
+30728	ID:3	Adding prefix 2001:da8::length 64, vlifetime 600
+30730	ID:3	Complete address configuration.
+30732	ID:4	Adding prefix 2001:da8::length 64, vlifetime 600
+30732	ID:3	Processing SLLAO option in RA
+30734	ID:4	Complete address configuration.
+30736	ID:4	Processing SLLAO option in RA
+30740	ID:3	Adding neighbor with ip addr fe80::ff:fe00:12 link addr 01:01 state 2
+30742	ID:3	Processing MTU option in R_addr_parameter
+30744	ID:4	Adding neighbor with ip addr fe80::ff:fe00:12 link addr 01:01 state 2
+30746	ID:4	Processing MTU option in R_addr_parameter
+30795	ID:1	Powertrace 3872 P 1.1 14 64755 926139 16336 15750 0 7096 10575 54957 5480 1704 0 364 (radio 3.23% / 10.96% tx 1.64% / 8.36% listen 1.58% / 2.60%)
+30813	ID:7	Powertrace 19884 964876 2699 9198
+30833	ID:2	Powertrace 19125 965635 2698 9336
+30873	ID:3	Powertrace 19870 964890 2703 9275
+30919	ID:10	Defrt, IP address fe80::ff:fe00:12
+30924	ID:10	Defrt found, IP address fe80::ff:fe00:12
+30928	ID:10	Defrt, IP address fe80::ff:fe00:12
+30933	ID:10	Defrt found, IP address fe80::ff:fe00:12
+30935	ID:10	Router found ? (boolean): 1
+30968	ID:3	Received R_addr_parameter from fe80::ff:fe00:12 to ff02::1
+30971	ID:3	Processing PREFIX option in R_addr_parameter
+30976	ID:4	Received R_addr_parameter from fe80::ff:fe00:12 to ff02::1
+30976	ID:3	Updating timer of prefix 2001:da8:: new value 600
+30978	ID:3	Complete address configuration.
+30979	ID:4	Processing PREFIX option in R_addr_parameter
+30980	ID:3	Processing SLLAO option in RA
+30983	ID:3	Processing MTU option in R_addr_parameter
+30984	ID:4	Updating timer of prefix 2001:da8:: new value 600
+30986	ID:4	Complete address configuration.
+30988	ID:9	Received R_addr_parameter from fe80::ff:fe00:12 to ff02::1
+30988	ID:4	Processing SLLAO option in RA
+30991	ID:9	Processing PREFIX option in R_addr_parameter
+30992	ID:4	Processing MTU option in R_addr_parameter
+30996	ID:9	Updating timer of prefix 2001:da8:: new value 600
+30998	ID:9	Complete address configuration.
+31000	ID:9	Processing SLLAO option in RA
+31003	ID:9	Processing MTU option in R_addr_parameter
+31023	ID:6	Received R_addr_parameter from fe80::ff:fe00:12 to ff02::1
+31026	ID:6	Processing PREFIX option in R_addr_parameter
+31031	ID:8	Received R_addr_parameter from fe80::ff:fe00:12 to ff02::1
+31031	ID:6	Updating timer of prefix 2001:da8:: new value 600
+31033	ID:6	Complete address configuration.
+31034	ID:8	Processing PREFIX option in R_addr_parameter
+31035	ID:7	Received R_addr_parameter from fe80::ff:fe00:12 to ff02::1
+31035	ID:6	Processing SLLAO option in RA
+31038	ID:7	Processing PREFIX option in R_addr_parameter
+31039	ID:11	Received R_addr_parameter from fe80::ff:fe00:12 to ff02::1
+31039	ID:8	Updating timer of prefix 2001:da8:: new value 600
+31040	ID:6	Processing MTU option in R_addr_parameter
+31041	ID:8	Complete address configuration.
+31042	ID:11	Processing PREFIX option in R_addr_parameter
+31043	ID:7	Updating timer of prefix 2001:da8:: new value 600
+31043	ID:8	Processing SLLAO option in RA
+31045	ID:7	Complete address configuration.
+31047	ID:11	Updating timer of prefix 2001:da8:: new value 600
+31047	ID:7	Processing SLLAO option in RA
+31047	ID:8	Processing MTU option in R_addr_parameter
+31049	ID:11	Complete address configuration.
+31050	ID:7	Processing MTU option in R_addr_parameter
+31051	ID:11	Processing SLLAO option in RA
+31054	ID:11	Processing MTU option in R_addr_parameter
+31055	ID:2	Received R_addr_parameter from fe80::ff:fe00:12 to ff02::1
+31058	ID:2	Processing PREFIX option in R_addr_parameter
+31062	ID:2	Updating timer of prefix 2001:da8:: new value 600
+31063	ID:5	Received R_addr_parameter from fe80::ff:fe00:12 to ff02::1
+31065	ID:2	Complete address configuration.
+31066	ID:5	Processing PREFIX option in R_addr_parameter
+31067	ID:2	Processing SLLAO option in RA
+31070	ID:2	Processing MTU option in R_addr_parameter
+31070	ID:5	Updating timer of prefix 2001:da8:: new value 600
+31073	ID:5	Complete address configuration.
+31075	ID:5	Processing SLLAO option in RA
+31078	ID:5	Processing MTU option in R_addr_parameter
+31081	ID:10	Powertrace 19177 966915 2839 9281
+31218	ID:5	Powertrace 20668 964092 2696 9001
+31253	ID:4	Powertrace 19863 964897 2690 9326
+31303	ID:6	Powertrace 19791 964969 2699 9423
+32517	ID:9	Powertrace 21324 1028962 2696 9330
+32559	ID:8	Powertrace 20628 1029658 2695 10117
+32566	ID:11	Powertrace 21331 1028955 2693 9841
+32793	ID:1	Powertrace 4128 P 1.1 15 66304 990126 16336 16349 0 7486 1546 63987 0 599 0 390 (radio 3.09% / 0.91% tx 1.54% / 0.00% listen 1.54% / 0.91%)
+32813	ID:7	Powertrace 21393 1028893 2699 9868
+32833	ID:2	Powertrace 20642 1029644 2698 9998
+32873	ID:3	Powertrace 21384 1028902 2703 9900
+33041	ID:10	Powertrace 19868 1030418 2839 9697
+33218	ID:5	Powertrace 21329 1028957 2696 9417
+33253	ID:4	Powertrace 20524 1029762 2690 9742
+33303	ID:6	Powertrace 20453 1029833 2699 9839
+34517	ID:9	Powertrace 21993 1093829 2696 9746
+34559	ID:8	Powertrace 21309 1094513 2695 10533
+34567	ID:11	Powertrace 22000 1093822 2693 10257
+34794	ID:1	Powertrace 4384 P 1.1 16 67628 1054338 16336 16765 0 7902 1321 64212 0 416 0 416 (radio 2.95% / 0.63% tx 1.45% / 0.00% listen 1.49% / 0.63%)
+34814	ID:7	Powertrace 22062 1093760 2699 10284
+34833	ID:2	Powertrace 21311 1094511 2698 10414
+34873	ID:3	Powertrace 22053 1093769 2703 10316
+35041	ID:10	Powertrace 20556 1095266 2839 10113
+35218	ID:5	Powertrace 21998 1093824 2696 9833
+35254	ID:4	Powertrace 21193 1094629 2690 10158
+35303	ID:6	Powertrace 21122 1094700 2699 10255
+36518	ID:9	Powertrace 22673 1158695 2696 10162
+36560	ID:8	Powertrace 22000 1159368 2695 10949
+36567	ID:11	Powertrace 22691 1158677 2693 10673
+36794	ID:1	Powertrace 4640 P 1.1 17 68976 1118526 16336 17181 0 8318 1345 64188 0 416 0 416 (radio 2.82% / 0.63% tx 1.37% / 0.00% listen 1.44% / 0.63%)
+36814	ID:7	Powertrace 22753 1158615 2699 10700
+36834	ID:2	Powertrace 22002 1159366 2698 10830
+36874	ID:3	Powertrace 22744 1158624 2703 10732
+37042	ID:10	Powertrace 21268 1160101 2839 10529
+37219	ID:5	Powertrace 22678 1158690 2696 10249
+37254	ID:4	Powertrace 21884 1159484 2690 10574
+37303	ID:6	Powertrace 21813 1159555 2699 10671
+38518	ID:9	Powertrace 23354 1223540 2696 10578
+38559	ID:8	Powertrace 22681 1224213 2695 11365
+38567	ID:11	Powertrace 23372 1223522 2693 11089
+38794	ID:1	Powertrace 4896 P 1.1 18 70313 1182725 16336 17597 0 8734 1334 64199 0 416 0 416 (radio 2.70% / 0.63% tx 1.30% / 0.00% listen 1.40% / 0.63%)
+38814	ID:7	Powertrace 23434 1223460 2699 11116
+38833	ID:2	Powertrace 22683 1224211 2698 11246
+38873	ID:3	Powertrace 23425 1223469 2703 11148
+39041	ID:10	Powertrace 21968 1224926 2839 10945
+39219	ID:5	Powertrace 23359 1223535 2696 10665
+39254	ID:4	Powertrace 22565 1224329 2690 10990
+39303	ID:6	Powertrace 22494 1224400 2699 11087
+40518	ID:9	Powertrace 24035 1288395 2696 10994
+40559	ID:8	Powertrace 23362 1289068 2695 11781
+40567	ID:11	Powertrace 24053 1288377 2693 11505
+40794	ID:1	Powertrace 5152 P 1.1 19 71651 1246923 16336 18013 0 9150 1335 64198 0 416 0 416 (radio 2.60% / 0.63% tx 1.23% / 0.00% listen 1.36% / 0.63%)
+40814	ID:7	Powertrace 24115 1288315 2699 11532
+40833	ID:2	Powertrace 23364 1289066 2698 11662
+40873	ID:3	Powertrace 24106 1288324 2703 11564
+41041	ID:10	Powertrace 22668 1289762 2839 11361
+41219	ID:5	Powertrace 24040 1288390 2696 11081
+41254	ID:4	Powertrace 23246 1289184 2690 11406
+41303	ID:6	Powertrace 23175 1289255 2699 11503
+42518	ID:9	Powertrace 24726 1353250 2696 11410
+42560	ID:8	Powertrace 24053 1353923 2695 12197
+42567	ID:11	Powertrace 24744 1353232 2693 11921
+42794	ID:1	Powertrace 5408 P 1.1 20 73000 1311110 16336 18429 0 9566 1346 64187 0 416 0 416 (radio 2.51% / 0.63% tx 1.18% / 0.00% listen 1.33% / 0.63%)
+42814	ID:7	Powertrace 24806 1353170 2699 11948
+42834	ID:2	Powertrace 24055 1353921 2698 12078
+42874	ID:3	Powertrace 24797 1353179 2703 11980
+43042	ID:10	Powertrace 23380 1354597 2839 11777
+43219	ID:5	Powertrace 24731 1353245 2696 11497
+43254	ID:4	Powertrace 23937 1354039 2690 11822
+43303	ID:6	Powertrace 23866 1354110 2699 11919
+44518	ID:9	Powertrace 25407 1418095 2696 11826
+44559	ID:8	Powertrace 24734 1418768 2695 12613
+44567	ID:11	Powertrace 25426 1418076 2693 12337
+44794	ID:1	Powertrace 5664 P 1.1 21 74337 1375309 16336 18845 0 9982 1334 64199 0 416 0 416 (radio 2.42% / 0.63% tx 1.12% / 0.00% listen 1.29% / 0.63%)
+44814	ID:7	Powertrace 25487 1418015 2699 12364
+44833	ID:2	Powertrace 24736 1418766 2698 12494
+44873	ID:3	Powertrace 25479 1418023 2703 12396
+45041	ID:10	Powertrace 24080 1419422 2839 12193
+45219	ID:5	Powertrace 25413 1418089 2696 11913
+45254	ID:4	Powertrace 24619 1418883 2690 12238
+45303	ID:6	Powertrace 24548 1418954 2699 12335
+46518	ID:9	Powertrace 26088 1482950 2696 12242
+46559	ID:8	Powertrace 25415 1483623 2695 13029
+46567	ID:11	Powertrace 26107 1482931 2693 12753
+46794	ID:1	Powertrace 5920 P 1.1 22 75674 1439508 16336 19261 0 10398 1334 64199 0 416 0 416 (radio 2.34% / 0.63% tx 1.07% / 0.00% listen 1.27% / 0.63%)
+46814	ID:7	Powertrace 26168 1482870 2699 12780
+46833	ID:2	Powertrace 25417 1483621 2698 12910
+46873	ID:3	Powertrace 26160 1482878 2703 12812
+47041	ID:10	Powertrace 24780 1484258 2839 12609
+47219	ID:5	Powertrace 26094 1482944 2696 12329
+47254	ID:4	Powertrace 25300 1483738 2690 12654
+47303	ID:6	Powertrace 25229 1483809 2699 12751
+48518	ID:9	Powertrace 26779 1547805 2696 12658
+48560	ID:8	Powertrace 26106 1548478 2695 13445
+48567	ID:11	Powertrace 26798 1547786 2693 13169
+48794	ID:1	Powertrace 6176 P 1.1 23 77030 1503688 16336 19677 0 10814 1353 64180 0 416 0 416 (radio 2.27% / 0.63% tx 1.03% / 0.00% listen 1.24% / 0.63%)
+48814	ID:7	Powertrace 26859 1547725 2699 13196
+48834	ID:2	Powertrace 26108 1548476 2698 13326
+48874	ID:3	Powertrace 26851 1547733 2703 13228
+49042	ID:10	Powertrace 25492 1549093 2839 13025
+49219	ID:5	Powertrace 26785 1547799 2696 12745
+49254	ID:4	Powertrace 25991 1548593 2690 13070
+49303	ID:6	Powertrace 25920 1548664 2699 13167
+50518	ID:9	Powertrace 27461 1612649 2696 13074
+50559	ID:8	Powertrace 26787 1613323 2695 13861
+50567	ID:11	Powertrace 27480 1612630 2693 13585
+50794	ID:1	Powertrace 6432 P 1.1 24 78374 1567880 16336 20093 0 11230 1341 64192 0 416 0 416 (radio 2.21% / 0.63% tx 0.99% / 0.00% listen 1.22% / 0.63%)
+50814	ID:7	Powertrace 27541 1612569 2699 13612
+50833	ID:2	Powertrace 26790 1613320 2698 13742
+50873	ID:3	Powertrace 27533 1612577 2703 13644
+51041	ID:10	Powertrace 26192 1613918 2839 13441
+51219	ID:5	Powertrace 27467 1612643 2696 13161
+51254	ID:4	Powertrace 26673 1613437 2690 13486
+51303	ID:6	Powertrace 26601 1613509 2699 13583
+52518	ID:9	Powertrace 28142 1677504 2696 13490
+52559	ID:8	Powertrace 27468 1678178 2695 14277
+52567	ID:11	Powertrace 28161 1677485 2693 14001
+52794	ID:1	Powertrace 6688 P 1.1 25 79723 1632067 16336 20509 0 11646 1346 64187 0 416 0 416 (radio 2.15% / 0.63% tx 0.95% / 0.00% listen 1.19% / 0.63%)
+52814	ID:7	Powertrace 28222 1677424 2699 14028
+52833	ID:2	Powertrace 27471 1678175 2698 14158
+52873	ID:3	Powertrace 28214 1677432 2703 14060
+53041	ID:10	Powertrace 26892 1678754 2839 13857
+53219	ID:5	Powertrace 28148 1677498 2696 13577
+53254	ID:4	Powertrace 27354 1678292 2690 13902
+53303	ID:6	Powertrace 27282 1678364 2699 13999
+54518	ID:9	Powertrace 28833 1742359 2696 13906
+54560	ID:8	Powertrace 28159 1743033 2695 14693
+54567	ID:11	Powertrace 28852 1742340 2693 14417
+54794	ID:1	Powertrace 6944 P 1.1 26 81083 1696243 16336 20925 0 12062 1357 64176 0 416 0 416 (radio 2.09% / 0.63% tx 0.91% / 0.00% listen 1.17% / 0.63%)
+54814	ID:7	Powertrace 28913 1742279 2699 14444
+54834	ID:2	Powertrace 28162 1743030 2698 14574
+54874	ID:3	Powertrace 28905 1742287 2703 14476
+55042	ID:10	Powertrace 27604 1743589 2839 14273
+55219	ID:5	Powertrace 28839 1742353 2696 13993
+55254	ID:4	Powertrace 28045 1743147 2690 14318
+55303	ID:6	Powertrace 27973 1743219 2699 14415
+56518	ID:9	Powertrace 29514 1807204 2696 14322
+56559	ID:8	Powertrace 28841 1807877 2695 15109
+56567	ID:11	Powertrace 29533 1807185 2693 14833
+56794	ID:1	Powertrace 7200 P 1.1 27 82427 1760435 16336 21341 0 12478 1341 64192 0 416 0 416 (radio 2.04% / 0.63% tx 0.88% / 0.00% listen 1.15% / 0.63%)
+56814	ID:7	Powertrace 29594 1807124 2699 14860
+56833	ID:2	Powertrace 28843 1807875 2698 14990
+56873	ID:3	Powertrace 29586 1807132 2703 14892
+57041	ID:10	Powertrace 28304 1808414 2839 14689
+57219	ID:5	Powertrace 29521 1807197 2696 14409
+57254	ID:4	Powertrace 28727 1807991 2690 14734
+57303	ID:6	Powertrace 28655 1808063 2699 14831
+58518	ID:9	Powertrace 30195 1872059 2696 14738
+58559	ID:8	Powertrace 29522 1872732 2695 15525
+58567	ID:11	Powertrace 30214 1872040 2693 15249
+58794	ID:1	Powertrace 7456 P 1.1 28 83771 1824627 16336 21757 0 12894 1341 64192 0 416 0 416 (radio 1.99% / 0.63% tx 0.85% / 0.00% listen 1.14% / 0.63%)
+58814	ID:7	Powertrace 30275 1871979 2699 15276
+58833	ID:2	Powertrace 29524 1872730 2698 15406
+58873	ID:3	Powertrace 30267 1871987 2703 15308
+59041	ID:10	Powertrace 29004 1873250 2839 15105
+59219	ID:5	Powertrace 30202 1872052 2696 14825
+59254	ID:4	Powertrace 29408 1872846 2690 15150
+59303	ID:6	Powertrace 29336 1872918 2699 15247
+60518	ID:9	Powertrace 30886 1936914 2696 15154
+60560	ID:8	Powertrace 30213 1937587 2695 15941
+60567	ID:11	Powertrace 30905 1936895 2693 15665
+60794	ID:1	Powertrace 7712 P 1.1 29 85131 1888803 16336 22173 0 13310 1357 64176 0 416 0 416 (radio 1.95% / 0.63% tx 0.82% / 0.00% listen 1.12% / 0.63%)
+60814	ID:7	Powertrace 30967 1936833 2699 15692
+60834	ID:2	Powertrace 30215 1937585 2698 15822
+60874	ID:3	Powertrace 30959 1936841 2703 15724
+61042	ID:10	Powertrace 29716 1938085 2839 15521
+61219	ID:5	Powertrace 30893 1936907 2696 15241
+61254	ID:4	Powertrace 30099 1937701 2690 15566
+61303	ID:6	Powertrace 30027 1937773 2699 15663
+62518	ID:9	Powertrace 31572 2001754 2696 15570
+62559	ID:8	Powertrace 30899 2002427 2695 16357
+62567	ID:11	Powertrace 31590 2001736 2693 16081
+62794	ID:1	Powertrace 7968 P 1.1 30 86481 1952989 16336 22589 0 13726 1347 64186 0 416 0 416 (radio 1.90% / 0.63% tx 0.80% / 0.00% listen 1.10% / 0.63%)
+62814	ID:7	Powertrace 31652 2001674 2699 16108
+62833	ID:2	Powertrace 30901 2002425 2698 16238
+62873	ID:3	Powertrace 31644 2001682 2703 16140
+63041	ID:10	Powertrace 30420 2002906 2839 15937
+63219	ID:5	Powertrace 31578 2001748 2696 15657
+63254	ID:4	Powertrace 30785 2002541 2690 15982
+63303	ID:6	Powertrace 30713 2002613 2699 16079
+64518	ID:9	Powertrace 32253 2066609 2696 15986
+64559	ID:8	Powertrace 31580 2067282 2695 16773
+64567	ID:11	Powertrace 32271 2066591 2693 16497
+64794	ID:1	Powertrace 8224 P 1.1 31 87828 2017178 16336 23005 0 14142 1344 64189 0 416 0 416 (radio 1.86% / 0.63% tx 0.77% / 0.00% listen 1.09% / 0.63%)
+64814	ID:7	Powertrace 32333 2066529 2699 16524
+64833	ID:2	Powertrace 31582 2067280 2698 16654
+64873	ID:3	Powertrace 32325 2066537 2703 16556
+65041	ID:10	Powertrace 31120 2067742 2839 16353
+65219	ID:5	Powertrace 32259 2066603 2696 16073
+65254	ID:4	Powertrace 31466 2067396 2690 16398
+65303	ID:6	Powertrace 31394 2067468 2699 16495

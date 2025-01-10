@@ -1,0 +1,23 @@
+[01:33:34 - main] [Cooja.java:3172] [WARN] - JAVA_HOME environment variable not set, Cooja motes may not compile
+[01:33:34 - AWT-EventQueue-0] [Cooja.java:2856] [INFO] - External tools default settings: /external_tools_linux_64.config
+[01:33:34 - AWT-EventQueue-0] [Cooja.java:2886] [INFO] - External tools user settings: /root/.cooja.user.properties
+[01:33:53 - Thread-0] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[01:33:54 - AWT-EventQueue-0] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[01:33:59 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[01:34:02 - Thread-2] [AbstractCompileDialog.java:616] [WARN] - Could not find Contiki source: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.c
+[01:34:02 - Thread-2] [AbstractCompileDialog.java:637] [WARN] - Could not find Contiki source: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.c
+[01:34:02 - Thread-2] [AbstractCompileDialog.java:637] [WARN] - Could not find Contiki source: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.c
+[01:34:23 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make ln1.sky TARGET=sky 
+[01:34:26 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[01:34:26 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6ln/ln1.sky
+[01:34:27 - Thread-0] [Visualizer.java:256] [INFO] - Registered external visualizer: org.contikios.cooja.plugins.skins.DGRMVisualizerSkin
+[01:34:27 - Thread-0] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[01:34:32 - Thread-3] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1726796072234
+[01:34:33 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1726796073031.pcap
+[01:34:34 - Thread-3] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1726796074546	Duration: 2312 ms	Simulated time 101813 ms	Ratio 44.036764705882355
+[14:18:59 - AWT-EventQueue-0] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[14:19:43 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make MCH.sky TARGET=sky 
+[14:19:47 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/MCH/MCH.sky
+[14:19:51 - Thread-6] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1727014791457
+[14:19:51 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1727014791569.pcap
+[14:19:52 - Thread-6] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1727014792906	Duration: 1449 ms	Simulated time 250146 ms	Ratio 172.6335403726708

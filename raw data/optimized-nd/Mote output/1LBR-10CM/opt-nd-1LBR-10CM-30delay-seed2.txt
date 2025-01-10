@@ -1,0 +1,1088 @@
+415	ID:2	Rime started with address 0.18.116.2.0.2.2.2
+425	ID:2	MAC 00:12:74:02:00:02:02:02 Contiki-3.x-3153-g01bafba64 started. Node id is set to 2.
+433	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+436	ID:2	Init of IPv6 data structures
+436	ID:10	Rime started with address 0.18.116.10.0.10.10.10
+437	ID:2	16 neighbors
+439	ID:2	2 default routers
+439	ID:2	3 prefixes
+440	ID:2	16 routes
+442	ID:2	3 unicast addresses
+443	ID:2	4 multicast addresses
+445	ID:2	0 anycast addresses
+446	ID:10	MAC 00:12:74:0a:00:0a:0a:0a Contiki-3.x-3153-g01bafba64 started. Node id is set to 10.
+449	ID:2	Adding prefix fe80::length 64, vlifetime 0
+452	ID:2	# Print interface address list: 
+454	ID:10	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+455	ID:2	# Address 1: ::  state: 0  type: 0  isused: 0
+457	ID:10	Init of IPv6 data structures
+458	ID:10	16 neighbors
+458	ID:2	# Address 2: ::  state: 0  type: 0  isused: 0
+460	ID:10	2 default routers
+460	ID:10	3 prefixes
+461	ID:10	16 routes
+463	ID:10	3 unicast addresses
+464	ID:10	4 multicast addresses
+464	ID:2	# Address 3: fe80::212:7402:2:202  state: 1  type: 1  isused: 1
+466	ID:10	0 anycast addresses
+466	ID:2	Starting 'ln'
+467	ID:2	I'm the 6LN.
+470	ID:10	Adding prefix fe80::length 64, vlifetime 0
+473	ID:10	# Print interface address list: 
+476	ID:10	# Address 1: ::  state: 0  type: 0  isused: 0
+479	ID:10	# Address 2: ::  state: 0  type: 0  isused: 0
+486	ID:10	# Address 3: fe80::212:740a:a:a0a  state: 1  type: 1  isused: 1
+487	ID:10	Starting 'ln'
+488	ID:10	I'm the 6LN.
+636	ID:1	Rime started with address 0.18.116.1.0.1.1.1
+646	ID:1	MAC 00:12:74:01:00:01:01:01 Contiki-3.x-3153-g01bafba64 started. Node id is set to 1.
+654	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+657	ID:1	Init of IPv6 data structures
+658	ID:1	16 neighbors
+659	ID:1	2 default routers
+660	ID:1	3 prefixes
+661	ID:1	16 routes
+662	ID:1	3 unicast addresses
+664	ID:1	5 multicast addresses
+665	ID:1	2 anycast addresses
+673	ID:1	Adding prefix fe80::length 64, flags 0, Valid lifetime 0, Preffered lifetime 0
+676	ID:11	Rime started with address 0.18.116.11.0.11.11.11
+682	ID:1	Adding prefix 2001:da8::length 64, flags c0, Valid lifetime 258, Preffered lifetime 258
+685	ID:1	# Print interface address list: 
+686	ID:11	MAC 00:12:74:0b:00:0b:0b:0b Contiki-3.x-3153-g01bafba64 started. Node id is set to 11.
+688	ID:1	# Address 1: ::  state: 0  type: 0  isused: 0
+695	ID:1	# Address 2: 2001:da8::212:7401:1:101  state: 1  type: 1  isused: 1
+695	ID:11	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+697	ID:11	Init of IPv6 data structures
+698	ID:11	16 neighbors
+700	ID:11	2 default routers
+701	ID:11	3 prefixes
+701	ID:1	# Address 3: fe80::212:7401:1:101  state: 1  type: 1  isused: 1
+701	ID:11	16 routes
+702	ID:1	Starting 'lbr'
+703	ID:11	3 unicast addresses
+703	ID:1	I'm the 6LBR.
+704	ID:11	4 multicast addresses
+706	ID:11	0 anycast addresses
+710	ID:11	Adding prefix fe80::length 64, vlifetime 0
+713	ID:11	# Print interface address list: 
+716	ID:11	# Address 1: ::  state: 0  type: 0  isused: 0
+720	ID:11	# Address 2: ::  state: 0  type: 0  isused: 0
+726	ID:11	# Address 3: fe80::212:740b:b:b0b  state: 1  type: 1  isused: 1
+727	ID:11	Starting 'ln'
+728	ID:11	I'm the 6LN.
+747	ID:7	Rime started with address 0.18.116.7.0.7.7.7
+756	ID:7	MAC 00:12:74:07:00:07:07:07 Contiki-3.x-3153-g01bafba64 started. Node id is set to 7.
+765	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+767	ID:7	Init of IPv6 data structures
+769	ID:7	16 neighbors
+770	ID:7	2 default routers
+771	ID:7	3 prefixes
+771	ID:7	16 routes
+773	ID:7	3 unicast addresses
+774	ID:7	4 multicast addresses
+776	ID:7	0 anycast addresses
+780	ID:7	Adding prefix fe80::length 64, vlifetime 0
+783	ID:7	# Print interface address list: 
+786	ID:7	# Address 1: ::  state: 0  type: 0  isused: 0
+790	ID:7	# Address 2: ::  state: 0  type: 0  isused: 0
+796	ID:7	# Address 3: fe80::212:7407:7:707  state: 1  type: 1  isused: 1
+797	ID:7	Starting 'ln'
+798	ID:7	I'm the 6LN.
+897	ID:4	Rime started with address 0.18.116.4.0.4.4.4
+906	ID:4	MAC 00:12:74:04:00:04:04:04 Contiki-3.x-3153-g01bafba64 started. Node id is set to 4.
+915	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+918	ID:4	Init of IPv6 data structures
+919	ID:4	16 neighbors
+920	ID:4	2 default routers
+921	ID:4	3 prefixes
+922	ID:4	16 routes
+922	ID:3	Rime started with address 0.18.116.3.0.3.3.3
+923	ID:4	3 unicast addresses
+923	ID:5	Rime started with address 0.18.116.5.0.5.5.5
+925	ID:4	4 multicast addresses
+926	ID:4	0 anycast addresses
+931	ID:4	Adding prefix fe80::length 64, vlifetime 0
+931	ID:3	MAC 00:12:74:03:00:03:03:03 Contiki-3.x-3153-g01bafba64 started. Node id is set to 3.
+933	ID:5	MAC 00:12:74:05:00:05:05:05 Contiki-3.x-3153-g01bafba64 started. Node id is set to 5.
+933	ID:4	# Print interface address list: 
+936	ID:4	# Address 1: ::  state: 0  type: 0  isused: 0
+940	ID:4	# Address 2: ::  state: 0  type: 0  isused: 0
+940	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+941	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+943	ID:3	Init of IPv6 data structures
+944	ID:3	16 neighbors
+944	ID:5	Init of IPv6 data structures
+945	ID:5	16 neighbors
+945	ID:3	2 default routers
+946	ID:4	# Address 3: fe80::212:7404:4:404  state: 1  type: 1  isused: 1
+946	ID:3	3 prefixes
+946	ID:5	2 default routers
+947	ID:3	16 routes
+947	ID:5	3 prefixes
+947	ID:4	Starting 'ln'
+948	ID:5	16 routes
+948	ID:3	3 unicast addresses
+948	ID:4	I'm the 6LN.
+949	ID:5	3 unicast addresses
+950	ID:3	4 multicast addresses
+951	ID:5	4 multicast addresses
+951	ID:3	0 anycast addresses
+952	ID:5	0 anycast addresses
+956	ID:3	Adding prefix fe80::length 64, vlifetime 0
+957	ID:5	Adding prefix fe80::length 64, vlifetime 0
+958	ID:3	# Print interface address list: 
+959	ID:5	# Print interface address list: 
+961	ID:3	# Address 1: ::  state: 0  type: 0  isused: 0
+963	ID:5	# Address 1: ::  state: 0  type: 0  isused: 0
+965	ID:3	# Address 2: ::  state: 0  type: 0  isused: 0
+966	ID:5	# Address 2: ::  state: 0  type: 0  isused: 0
+971	ID:3	# Address 3: fe80::212:7403:3:303  state: 1  type: 1  isused: 1
+972	ID:5	# Address 3: fe80::212:7405:5:505  state: 1  type: 1  isused: 1
+972	ID:3	Starting 'ln'
+973	ID:6	Rime started with address 0.18.116.6.0.6.6.6
+973	ID:3	I'm the 6LN.
+974	ID:5	Starting 'ln'
+975	ID:5	I'm the 6LN.
+982	ID:6	MAC 00:12:74:06:00:06:06:06 Contiki-3.x-3153-g01bafba64 started. Node id is set to 6.
+991	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+994	ID:6	Init of IPv6 data structures
+995	ID:6	16 neighbors
+996	ID:6	2 default routers
+997	ID:6	3 prefixes
+998	ID:6	16 routes
+999	ID:6	3 unicast addresses
+1001	ID:6	4 multicast addresses
+1002	ID:6	0 anycast addresses
+1006	ID:6	Adding prefix fe80::length 64, vlifetime 0
+1009	ID:6	# Print interface address list: 
+1012	ID:6	# Address 1: ::  state: 0  type: 0  isused: 0
+1016	ID:6	# Address 2: ::  state: 0  type: 0  isused: 0
+1022	ID:6	# Address 3: fe80::212:7406:6:606  state: 1  type: 1  isused: 1
+1023	ID:6	Starting 'ln'
+1024	ID:6	I'm the 6LN.
+1051	ID:8	Rime started with address 0.18.116.8.0.8.8.8
+1060	ID:8	MAC 00:12:74:08:00:08:08:08 Contiki-3.x-3153-g01bafba64 started. Node id is set to 8.
+1069	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1072	ID:8	Init of IPv6 data structures
+1073	ID:8	16 neighbors
+1074	ID:8	2 default routers
+1075	ID:8	3 prefixes
+1076	ID:8	16 routes
+1077	ID:8	3 unicast addresses
+1079	ID:8	4 multicast addresses
+1080	ID:8	0 anycast addresses
+1085	ID:8	Adding prefix fe80::length 64, vlifetime 0
+1087	ID:8	# Print interface address list: 
+1090	ID:8	# Address 1: ::  state: 0  type: 0  isused: 0
+1094	ID:8	# Address 2: ::  state: 0  type: 0  isused: 0
+1100	ID:8	# Address 3: fe80::212:7408:8:808  state: 1  type: 1  isused: 1
+1101	ID:8	Starting 'ln'
+1102	ID:8	I'm the 6LN.
+1261	ID:9	Rime started with address 0.18.116.9.0.9.9.9
+1271	ID:9	MAC 00:12:74:09:00:09:09:09 Contiki-3.x-3153-g01bafba64 started. Node id is set to 9.
+1279	ID:9	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1282	ID:9	Init of IPv6 data structures
+1283	ID:9	16 neighbors
+1285	ID:9	2 default routers
+1285	ID:9	3 prefixes
+1286	ID:9	16 routes
+1288	ID:9	3 unicast addresses
+1289	ID:9	4 multicast addresses
+1291	ID:9	0 anycast addresses
+1295	ID:9	Adding prefix fe80::length 64, vlifetime 0
+1298	ID:9	# Print interface address list: 
+1301	ID:9	# Address 1: ::  state: 0  type: 0  isused: 0
+1304	ID:9	# Address 2: ::  state: 0  type: 0  isused: 0
+1310	ID:9	# Address 3: fe80::212:7409:9:909  state: 1  type: 1  isused: 1
+1312	ID:9	Starting 'ln'
+1313	ID:9	I'm the 6LN.
+2469	ID:2	Powertrace 2292 64955 0 416
+2489	ID:10	Powertrace 2315 64932 0 416
+2729	ID:11	Powertrace 2315 64932 0 416
+2800	ID:7	Powertrace 2291 64956 0 416
+2950	ID:4	Powertrace 2291 64956 0 416
+2975	ID:3	Powertrace 2292 64955 0 416
+2976	ID:5	Powertrace 2292 64955 0 416
+3026	ID:6	Powertrace 2291 64956 0 416
+3104	ID:8	Powertrace 2291 64956 0 416
+3315	ID:9	Powertrace 2292 64955 0 416
+4469	ID:2	Powertrace 2900 129883 0 832
+4489	ID:10	Powertrace 2924 129859 0 832
+4730	ID:11	Powertrace 2924 129859 0 832
+4800	ID:7	Powertrace 2899 129884 0 832
+4950	ID:4	Powertrace 2899 129884 0 832
+4975	ID:3	Powertrace 2900 129883 0 832
+4977	ID:5	Powertrace 2900 129883 0 832
+5026	ID:6	Powertrace 2899 129884 0 832
+5104	ID:8	Powertrace 2899 129884 0 832
+5315	ID:9	Powertrace 2900 129883 0 832
+6470	ID:2	Powertrace 3531 194798 0 1248
+6490	ID:10	Powertrace 3555 194774 0 1248
+6730	ID:11	Powertrace 3555 194774 0 1248
+6801	ID:7	Powertrace 3530 194799 0 1248
+6951	ID:4	Powertrace 3530 194799 0 1248
+6976	ID:3	Powertrace 3531 194798 0 1248
+6977	ID:5	Powertrace 3531 194798 0 1248
+7027	ID:6	Powertrace 3530 194799 0 1248
+7105	ID:8	Powertrace 3530 194799 0 1248
+7316	ID:9	Powertrace 3531 194798 0 1248
+8469	ID:2	Powertrace 4163 259692 0 1664
+8490	ID:10	Powertrace 4187 259668 0 1664
+8730	ID:11	Powertrace 4187 259668 0 1664
+8801	ID:7	Powertrace 4162 259693 0 1664
+8951	ID:4	Powertrace 4162 259693 0 1664
+8954	ID:3	Sending RS 0
+8960	ID:3	Sending RS to ff02::2 from fe80::212:7403:3:303
+8977	ID:5	Powertrace 4163 259692 0 1664
+9027	ID:6	Powertrace 4307 259548 0 1822
+9037	ID:1	Received RS from fe80::212:7403:3:303 to ff02::2
+9039	ID:1	Solicited RA: 
+9046	ID:1	Sending RA to fe80::212:7403:3:303 from fe80::212:7401:1:101
+9105	ID:8	Powertrace 4301 259554 0 1816
+9107	ID:3	Powertrace 8928 259180 2206 1742
+9315	ID:9	Powertrace 4310 259545 0 2001
+9327	ID:3	Received RA from fe80::212:7401:1:101 to fe80::212:7403:3:303
+9329	ID:3	uip_ds6_if.cur_hop_limit 64
+9332	ID:3	Processing PREFIX option in RA
+9337	ID:3	Adding prefix 2001:da8::length 64, vlifetime 600
+9339	ID:3	# Print interface address list: 
+9343	ID:3	# Address 1: ::  state: 0  type: 0  isused: 0
+9349	ID:3	# Address 2: 2001:da8::212:7403:3:303  state: 0  type: 1  isused: 1
+9355	ID:3	# Address 3: fe80::212:7403:3:303  state: 1  type: 1  isused: 1
+9357	ID:3	ND option not supported in RA
+9360	ID:3	Processing SLLAO option in RA
+9362	ID:3	Processing MTU option in RA
+9364	ID:3	ARO supported in this message
+9376	ID:3	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:7403:3:303 with target address fe80::212:7401:1:101
+9419	ID:1	Received NS from 2001:da8::212:7403:3:303 to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+9422	ID:1	ND ARO option is supported in received NS
+9423	ID:1	# Register list: 
+9424	ID:1	[ NULL ]
+9431	ID:1	2001:da8::212:7403:3:303 has been added to the registration list.
+9432	ID:1	# Register list: 
+9449	ID:1	[ MAC:0012:7403:0003:0303 , Register ip: 2001::800:0:807:0:6604:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1800, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+9451	ID:1	ARO supported in NA message 
+9463	ID:1	Sending NA to 2001:da8::212:7403:3:303 from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+9583	ID:3	Received NA from fe80::212:7401:1:101 to 2001:da8::212:7403:3:303 with target address fe80::212:7401:1:101
+9589	ID:3	2001:da8::212:7403:3:303 address registered successfully.
+9591	ID:3	# Print interface address list: 
+9594	ID:3	# Address 1: ::  state: 0  type: 0  isused: 0
+9601	ID:3	# Address 2: 2001:da8::212:7403:3:303  state: 1  type: 1  isused: 1
+9607	ID:3	# Address 3: fe80::212:7403:3:303  state: 1  type: 1  isused: 1
+10469	ID:2	Powertrace 4948 324443 0 2581
+10490	ID:10	Powertrace 4958 324433 0 2241
+10730	ID:11	Powertrace 5009 324382 0 2475
+10801	ID:7	Powertrace 4947 324444 0 2560
+10951	ID:4	Powertrace 4947 324444 0 2553
+10977	ID:5	Powertrace 4962 324429 0 2607
+10977	ID:3	Powertrace 13905 315486 2620 2959
+11027	ID:6	Powertrace 4939 324452 0 2605
+11105	ID:8	Powertrace 4973 324418 0 2520
+11315	ID:9	Powertrace 4965 324426 0 2791
+11784	ID:5	Sending RS 0
+11789	ID:5	Sending RS to ff02::2 from fe80::212:7405:5:505
+11911	ID:1	Received RS from fe80::212:7405:5:505 to ff02::2
+11913	ID:1	Solicited RA: 
+11921	ID:1	Sending RA to fe80::212:7405:5:505 from fe80::212:7401:1:101
+11957	ID:5	Received RA from fe80::212:7401:1:101 to fe80::212:7405:5:505
+11959	ID:5	uip_ds6_if.cur_hop_limit 64
+11961	ID:5	Processing PREFIX option in RA
+11966	ID:5	Adding prefix 2001:da8::length 64, vlifetime 600
+11969	ID:5	# Print interface address list: 
+11972	ID:5	# Address 1: ::  state: 0  type: 0  isused: 0
+11979	ID:5	# Address 2: 2001:da8::212:7405:5:505  state: 0  type: 1  isused: 1
+11985	ID:5	# Address 3: fe80::212:7405:5:505  state: 1  type: 1  isused: 1
+11987	ID:5	ND option not supported in RA
+11989	ID:5	Processing SLLAO option in RA
+11991	ID:5	Processing MTU option in RA
+11994	ID:5	ARO supported in this message
+12005	ID:5	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:7405:5:505 with target address fe80::212:7401:1:101
+12044	ID:1	Received NS from 2001:da8::212:7405:5:505 to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+12048	ID:1	ND ARO option is supported in received NS
+12049	ID:1	# Register list: 
+12067	ID:1	[ MAC:0012:7403:0003:0303 , Register ip: 2001::800:0:807:0:6604:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1797, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+12073	ID:1	2001:da8::212:7405:5:505 has been added to the registration list.
+12074	ID:1	# Register list: 
+12092	ID:1	[ MAC:0012:7403:0003:0303 , Register ip: 2001::800:0:807:0:6604:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1797, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+12107	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 3:303::, Is used:116, State: 3, Register Count: 0, Register lifetime: 65525, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+12124	ID:1	[ MAC:0012:7405:0005:0505 , Register ip: 2001::b00:0:807:0:b905:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1800, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+12126	ID:1	ARO supported in NA message 
+12138	ID:1	Sending NA to 2001:da8::212:7405:5:505 from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+12206	ID:5	Received NA from fe80::212:7401:1:101 to 2001:da8::212:7405:5:505 with target address fe80::212:7401:1:101
+12213	ID:5	2001:da8::212:7405:5:505 address registered successfully.
+12215	ID:5	# Print interface address list: 
+12218	ID:5	# Address 1: ::  state: 0  type: 0  isused: 0
+12225	ID:5	# Address 2: 2001:da8::212:7405:5:505  state: 1  type: 1  isused: 1
+12231	ID:5	# Address 3: fe80::212:7405:5:505  state: 1  type: 1  isused: 1
+12436	ID:7	Sending RS 0
+12441	ID:7	Sending RS to ff02::2 from fe80::212:7407:7:707
+12470	ID:2	Powertrace 5740 389197 0 3353
+12490	ID:10	Powertrace 5750 389187 0 2801
+12535	ID:1	Received RS from fe80::212:7407:7:707 to ff02::2
+12537	ID:1	Solicited RA: 
+12545	ID:1	Sending RA to fe80::212:7407:7:707 from fe80::212:7401:1:101
+12651	ID:7	Received RA from fe80::212:7401:1:101 to fe80::212:7407:7:707
+12653	ID:7	uip_ds6_if.cur_hop_limit 64
+12655	ID:7	Processing PREFIX option in RA
+12660	ID:7	Adding prefix 2001:da8::length 64, vlifetime 600
+12663	ID:7	# Print interface address list: 
+12666	ID:7	# Address 1: ::  state: 0  type: 0  isused: 0
+12673	ID:7	# Address 2: 2001:da8::212:7407:7:707  state: 0  type: 1  isused: 1
+12679	ID:7	# Address 3: fe80::212:7407:7:707  state: 1  type: 1  isused: 1
+12681	ID:7	ND option not supported in RA
+12683	ID:7	Processing SLLAO option in RA
+12685	ID:7	Processing MTU option in RA
+12688	ID:7	ARO supported in this message
+12700	ID:7	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:7407:7:707 with target address fe80::212:7401:1:101
+12730	ID:11	Powertrace 5969 388968 0 3509
+12796	ID:1	Received NS from 2001:da8::212:7407:7:707 to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+12800	ID:1	ND ARO option is supported in received NS
+12801	ID:1	# Register list: 
+12802	ID:7	Powertrace 15217 379723 3962 4022
+12819	ID:1	[ MAC:0012:7403:0003:0303 , Register ip: 2001::800:0:807:0:6604:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1796, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+12833	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 3:303::, Is used:116, State: 3, Register Count: 0, Register lifetime: 65524, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+12851	ID:1	[ MAC:0012:7405:0005:0505 , Register ip: 2001::b00:0:807:0:b905:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1799, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+12857	ID:1	2001:da8::212:7407:7:707 has been added to the registration list.
+12859	ID:1	# Register list: 
+12876	ID:1	[ MAC:0012:7403:0003:0303 , Register ip: 2001::800:0:807:0:6604:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1796, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+12891	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 3:303::, Is used:116, State: 3, Register Count: 0, Register lifetime: 65524, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+12910	ID:1	[ MAC:0012:7405:0005:0505 , Register ip: 2001::b00:0:807:0:b905:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1799, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+12924	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 5:505::, Is used:116, State: 5, Register Count: 0, Register lifetime: 65524, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+12942	ID:1	[ MAC:0012:7407:0007:0707 , Register ip: 2001::c00:0:807:0:1d06:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1800, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+12944	ID:1	ARO supported in NA message 
+12951	ID:4	Powertrace 5883 389054 0 3454
+12956	ID:1	Sending NA to 2001:da8::212:7407:7:707 from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+12978	ID:3	Powertrace 14923 380016 2620 3758
+12979	ID:5	Powertrace 14696 380244 2517 4048
+13027	ID:6	Powertrace 5879 389058 0 3682
+13029	ID:7	Received NA from fe80::212:7401:1:101 to 2001:da8::212:7407:7:707 with target address fe80::212:7401:1:101
+13036	ID:7	2001:da8::212:7407:7:707 address registered successfully.
+13038	ID:7	# Print interface address list: 
+13041	ID:7	# Address 1: ::  state: 0  type: 0  isused: 0
+13048	ID:7	# Address 2: 2001:da8::212:7407:7:707  state: 1  type: 1  isused: 1
+13054	ID:7	# Address 3: fe80::212:7407:7:707  state: 1  type: 1  isused: 1
+13105	ID:8	Powertrace 5934 389003 0 3542
+13316	ID:9	Powertrace 5887 389050 0 3812
+14469	ID:2	Powertrace 6515 453948 0 3935
+14490	ID:10	Powertrace 6549 453914 0 3396
+14730	ID:11	Powertrace 6602 453861 0 3925
+14802	ID:7	Powertrace 17281 443182 3962 4672
+14951	ID:4	Powertrace 6516 453947 0 3870
+14977	ID:3	Powertrace 15645 444818 2620 4174
+14978	ID:5	Powertrace 15418 445045 2517 4464
+15027	ID:6	Powertrace 6512 453951 0 4098
+15105	ID:8	Powertrace 6567 453896 0 3958
+15315	ID:9	Powertrace 6520 453943 0 4228
+15778	ID:9	Sending RS 0
+15784	ID:9	Sending RS to ff02::2 from fe80::212:7409:9:909
+15911	ID:1	Received RS from fe80::212:7409:9:909 to ff02::2
+15913	ID:1	Solicited RA: 
+15921	ID:1	Sending RA to fe80::212:7409:9:909 from fe80::212:7401:1:101
+16021	ID:11	Sending RS 0
+16027	ID:11	Sending RS to ff02::2 from fe80::212:740b:b:b0b
+16043	ID:9	Received RA from fe80::212:7401:1:101 to fe80::212:7409:9:909
+16045	ID:9	uip_ds6_if.cur_hop_limit 64
+16047	ID:9	Processing PREFIX option in RA
+16052	ID:9	Adding prefix 2001:da8::length 64, vlifetime 600
+16055	ID:9	# Print interface address list: 
+16058	ID:9	# Address 1: ::  state: 0  type: 0  isused: 0
+16065	ID:9	# Address 2: 2001:da8::212:7409:9:909  state: 0  type: 1  isused: 1
+16071	ID:9	# Address 3: fe80::212:7409:9:909  state: 1  type: 1  isused: 1
+16073	ID:9	ND option not supported in RA
+16075	ID:9	Processing SLLAO option in RA
+16077	ID:9	Processing MTU option in RA
+16080	ID:9	ARO supported in this message
+16092	ID:9	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:7409:9:909 with target address fe80::212:7401:1:101
+16168	ID:1	Received NS from 2001:da8::212:7409:9:909 to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+16172	ID:1	ND ARO option is supported in received NS
+16173	ID:1	# Register list: 
+16191	ID:1	[ MAC:0012:7403:0003:0303 , Register ip: 2001::800:0:807:0:6604:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1793, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+16206	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 3:303::, Is used:116, State: 3, Register Count: 0, Register lifetime: 65521, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+16223	ID:1	[ MAC:0012:7405:0005:0505 , Register ip: 2001::b00:0:807:0:b905:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1796, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+16238	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 5:505::, Is used:116, State: 5, Register Count: 0, Register lifetime: 65521, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+16255	ID:1	[ MAC:0012:7407:0007:0707 , Register ip: 2001::c00:0:807:0:1d06:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1797, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+16262	ID:1	2001:da8::212:7409:9:909 has been added to the registration list.
+16263	ID:1	# Register list: 
+16282	ID:1	[ MAC:0012:7403:0003:0303 , Register ip: 2001::800:0:807:0:6604:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1793, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+16296	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 3:303::, Is used:116, State: 3, Register Count: 0, Register lifetime: 65521, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+16314	ID:1	[ MAC:0012:7405:0005:0505 , Register ip: 2001::b00:0:807:0:b905:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1796, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+16329	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 5:505::, Is used:116, State: 5, Register Count: 0, Register lifetime: 65521, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+16346	ID:1	[ MAC:0012:7407:0007:0707 , Register ip: 2001::c00:0:807:0:1d06:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1797, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+16361	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 7:707::, Is used:116, State: 7, Register Count: 0, Register lifetime: 65521, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+16378	ID:1	[ MAC:0012:7409:0009:0909 , Register ip: 2001::f00:0:807:0:d107:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1800, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+16380	ID:1	ARO supported in NA message 
+16392	ID:1	Sending NA to 2001:da8::212:7409:9:909 from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+16469	ID:2	Powertrace 7446 518553 0 4635
+16490	ID:10	Powertrace 7486 518513 0 4290
+16546	ID:9	Received NA from fe80::212:7401:1:101 to 2001:da8::212:7409:9:909 with target address fe80::212:7401:1:101
+16552	ID:9	2001:da8::212:7409:9:909 address registered successfully.
+16554	ID:9	# Print interface address list: 
+16558	ID:9	# Address 1: ::  state: 0  type: 0  isused: 0
+16564	ID:9	# Address 2: 2001:da8::212:7409:9:909  state: 1  type: 1  isused: 1
+16570	ID:9	# Address 3: fe80::212:7409:9:909  state: 1  type: 1  isused: 1
+16731	ID:11	Powertrace 12304 513695 2210 4761
+16802	ID:7	Powertrace 18317 507682 3962 5764
+16951	ID:4	Powertrace 7447 518552 0 4585
+16977	ID:3	Powertrace 16668 509331 2620 4991
+16978	ID:5	Powertrace 16452 509547 2517 5326
+17027	ID:6	Powertrace 7462 518537 0 5165
+17105	ID:8	Powertrace 7507 518492 0 4845
+17317	ID:9	Powertrace 17516 508483 3444 5907
+18470	ID:2	Powertrace 8089 583456 0 5051
+18490	ID:10	Powertrace 8129 583416 0 4706
+18732	ID:11	Powertrace 12995 578550 2210 5177
+18802	ID:7	Powertrace 19052 572495 3962 6180
+18951	ID:4	Powertrace 8090 583455 0 5001
+18956	ID:3	Router found ? (boolean): 1
+18978	ID:3	Powertrace 17490 574055 2620 5407
+18979	ID:5	Powertrace 17187 574360 2517 5742
+19027	ID:6	Powertrace 8105 583440 0 5581
+19105	ID:8	Powertrace 8150 583395 0 5261
+19317	ID:9	Powertrace 18251 573296 3444 6323
+20469	ID:2	Powertrace 8722 648349 0 5467
+20490	ID:10	Powertrace 8762 648309 0 5122
+20731	ID:11	Powertrace 13675 643396 2210 5593
+20802	ID:7	Powertrace 19775 637296 3962 6596
+20951	ID:4	Powertrace 8723 648348 0 5417
+20977	ID:3	Powertrace 18170 638900 2620 5823
+20979	ID:5	Powertrace 17910 639161 2517 6158
+21027	ID:6	Powertrace 8738 648333 0 5997
+21105	ID:8	Powertrace 8783 648288 0 5677
+21317	ID:9	Powertrace 18974 638097 3444 6739
+21786	ID:5	Router found ? (boolean): 1
+22437	ID:7	Router found ? (boolean): 1
+22469	ID:2	Powertrace 9354 713253 0 5883
+22490	ID:10	Powertrace 9394 713213 0 5538
+22731	ID:11	Powertrace 14355 708252 2210 6009
+22802	ID:7	Powertrace 20596 702010 3962 7012
+22951	ID:4	Powertrace 9355 713252 0 5833
+22977	ID:3	Powertrace 18849 703757 2620 6239
+22978	ID:5	Powertrace 18699 703907 2517 6574
+23027	ID:6	Powertrace 9370 713237 0 6413
+23034	ID:2	Sending RS 0
+23039	ID:2	Sending RS to ff02::2 from fe80::212:7402:2:202
+23105	ID:8	Powertrace 9566 713041 0 6227
+23159	ID:1	Received RS from fe80::212:7402:2:202 to ff02::2
+23161	ID:1	Solicited RA: 
+23169	ID:1	Sending RA to fe80::212:7402:2:202 from fe80::212:7401:1:101
+23317	ID:9	Powertrace 19856 702751 3444 7318
+23324	ID:2	Received RA from fe80::212:7401:1:101 to fe80::212:7402:2:202
+23326	ID:2	uip_ds6_if.cur_hop_limit 64
+23328	ID:2	Processing PREFIX option in RA
+23333	ID:2	Adding prefix 2001:da8::length 64, vlifetime 600
+23336	ID:2	# Print interface address list: 
+23339	ID:2	# Address 1: ::  state: 0  type: 0  isused: 0
+23346	ID:2	# Address 2: 2001:da8::212:7402:2:202  state: 0  type: 1  isused: 1
+23352	ID:2	# Address 3: fe80::212:7402:2:202  state: 1  type: 1  isused: 1
+23354	ID:2	ND option not supported in RA
+23356	ID:2	Processing SLLAO option in RA
+23359	ID:2	Processing MTU option in RA
+23361	ID:2	ARO supported in this message
+23373	ID:2	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:7402:2:202 with target address fe80::212:7401:1:101
+23421	ID:1	Received NS from 2001:da8::212:7402:2:202 to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+23425	ID:1	ND ARO option is supported in received NS
+23426	ID:1	# Register list: 
+23444	ID:1	[ MAC:0012:7403:0003:0303 , Register ip: 2001::800:0:807:0:6604:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1786, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+23458	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 3:303::, Is used:116, State: 3, Register Count: 0, Register lifetime: 65514, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+23476	ID:1	[ MAC:0012:7405:0005:0505 , Register ip: 2001::b00:0:807:0:b905:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1789, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+23490	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 5:505::, Is used:116, State: 5, Register Count: 0, Register lifetime: 65514, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+23508	ID:1	[ MAC:0012:7407:0007:0707 , Register ip: 2001::c00:0:807:0:1d06:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1790, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+23523	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 7:707::, Is used:116, State: 7, Register Count: 0, Register lifetime: 65514, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+23541	ID:1	[ MAC:0012:7409:0009:0909 , Register ip: 2001::f00:0:807:0:d107:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1793, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+23548	ID:1	2001:da8::212:7402:2:202 has been added to the registration list.
+23549	ID:1	# Register list: 
+23567	ID:1	[ MAC:0012:7403:0003:0303 , Register ip: 2001::800:0:807:0:6604:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1786, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+23581	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 3:303::, Is used:116, State: 3, Register Count: 0, Register lifetime: 65514, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+23599	ID:1	[ MAC:0012:7405:0005:0505 , Register ip: 2001::b00:0:807:0:b905:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1789, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+23613	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 5:505::, Is used:116, State: 5, Register Count: 0, Register lifetime: 65514, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+23631	ID:1	[ MAC:0012:7407:0007:0707 , Register ip: 2001::c00:0:807:0:1d06:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1790, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+23645	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 7:707::, Is used:116, State: 7, Register Count: 0, Register lifetime: 65513, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+23665	ID:1	[ MAC:0012:7409:0009:0909 , Register ip: 2001::f00:0:807:0:d107:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1792, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+23679	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 9:909::, Is used:116, State: 9, Register Count: 0, Register lifetime: 65513, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+23697	ID:1	[ MAC:0012:7402:0002:0202 , Register ip: 2001::1600:0:807:0:750b:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1799, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+23699	ID:1	ARO supported in NA message 
+23711	ID:1	Sending NA to 2001:da8::212:7402:2:202 from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+23826	ID:2	Received NA from fe80::212:7401:1:101 to 2001:da8::212:7402:2:202 with target address fe80::212:7401:1:101
+23833	ID:2	2001:da8::212:7402:2:202 address registered successfully.
+23835	ID:2	# Print interface address list: 
+23839	ID:2	# Address 1: ::  state: 0  type: 0  isused: 0
+23845	ID:2	# Address 2: 2001:da8::212:7402:2:202  state: 1  type: 1  isused: 1
+23852	ID:2	# Address 3: fe80::212:7402:2:202  state: 1  type: 1  isused: 1
+24343	ID:4	Sending RS 0
+24349	ID:4	Sending RS to ff02::2 from fe80::212:7404:4:404
+24413	ID:1	Received RS from fe80::212:7404:4:404 to ff02::2
+24415	ID:1	Solicited RA: 
+24423	ID:1	Sending RA to fe80::212:7404:4:404 from fe80::212:7401:1:101
+24471	ID:2	Powertrace 19483 768673 2725 7410
+24490	ID:10	Powertrace 10351 777802 0 6277
+24555	ID:4	Received RA from fe80::212:7401:1:101 to fe80::212:7404:4:404
+24557	ID:4	uip_ds6_if.cur_hop_limit 64
+24559	ID:4	Processing PREFIX option in RA
+24564	ID:4	Adding prefix 2001:da8::length 64, vlifetime 600
+24567	ID:4	# Print interface address list: 
+24570	ID:4	# Address 1: ::  state: 0  type: 0  isused: 0
+24577	ID:4	# Address 2: 2001:da8::212:7404:4:404  state: 0  type: 1  isused: 1
+24583	ID:4	# Address 3: fe80::212:7404:4:404  state: 1  type: 1  isused: 1
+24585	ID:4	ND option not supported in RA
+24587	ID:4	Processing SLLAO option in RA
+24590	ID:4	Processing MTU option in RA
+24592	ID:4	ARO supported in this message
+24604	ID:4	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:7404:4:404 with target address fe80::212:7401:1:101
+24669	ID:1	Received NS from 2001:da8::212:7404:4:404 to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+24673	ID:1	ND ARO option is supported in received NS
+24675	ID:1	# Register list: 
+24692	ID:1	[ MAC:0012:7403:0003:0303 , Register ip: 2001::800:0:807:0:6604:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1784, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+24707	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 3:303::, Is used:116, State: 3, Register Count: 0, Register lifetime: 65512, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+24724	ID:1	[ MAC:0012:7405:0005:0505 , Register ip: 2001::b00:0:807:0:b905:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1787, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+24732	ID:11	Powertrace 15355 772798 2210 6756
+24739	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 5:505::, Is used:116, State: 5, Register Count: 0, Register lifetime: 65512, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+24756	ID:1	[ MAC:0012:7407:0007:0707 , Register ip: 2001::c00:0:807:0:1d06:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1788, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+24771	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 7:707::, Is used:116, State: 7, Register Count: 0, Register lifetime: 65512, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+24790	ID:1	[ MAC:0012:7409:0009:0909 , Register ip: 2001::f00:0:807:0:d107:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1791, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+24802	ID:7	Powertrace 21612 766541 3962 8067
+24804	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 9:909::, Is used:116, State: 9, Register Count: 0, Register lifetime: 65512, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+24822	ID:1	[ MAC:0012:7402:0002:0202 , Register ip: 2001::1600:0:807:0:750b:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1798, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+24828	ID:1	2001:da8::212:7404:4:404 has been added to the registration list.
+24830	ID:1	# Register list: 
+24847	ID:1	[ MAC:0012:7403:0003:0303 , Register ip: 2001::800:0:807:0:6604:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1784, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+24862	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 3:303::, Is used:116, State: 3, Register Count: 0, Register lifetime: 65512, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+24879	ID:1	[ MAC:0012:7405:0005:0505 , Register ip: 2001::b00:0:807:0:b905:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1787, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+24894	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 5:505::, Is used:116, State: 5, Register Count: 0, Register lifetime: 65512, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+24913	ID:1	[ MAC:0012:7407:0007:0707 , Register ip: 2001::c00:0:807:0:1d06:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1788, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+24928	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 7:707::, Is used:116, State: 7, Register Count: 0, Register lifetime: 65512, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+24945	ID:1	[ MAC:0012:7409:0009:0909 , Register ip: 2001::f00:0:807:0:d107:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1791, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+24953	ID:4	Powertrace 18639 769517 3136 7381
+24960	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 9:909::, Is used:116, State: 9, Register Count: 0, Register lifetime: 65512, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+24977	ID:1	[ MAC:0012:7402:0002:0202 , Register ip: 2001::1600:0:807:0:750b:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1798, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+24978	ID:3	Powertrace 19893 768260 2620 7113
+24979	ID:5	Powertrace 19737 768416 2517 7374
+24996	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 2:202::, Is used:116, State: 2, Register Count: 0, Register lifetime: 65512, Registration timer: -1, Default router:(ip:76d2:3643::7cd3:0:2611:84d3, lifetime: 4366) ]
+25014	ID:1	[ MAC:0012:7404:0004:0404 , Register ip: 2001::1800:0:807:0:190c:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1800, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+25027	ID:6	Powertrace 10331 777822 0 7464
+25030	ID:1	[ MAC:0000:0c5a:0000:0000 , Register ip: 4:404::, Is used:116, State: 4, Register Count: 0, Register lifetime: 65512, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+25032	ID:1	ARO supported in NA message 
+25044	ID:1	Sending NA to 2001:da8::212:7404:4:404 from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+25105	ID:8	Powertrace 10370 777783 0 6978
+25183	ID:4	Received NA from fe80::212:7401:1:101 to 2001:da8::212:7404:4:404 with target address fe80::212:7401:1:101
+25190	ID:4	2001:da8::212:7404:4:404 address registered successfully.
+25192	ID:4	# Print interface address list: 
+25195	ID:4	# Address 1: ::  state: 0  type: 0  isused: 0
+25202	ID:4	# Address 2: 2001:da8::212:7404:4:404  state: 1  type: 1  isused: 1
+25208	ID:4	# Address 3: fe80::212:7404:4:404  state: 1  type: 1  isused: 1
+25317	ID:9	Powertrace 20784 767371 3444 8634
+25781	ID:9	Router found ? (boolean): 1
+26021	ID:11	Sending RS 1
+26027	ID:11	Sending RS to ff02::2 from fe80::212:740b:b:b0b
+26163	ID:1	Received RS from fe80::212:740b:b:b0b to ff02::2
+26165	ID:1	Solicited RA: 
+26173	ID:1	Sending RA to fe80::212:740b:b:b0b from fe80::212:7401:1:101
+26207	ID:11	Received RA from fe80::212:7401:1:101 to fe80::212:740b:b:b0b
+26209	ID:11	uip_ds6_if.cur_hop_limit 64
+26211	ID:11	Processing PREFIX option in RA
+26217	ID:11	Adding prefix 2001:da8::length 64, vlifetime 600
+26219	ID:11	# Print interface address list: 
+26223	ID:11	# Address 1: ::  state: 0  type: 0  isused: 0
+26229	ID:11	# Address 2: 2001:da8::212:740b:b:b0b  state: 0  type: 1  isused: 1
+26235	ID:11	# Address 3: fe80::212:740b:b:b0b  state: 1  type: 1  isused: 1
+26237	ID:11	ND option not supported in RA
+26239	ID:11	Processing SLLAO option in RA
+26243	ID:11	Processing MTU option in RA
+26245	ID:11	ARO supported in this message
+26257	ID:11	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:740b:b:b0b with target address fe80::212:7401:1:101
+26293	ID:1	Received NS from 2001:da8::212:740b:b:b0b to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+26298	ID:1	ND ARO option is supported in received NS
+26299	ID:1	# Register list: 
+26316	ID:1	[ MAC:0012:7403:0003:0303 , Register ip: 2001::800:0:807:0:6604:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1783, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+26331	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 3:303::, Is used:116, State: 3, Register Count: 0, Register lifetime: 65511, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+26348	ID:1	[ MAC:0012:7405:0005:0505 , Register ip: 2001::b00:0:807:0:b905:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1786, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+26363	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 5:505::, Is used:116, State: 5, Register Count: 0, Register lifetime: 65511, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+26381	ID:1	[ MAC:0012:7407:0007:0707 , Register ip: 2001::c00:0:807:0:1d06:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1787, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+26395	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 7:707::, Is used:116, State: 7, Register Count: 0, Register lifetime: 65511, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+26414	ID:1	[ MAC:0012:7409:0009:0909 , Register ip: 2001::f00:0:807:0:d107:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1790, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+26429	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 9:909::, Is used:116, State: 9, Register Count: 0, Register lifetime: 65511, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+26447	ID:1	[ MAC:0012:7402:0002:0202 , Register ip: 2001::1600:0:807:0:750b:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1797, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+26466	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 2:202::, Is used:116, State: 2, Register Count: 0, Register lifetime: 65511, Registration timer: -1, Default router:(ip:76d2:3643::7cd3:0:2611:84d3, lifetime: 4366) ]
+26471	ID:2	Powertrace 20313 833366 2725 7959
+26483	ID:1	[ MAC:0012:7404:0004:0404 , Register ip: 2001::1800:0:807:0:190c:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1799, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+26490	ID:10	Powertrace 11123 842556 0 7024
+26498	ID:1	[ MAC:0000:0c5a:0000:0000 , Register ip: 4:404::, Is used:116, State: 4, Register Count: 0, Register lifetime: 65511, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+26504	ID:1	2001:da8::212:740b:b:b0b has been added to the registration list.
+26505	ID:1	# Register list: 
+26524	ID:1	[ MAC:0012:7403:0003:0303 , Register ip: 2001::800:0:807:0:6604:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1783, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+26539	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 3:303::, Is used:116, State: 3, Register Count: 0, Register lifetime: 65511, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+26556	ID:1	[ MAC:0012:7405:0005:0505 , Register ip: 2001::b00:0:807:0:b905:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1786, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+26571	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 5:505::, Is used:116, State: 5, Register Count: 0, Register lifetime: 65511, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+26589	ID:1	[ MAC:0012:7407:0007:0707 , Register ip: 2001::c00:0:807:0:1d06:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1787, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+26603	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 7:707::, Is used:116, State: 7, Register Count: 0, Register lifetime: 65511, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+26621	ID:1	[ MAC:0012:7409:0009:0909 , Register ip: 2001::f00:0:807:0:d107:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1790, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+26635	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 9:909::, Is used:116, State: 9, Register Count: 0, Register lifetime: 65510, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+26654	ID:1	[ MAC:0012:7402:0002:0202 , Register ip: 2001::1600:0:807:0:750b:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1796, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+26673	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 2:202::, Is used:116, State: 2, Register Count: 0, Register lifetime: 65510, Registration timer: -1, Default router:(ip:76d2:3643::7cd3:0:2611:84d3, lifetime: 4366) ]
+26691	ID:1	[ MAC:0012:7404:0004:0404 , Register ip: 2001::1800:0:807:0:190c:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1798, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+26705	ID:1	[ MAC:0000:0c5a:0000:0000 , Register ip: 4:404::, Is used:116, State: 4, Register Count: 0, Register lifetime: 65510, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+26707	ID:1	ARO supported in NA message 
+26719	ID:1	Sending NA to 2001:da8::212:740b:b:b0b from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+26731	ID:11	Powertrace 23555 830124 4623 7843
+26802	ID:7	Powertrace 22429 831249 3962 8959
+26836	ID:11	Received NA from fe80::212:7401:1:101 to 2001:da8::212:740b:b:b0b with target address fe80::212:7401:1:101
+26843	ID:11	2001:da8::212:740b:b:b0b address registered successfully.
+26845	ID:11	# Print interface address list: 
+26848	ID:11	# Address 1: ::  state: 0  type: 0  isused: 0
+26855	ID:11	# Address 2: 2001:da8::212:740b:b:b0b  state: 1  type: 1  isused: 1
+26861	ID:11	# Address 3: fe80::212:740b:b:b0b  state: 1  type: 1  isused: 1
+26952	ID:4	Powertrace 20826 832853 3136 8411
+26977	ID:3	Powertrace 20705 832973 2620 8056
+26978	ID:5	Powertrace 20550 833128 2517 8495
+27027	ID:6	Powertrace 11099 842580 0 8380
+27105	ID:8	Powertrace 11131 842548 0 7913
+27248	ID:6	Sending RS 0
+27253	ID:6	Sending RS to ff02::2 from fe80::212:7406:6:606
+27286	ID:1	Received RS from fe80::212:7406:6:606 to ff02::2
+27289	ID:1	Solicited RA: 
+27297	ID:1	Sending RA to fe80::212:7406:6:606 from fe80::212:7401:1:101
+27317	ID:9	Powertrace 21890 831788 3444 9655
+27507	ID:6	Received RA from fe80::212:7401:1:101 to fe80::212:7406:6:606
+27509	ID:6	uip_ds6_if.cur_hop_limit 64
+27511	ID:6	Processing PREFIX option in RA
+27516	ID:6	Adding prefix 2001:da8::length 64, vlifetime 600
+27519	ID:6	# Print interface address list: 
+27522	ID:6	# Address 1: ::  state: 0  type: 0  isused: 0
+27529	ID:6	# Address 2: 2001:da8::212:7406:6:606  state: 0  type: 1  isused: 1
+27535	ID:6	# Address 3: fe80::212:7406:6:606  state: 1  type: 1  isused: 1
+27537	ID:6	ND option not supported in RA
+27539	ID:6	Processing SLLAO option in RA
+27543	ID:6	Processing MTU option in RA
+27545	ID:6	ARO supported in this message
+27557	ID:6	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:7406:6:606 with target address fe80::212:7401:1:101
+27671	ID:1	Received NS from 2001:da8::212:7406:6:606 to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+27676	ID:1	ND ARO option is supported in received NS
+27677	ID:1	# Register list: 
+27694	ID:1	[ MAC:0012:7403:0003:0303 , Register ip: 2001::800:0:807:0:6604:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1781, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+27709	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 3:303::, Is used:116, State: 3, Register Count: 0, Register lifetime: 65509, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+27727	ID:1	[ MAC:0012:7405:0005:0505 , Register ip: 2001::b00:0:807:0:b905:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1784, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+27741	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 5:505::, Is used:116, State: 5, Register Count: 0, Register lifetime: 65509, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+27759	ID:1	[ MAC:0012:7407:0007:0707 , Register ip: 2001::c00:0:807:0:1d06:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1785, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+27775	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 7:707::, Is used:116, State: 7, Register Count: 0, Register lifetime: 65509, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+27792	ID:1	[ MAC:0012:7409:0009:0909 , Register ip: 2001::f00:0:807:0:d107:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1788, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+27807	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 9:909::, Is used:116, State: 9, Register Count: 0, Register lifetime: 65509, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+27825	ID:1	[ MAC:0012:7402:0002:0202 , Register ip: 2001::1600:0:807:0:750b:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1795, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+27844	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 2:202::, Is used:116, State: 2, Register Count: 0, Register lifetime: 65509, Registration timer: -1, Default router:(ip:76d2:3643::7cd3:0:2611:84d3, lifetime: 4366) ]
+27861	ID:1	[ MAC:0012:7404:0004:0404 , Register ip: 2001::1800:0:807:0:190c:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1797, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+27876	ID:1	[ MAC:0000:0c5a:0000:0000 , Register ip: 4:404::, Is used:116, State: 4, Register Count: 0, Register lifetime: 65509, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+27882	ID:1	2001:da8::212:7406:6:606 has been added to the registration list.
+27884	ID:1	# Register list: 
+27902	ID:1	[ MAC:0012:7403:0003:0303 , Register ip: 2001::800:0:807:0:6604:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1781, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+27917	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 3:303::, Is used:116, State: 3, Register Count: 0, Register lifetime: 65509, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+27934	ID:1	[ MAC:0012:7405:0005:0505 , Register ip: 2001::b00:0:807:0:b905:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1784, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+27949	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 5:505::, Is used:116, State: 5, Register Count: 0, Register lifetime: 65509, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+27967	ID:1	[ MAC:0012:7407:0007:0707 , Register ip: 2001::c00:0:807:0:1d06:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1785, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+27981	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 7:707::, Is used:116, State: 7, Register Count: 0, Register lifetime: 65509, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+27999	ID:1	[ MAC:0012:7409:0009:0909 , Register ip: 2001::f00:0:807:0:d107:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1788, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+28014	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 9:909::, Is used:116, State: 9, Register Count: 0, Register lifetime: 65509, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+28033	ID:1	[ MAC:0012:7402:0002:0202 , Register ip: 2001::1600:0:807:0:750b:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1795, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+28051	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 2:202::, Is used:116, State: 2, Register Count: 0, Register lifetime: 65509, Registration timer: -1, Default router:(ip:76d2:3643::7cd3:0:2611:84d3, lifetime: 4366) ]
+28069	ID:1	[ MAC:0012:7404:0004:0404 , Register ip: 2001::1800:0:807:0:190c:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1797, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+28084	ID:1	[ MAC:0000:0c5a:0000:0000 , Register ip: 4:404::, Is used:116, State: 4, Register Count: 0, Register lifetime: 65509, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+28086	ID:1	ARO supported in NA message 
+28098	ID:1	Sending NA to 2001:da8::212:7406:6:606 from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+28154	ID:8	Sending RS 0
+28159	ID:8	Sending RS to ff02::2 from fe80::212:7408:8:808
+28256	ID:6	Received NA from fe80::212:7401:1:101 to 2001:da8::212:7406:6:606 with target address fe80::212:7401:1:101
+28263	ID:6	2001:da8::212:7406:6:606 address registered successfully.
+28265	ID:6	# Print interface address list: 
+28269	ID:6	# Address 1: ::  state: 0  type: 0  isused: 0
+28275	ID:6	# Address 2: 2001:da8::212:7406:6:606  state: 1  type: 1  isused: 1
+28281	ID:6	# Address 3: fe80::212:7406:6:606  state: 1  type: 1  isused: 1
+28411	ID:1	Received RS from fe80::212:7408:8:808 to ff02::2
+28414	ID:1	Solicited RA: 
+28422	ID:1	Sending RA to fe80::212:7408:8:808 from fe80::212:7401:1:101
+28471	ID:2	Powertrace 21368 897847 2725 9234
+28490	ID:10	Powertrace 12112 907103 0 8271
+28581	ID:8	Received RA from fe80::212:7401:1:101 to fe80::212:7408:8:808
+28583	ID:8	uip_ds6_if.cur_hop_limit 64
+28585	ID:8	Processing PREFIX option in RA
+28590	ID:8	Adding prefix 2001:da8::length 64, vlifetime 600
+28593	ID:8	# Print interface address list: 
+28596	ID:8	# Address 1: ::  state: 0  type: 0  isused: 0
+28603	ID:8	# Address 2: 2001:da8::212:7408:8:808  state: 0  type: 1  isused: 1
+28609	ID:8	# Address 3: fe80::212:7408:8:808  state: 1  type: 1  isused: 1
+28611	ID:8	ND option not supported in RA
+28613	ID:8	Processing SLLAO option in RA
+28617	ID:8	Processing MTU option in RA
+28619	ID:8	ARO supported in this message
+28631	ID:8	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:7408:8:808 with target address fe80::212:7401:1:101
+28667	ID:1	Received NS from 2001:da8::212:7408:8:808 to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+28672	ID:1	ND ARO option is supported in received NS
+28673	ID:1	# Register list: 
+28691	ID:1	[ MAC:0012:7403:0003:0303 , Register ip: 2001::800:0:807:0:6604:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1780, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+28705	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 3:303::, Is used:116, State: 3, Register Count: 0, Register lifetime: 65508, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+28723	ID:1	[ MAC:0012:7405:0005:0505 , Register ip: 2001::b00:0:807:0:b905:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1783, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+28731	ID:11	Powertrace 26008 893207 4623 9387
+28737	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 5:505::, Is used:116, State: 5, Register Count: 0, Register lifetime: 65508, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+28755	ID:1	[ MAC:0012:7407:0007:0707 , Register ip: 2001::c00:0:807:0:1d06:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1784, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+28770	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 7:707::, Is used:116, State: 7, Register Count: 0, Register lifetime: 65508, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+28789	ID:1	[ MAC:0012:7409:0009:0909 , Register ip: 2001::f00:0:807:0:d107:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1787, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+28802	ID:7	Powertrace 23421 895793 3962 10048
+28803	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 9:909::, Is used:116, State: 9, Register Count: 0, Register lifetime: 65508, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+28821	ID:1	[ MAC:0012:7402:0002:0202 , Register ip: 2001::1600:0:807:0:750b:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1794, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+28840	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 2:202::, Is used:116, State: 2, Register Count: 0, Register lifetime: 65508, Registration timer: -1, Default router:(ip:76d2:3643::7cd3:0:2611:84d3, lifetime: 4366) ]
+28857	ID:1	[ MAC:0012:7404:0004:0404 , Register ip: 2001::1800:0:807:0:190c:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1796, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+28872	ID:1	[ MAC:0000:0c5a:0000:0000 , Register ip: 4:404::, Is used:116, State: 4, Register Count: 0, Register lifetime: 65508, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+28878	ID:1	2001:da8::212:7408:8:808 has been added to the registration list.
+28880	ID:1	# Register list: 
+28897	ID:1	[ MAC:0012:7403:0003:0303 , Register ip: 2001::800:0:807:0:6604:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1780, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+28913	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 3:303::, Is used:116, State: 3, Register Count: 0, Register lifetime: 65508, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+28931	ID:1	[ MAC:0012:7405:0005:0505 , Register ip: 2001::b00:0:807:0:b905:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1783, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+28945	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 5:505::, Is used:116, State: 5, Register Count: 0, Register lifetime: 65508, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+28952	ID:4	Powertrace 21876 897339 3136 9497
+28963	ID:1	[ MAC:0012:7407:0007:0707 , Register ip: 2001::c00:0:807:0:1d06:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1784, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+28977	ID:3	Powertrace 21710 897504 2620 9329
+28977	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 7:707::, Is used:116, State: 7, Register Count: 0, Register lifetime: 65508, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+28978	ID:5	Powertrace 21569 897645 2517 9751
+28995	ID:1	[ MAC:0012:7409:0009:0909 , Register ip: 2001::f00:0:807:0:d107:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1787, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+29010	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 9:909::, Is used:116, State: 9, Register Count: 0, Register lifetime: 65508, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+29029	ID:6	Powertrace 23423 895792 4371 10314
+29029	ID:1	[ MAC:0012:7402:0002:0202 , Register ip: 2001::1600:0:807:0:750b:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1794, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+29047	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 2:202::, Is used:116, State: 2, Register Count: 0, Register lifetime: 65508, Registration timer: -1, Default router:(ip:76d2:3643::7cd3:0:2611:84d3, lifetime: 4366) ]
+29065	ID:1	[ MAC:0012:7404:0004:0404 , Register ip: 2001::1800:0:807:0:190c:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1796, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+29080	ID:1	[ MAC:0000:0c5a:0000:0000 , Register ip: 4:404::, Is used:116, State: 4, Register Count: 0, Register lifetime: 65508, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+29082	ID:1	ARO supported in NA message 
+29094	ID:1	Sending NA to 2001:da8::212:7408:8:808 from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+29106	ID:8	Powertrace 19717 899498 2417 9308
+29210	ID:8	Received NA from fe80::212:7401:1:101 to 2001:da8::212:7408:8:808 with target address fe80::212:7401:1:101
+29217	ID:8	2001:da8::212:7408:8:808 address registered successfully.
+29219	ID:8	# Print interface address list: 
+29223	ID:8	# Address 1: ::  state: 0  type: 0  isused: 0
+29229	ID:8	# Address 2: 2001:da8::212:7408:8:808  state: 1  type: 1  isused: 1
+29236	ID:8	# Address 3: fe80::212:7408:8:808  state: 1  type: 1  isused: 1
+29317	ID:9	Powertrace 22780 896434 3444 11048
+30367	ID:10	Sending RS 0
+30372	ID:10	Sending RS to ff02::2 from fe80::212:740a:a:a0a
+30412	ID:1	Received RS from fe80::212:740a:a:a0a to ff02::2
+30415	ID:1	Solicited RA: 
+30422	ID:1	Sending RA to fe80::212:740a:a:a0a from fe80::212:7401:1:101
+30472	ID:2	Powertrace 22269 962494 2725 10165
+30520	ID:10	Powertrace 17506 968173 2209 8739
+30732	ID:11	Powertrace 26925 957838 4623 10142
+30803	ID:7	Powertrace 24291 960470 3962 11021
+30845	ID:10	Received RA from fe80::212:7401:1:101 to fe80::212:740a:a:a0a
+30847	ID:10	uip_ds6_if.cur_hop_limit 64
+30849	ID:10	Processing PREFIX option in RA
+30854	ID:10	Adding prefix 2001:da8::length 64, vlifetime 600
+30857	ID:10	# Print interface address list: 
+30860	ID:10	# Address 1: ::  state: 0  type: 0  isused: 0
+30867	ID:10	# Address 2: 2001:da8::212:740a:a:a0a  state: 0  type: 1  isused: 1
+30873	ID:10	# Address 3: fe80::212:740a:a:a0a  state: 1  type: 1  isused: 1
+30875	ID:10	ND option not supported in RA
+30877	ID:10	Processing SLLAO option in RA
+30881	ID:10	Processing MTU option in RA
+30883	ID:10	ARO supported in this message
+30895	ID:10	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:740a:a:a0a with target address fe80::212:7401:1:101
+30953	ID:4	Powertrace 22790 961973 3136 10620
+30978	ID:3	Powertrace 22580 962181 2620 10439
+30979	ID:5	Powertrace 22439 962322 2517 10838
+31029	ID:6	Powertrace 24354 960409 4371 11228
+31046	ID:1	Received NS from 2001:da8::212:740a:a:a0a to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+31052	ID:1	ND ARO option is supported in received NS
+31053	ID:1	# Register list: 
+31071	ID:1	[ MAC:0012:7403:0003:0303 , Register ip: 2001::800:0:807:0:6604:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1778, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+31085	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 3:303::, Is used:116, State: 3, Register Count: 0, Register lifetime: 65506, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+31103	ID:1	[ MAC:0012:7405:0005:0505 , Register ip: 2001::b00:0:807:0:b905:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1781, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+31107	ID:8	Powertrace 22004 962759 2417 10486
+31117	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 5:505::, Is used:116, State: 5, Register Count: 0, Register lifetime: 65506, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+31135	ID:1	[ MAC:0012:7407:0007:0707 , Register ip: 2001::c00:0:807:0:1d06:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1782, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+31151	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 7:707::, Is used:116, State: 7, Register Count: 0, Register lifetime: 65506, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+31168	ID:1	[ MAC:0012:7409:0009:0909 , Register ip: 2001::f00:0:807:0:d107:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1785, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+31183	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 9:909::, Is used:116, State: 9, Register Count: 0, Register lifetime: 65506, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+31201	ID:1	[ MAC:0012:7402:0002:0202 , Register ip: 2001::1600:0:807:0:750b:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1792, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+31219	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 2:202::, Is used:116, State: 2, Register Count: 0, Register lifetime: 65506, Registration timer: -1, Default router:(ip:76d2:3643::7cd3:0:2611:84d3, lifetime: 4366) ]
+31237	ID:1	[ MAC:0012:7404:0004:0404 , Register ip: 2001::1800:0:807:0:190c:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1794, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+31252	ID:1	[ MAC:0000:0c5a:0000:0000 , Register ip: 4:404::, Is used:116, State: 4, Register Count: 0, Register lifetime: 65506, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+31258	ID:1	2001:da8::212:740a:a:a0a has been added to the registration list.
+31259	ID:1	# Register list: 
+31278	ID:1	[ MAC:0012:7403:0003:0303 , Register ip: 2001::800:0:807:0:6604:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1778, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+31293	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 3:303::, Is used:116, State: 3, Register Count: 0, Register lifetime: 65506, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+31310	ID:1	[ MAC:0012:7405:0005:0505 , Register ip: 2001::b00:0:807:0:b905:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1781, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+31317	ID:9	Powertrace 23661 961100 3444 11972
+31325	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 5:505::, Is used:116, State: 5, Register Count: 0, Register lifetime: 65506, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+31343	ID:1	[ MAC:0012:7407:0007:0707 , Register ip: 2001::c00:0:807:0:1d06:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1782, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+31357	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 7:707::, Is used:116, State: 7, Register Count: 0, Register lifetime: 65506, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+31375	ID:1	[ MAC:0012:7409:0009:0909 , Register ip: 2001::f00:0:807:0:d107:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1785, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+31389	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 9:909::, Is used:116, State: 9, Register Count: 0, Register lifetime: 65506, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+31408	ID:1	[ MAC:0012:7402:0002:0202 , Register ip: 2001::1600:0:807:0:750b:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1792, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+31427	ID:1	[ MAC:0000:0102:2001:0000 , Register ip: 2:202::, Is used:116, State: 2, Register Count: 0, Register lifetime: 65506, Registration timer: -1, Default router:(ip:76d2:3643::7cd3:0:2611:84d3, lifetime: 4366) ]
+31445	ID:1	[ MAC:0012:7404:0004:0404 , Register ip: 2001::1800:0:807:0:190c:0, Is used:1, State: 2, Register Count: 0, Register lifetime: 1794, Registration timer: 0, Default router:(ip:(NULL IP addr), lifetime: 0) ]
+31460	ID:1	[ MAC:0000:0c5a:0000:0000 , Register ip: 4:404::, Is used:116, State: 4, Register Count: 0, Register lifetime: 65506, Registration timer: -1, Default router:(ip:::, lifetime: 0) ]
+31462	ID:1	ARO supported in NA message 
+31474	ID:1	Sending NA to 2001:da8::212:740a:a:a0a from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+31595	ID:10	Received NA from fe80::212:7401:1:101 to 2001:da8::212:740a:a:a0a with target address fe80::212:7401:1:101
+31603	ID:10	2001:da8::212:740a:a:a0a address registered successfully.
+31605	ID:10	# Print interface address list: 
+31608	ID:10	# Address 1: ::  state: 0  type: 0  isused: 0
+31615	ID:10	# Address 2: 2001:da8::212:740a:a:a0a  state: 1  type: 1  isused: 1
+31621	ID:10	# Address 3: fe80::212:740a:a:a0a  state: 1  type: 1  isused: 1
+32472	ID:2	Powertrace 23012 1027275 2725 11145
+32492	ID:10	Powertrace 26206 1024081 5302 10781
+32732	ID:11	Powertrace 27673 1022614 4623 11089
+32803	ID:7	Powertrace 24985 1025301 3962 11791
+32953	ID:4	Powertrace 23527 1026760 3136 11226
+32978	ID:3	Powertrace 23274 1027012 2620 11032
+32979	ID:5	Powertrace 23133 1027153 2517 11431
+33029	ID:6	Powertrace 25091 1025196 4371 11644
+33037	ID:2	Router found ? (boolean): 1
+33107	ID:8	Powertrace 22746 1027541 2417 11079
+33317	ID:9	Powertrace 24355 1025931 3444 12565
+34346	ID:4	Router found ? (boolean): 1
+34471	ID:2	Powertrace 23860 1091962 2725 11561
+34492	ID:10	Powertrace 26950 1088873 5302 11197
+34732	ID:11	Powertrace 28418 1087405 4623 11505
+34803	ID:7	Powertrace 25687 1090135 3962 12207
+34953	ID:4	Powertrace 24402 1091420 3136 11642
+34978	ID:3	Powertrace 23976 1091846 2620 11448
+34979	ID:5	Powertrace 23835 1091987 2517 11847
+35029	ID:6	Powertrace 25836 1089987 4371 12060
+35107	ID:8	Powertrace 23490 1092333 2417 11495
+35317	ID:9	Powertrace 25056 1090766 3444 12981
+36024	ID:11	Router found ? (boolean): 1
+36472	ID:2	Powertrace 24573 1156796 2725 11977
+36492	ID:10	Powertrace 27708 1153663 5302 11613
+36732	ID:11	Powertrace 29303 1152066 4623 11921
+36803	ID:7	Powertrace 26400 1154969 3962 12623
+36953	ID:4	Powertrace 25115 1156254 3136 12058
+36978	ID:3	Powertrace 24689 1156680 2620 11864
+36980	ID:5	Powertrace 24548 1156821 2517 12263
+37029	ID:6	Powertrace 26593 1154778 4371 12476
+37107	ID:8	Powertrace 24248 1157123 2417 11911
+37251	ID:6	Router found ? (boolean): 1
+37318	ID:9	Powertrace 25769 1155600 3444 13397
+38157	ID:8	Router found ? (boolean): 1
+38472	ID:2	Powertrace 25276 1221618 2725 12393
+38492	ID:10	Powertrace 28453 1218442 5302 12029
+38732	ID:11	Powertrace 30005 1216889 4623 12337
+38803	ID:7	Powertrace 27103 1219791 3962 13039
+38953	ID:4	Powertrace 25818 1221076 3136 12474
+38978	ID:3	Powertrace 25392 1221502 2620 12280
+38979	ID:5	Powertrace 25251 1221643 2517 12679
+39029	ID:6	Powertrace 27453 1219441 4371 12892
+39107	ID:8	Powertrace 25133 1221761 2417 12327
+39317	ID:9	Powertrace 26471 1220423 3444 13813
+40371	ID:10	Router found ? (boolean): 1
+40471	ID:2	Powertrace 25978 1286452 2725 12809
+40492	ID:10	Powertrace 29366 1283064 5302 12445
+40732	ID:11	Powertrace 30707 1281723 4623 12753
+40803	ID:7	Powertrace 27805 1284625 3962 13455
+40953	ID:4	Powertrace 26520 1285910 3136 12890
+40978	ID:3	Powertrace 26094 1286336 2620 12696
+40979	ID:5	Powertrace 25953 1286477 2517 13095
+41029	ID:6	Powertrace 28155 1284275 4371 13308
+41107	ID:8	Powertrace 25835 1286595 2417 12743
+41317	ID:9	Powertrace 27173 1285257 3444 14229
+42472	ID:2	Powertrace 26690 1351287 2725 13225
+42492	ID:10	Powertrace 30079 1347898 5302 12861
+42732	ID:11	Powertrace 31420 1346557 4623 13169
+42803	ID:7	Powertrace 28518 1349459 3962 13871
+42953	ID:4	Powertrace 27233 1350744 3136 13306
+42978	ID:3	Powertrace 26807 1351170 2620 13112
+42980	ID:5	Powertrace 26666 1351311 2517 13511
+43029	ID:6	Powertrace 28868 1349109 4371 13724
+43107	ID:8	Powertrace 26548 1351429 2417 13159
+43318	ID:9	Powertrace 27886 1350091 3444 14645
+44471	ID:2	Powertrace 27392 1416110 2725 13641
+44492	ID:10	Powertrace 30782 1412720 5302 13277
+44732	ID:11	Powertrace 32123 1411379 4623 13585
+44803	ID:7	Powertrace 29221 1414281 3962 14287
+44953	ID:4	Powertrace 27936 1415566 3136 13722
+44978	ID:3	Powertrace 27510 1415992 2620 13528
+44979	ID:5	Powertrace 27369 1416133 2517 13927
+45029	ID:6	Powertrace 29571 1413931 4371 14140
+45107	ID:8	Powertrace 27251 1416251 2417 13575
+45317	ID:9	Powertrace 28589 1414913 3444 15061
+46471	ID:2	Powertrace 28094 1480944 2725 14057
+46492	ID:10	Powertrace 31484 1477554 5302 13693
+46732	ID:11	Powertrace 32825 1476213 4623 14001
+46803	ID:7	Powertrace 29923 1479115 3962 14703
+46953	ID:4	Powertrace 28638 1480400 3136 14138
+46978	ID:3	Powertrace 28212 1480826 2620 13944
+46979	ID:5	Powertrace 28071 1480967 2517 14343
+47029	ID:6	Powertrace 30273 1478765 4371 14556
+47107	ID:8	Powertrace 27953 1481085 2417 13991
+47317	ID:9	Powertrace 29291 1479747 3444 15477
+48472	ID:2	Powertrace 28807 1545778 2725 14473
+48492	ID:10	Powertrace 32197 1542388 5302 14109
+48732	ID:11	Powertrace 33538 1541047 4623 14417
+48803	ID:7	Powertrace 30636 1543949 3962 15119
+48953	ID:4	Powertrace 29351 1545234 3136 14554
+48978	ID:3	Powertrace 28925 1545660 2620 14360
+48980	ID:5	Powertrace 28784 1545801 2517 14759
+49029	ID:6	Powertrace 30986 1543599 4371 14972
+49107	ID:8	Powertrace 28666 1545919 2417 14407
+49318	ID:9	Powertrace 30004 1544581 3444 15893
+50471	ID:2	Powertrace 29509 1610601 2725 14889
+50492	ID:10	Powertrace 32900 1607210 5302 14525
+50732	ID:11	Powertrace 34241 1605869 4623 14833
+50803	ID:7	Powertrace 31339 1608771 3962 15535
+50953	ID:4	Powertrace 30054 1610056 3136 14970
+50978	ID:3	Powertrace 29628 1610482 2620 14776
+50979	ID:5	Powertrace 29487 1610623 2517 15175
+51029	ID:6	Powertrace 31689 1608421 4371 15388
+51107	ID:8	Powertrace 29369 1610741 2417 14823
+51317	ID:9	Powertrace 30707 1609403 3444 16309
+52472	ID:2	Powertrace 30211 1675435 2725 15305
+52492	ID:10	Powertrace 33602 1672044 5302 14941
+52732	ID:11	Powertrace 34943 1670703 4623 15249
+52803	ID:7	Powertrace 32041 1673605 3962 15951
+52953	ID:4	Powertrace 30756 1674890 3136 15386
+52978	ID:3	Powertrace 30330 1675316 2620 15192
+52979	ID:5	Powertrace 30189 1675457 2517 15591
+53029	ID:6	Powertrace 32391 1673255 4371 15804
+53107	ID:8	Powertrace 30071 1675575 2417 15239
+53317	ID:9	Powertrace 31409 1674237 3444 16725
+54472	ID:2	Powertrace 30924 1740269 2725 15721
+54492	ID:10	Powertrace 34314 1736879 5302 15357
+54732	ID:11	Powertrace 35656 1735537 4623 15665
+54803	ID:7	Powertrace 32754 1738439 3962 16367
+54953	ID:4	Powertrace 31469 1739724 3136 15802
+54978	ID:3	Powertrace 31043 1740150 2620 15608
+54980	ID:5	Powertrace 30902 1740291 2517 16007
+55029	ID:6	Powertrace 33104 1738089 4371 16220
+55107	ID:8	Powertrace 30784 1740409 2417 15655
+55318	ID:9	Powertrace 32122 1739071 3444 17141
+56471	ID:2	Powertrace 31627 1805091 2725 16137
+56492	ID:10	Powertrace 35017 1801701 5302 15773
+56732	ID:11	Powertrace 36359 1800359 4623 16081
+56803	ID:7	Powertrace 33457 1803261 3962 16783
+56953	ID:4	Powertrace 32172 1804546 3136 16218
+56978	ID:3	Powertrace 31746 1804972 2620 16024
+56979	ID:5	Powertrace 31605 1805113 2517 16423
+57029	ID:6	Powertrace 33807 1802911 4371 16636
+57107	ID:8	Powertrace 31487 1805231 2417 16071
+57317	ID:9	Powertrace 32825 1803893 3444 17557
+58471	ID:2	Powertrace 32329 1869925 2725 16553
+58492	ID:10	Powertrace 35719 1866535 5302 16189
+58732	ID:11	Powertrace 37061 1865193 4623 16497
+58803	ID:7	Powertrace 34159 1868095 3962 17199
+58953	ID:4	Powertrace 32874 1869380 3136 16634
+58978	ID:3	Powertrace 32447 1869807 2620 16440
+58979	ID:5	Powertrace 32307 1869947 2517 16839
+59029	ID:6	Powertrace 34509 1867745 4371 17052
+59107	ID:8	Powertrace 32189 1870065 2417 16487
+59317	ID:9	Powertrace 33527 1868727 3444 17973
+60472	ID:2	Powertrace 33042 1934759 2725 16969
+60492	ID:10	Powertrace 36432 1931369 5302 16605
+60732	ID:11	Powertrace 37774 1930027 4623 16913
+60803	ID:7	Powertrace 34872 1932929 3962 17615
+60953	ID:4	Powertrace 33587 1934214 3136 17050
+60978	ID:3	Powertrace 33160 1934641 2620 16856
+60980	ID:5	Powertrace 33020 1934781 2517 17255
+61029	ID:6	Powertrace 35222 1932579 4371 17468
+61107	ID:8	Powertrace 32902 1934899 2417 16903
+61318	ID:9	Powertrace 34240 1933561 3444 18389
+62472	ID:2	Powertrace 33748 1999578 2725 17385
+62492	ID:10	Powertrace 37139 1996187 5302 17021
+62732	ID:11	Powertrace 38481 1994845 4623 17329
+62803	ID:7	Powertrace 35579 1997747 3962 18031
+62953	ID:4	Powertrace 34294 1999032 3136 17466
+62978	ID:3	Powertrace 33867 1999459 2620 17272
+62979	ID:5	Powertrace 33727 1999599 2517 17671
+63029	ID:6	Powertrace 35929 1997397 4371 17884
+63107	ID:8	Powertrace 33609 1999717 2417 17319
+63317	ID:9	Powertrace 34947 1998379 3444 18805
+64471	ID:2	Powertrace 34450 2064412 2725 17801
+64492	ID:10	Powertrace 37841 2061021 5302 17437
+64732	ID:11	Powertrace 39183 2059679 4623 17745
+64803	ID:7	Powertrace 36281 2062581 3962 18447
+64953	ID:4	Powertrace 34997 2063865 3136 17882
+64978	ID:3	Powertrace 34569 2064293 2620 17688
+64979	ID:5	Powertrace 34429 2064433 2517 18087
+65029	ID:6	Powertrace 36631 2062231 4371 18300
+65107	ID:8	Powertrace 34311 2064551 2417 17735
+65317	ID:9	Powertrace 35649 2063213 3444 19221
+66472	ID:2	Powertrace 35163 2129246 2725 18217
+66492	ID:10	Powertrace 38554 2125855 5302 17853
+66732	ID:11	Powertrace 39896 2124513 4623 18161
+66803	ID:7	Powertrace 36994 2127415 3962 18863
+66953	ID:4	Powertrace 35710 2128699 3136 18298
+66978	ID:3	Powertrace 35281 2129128 2620 18104
+66980	ID:5	Powertrace 35142 2129267 2517 18503
+67029	ID:6	Powertrace 37344 2127065 4371 18716
+67107	ID:8	Powertrace 35024 2129385 2417 18151
+67318	ID:9	Powertrace 36362 2128047 3444 19637
+68471	ID:2	Powertrace 35866 2194068 2725 18633
+68492	ID:10	Powertrace 39257 2190677 5302 18269
+68732	ID:11	Powertrace 40599 2189335 4623 18577
+68803	ID:7	Powertrace 37697 2192237 3962 19279
+68953	ID:4	Powertrace 36413 2193521 3136 18714
+68978	ID:3	Powertrace 35984 2193950 2620 18520
+68979	ID:5	Powertrace 35845 2194089 2517 18919
+69029	ID:6	Powertrace 38047 2191887 4371 19132
+69107	ID:8	Powertrace 35727 2194207 2417 18567
+69317	ID:9	Powertrace 37065 2192869 3444 20053
+70471	ID:2	Powertrace 36568 2258902 2725 19049
+70492	ID:10	Powertrace 39959 2255511 5302 18685
+70732	ID:11	Powertrace 41301 2254169 4623 18993
+70803	ID:7	Powertrace 38399 2257071 3962 19695
+70953	ID:4	Powertrace 37116 2258354 3136 19130
+70978	ID:3	Powertrace 36686 2258784 2620 18936
+70979	ID:5	Powertrace 36547 2258923 2517 19335
+71029	ID:6	Powertrace 38750 2256720 4371 19548
+71107	ID:8	Powertrace 36429 2259041 2417 18983
+71317	ID:9	Powertrace 37767 2257703 3444 20469
+72472	ID:2	Powertrace 37281 2323736 2725 19465
+72492	ID:10	Powertrace 40672 2320345 5302 19101
+72732	ID:11	Powertrace 42014 2319003 4623 19409
+72803	ID:7	Powertrace 39113 2321904 3962 20111
+72953	ID:4	Powertrace 37830 2323187 3136 19546
+72978	ID:3	Powertrace 37399 2323618 2620 19352
+72980	ID:5	Powertrace 37260 2323757 2517 19751
+73029	ID:6	Powertrace 39463 2321554 4371 19964
+73107	ID:8	Powertrace 37142 2323875 2417 19399
+73318	ID:9	Powertrace 38480 2322537 3444 20885
+74472	ID:2	Powertrace 37984 2388558 2725 19881
+74492	ID:10	Powertrace 41375 2385167 5302 19517
+74732	ID:11	Powertrace 42717 2383825 4623 19825
+74803	ID:7	Powertrace 39816 2386726 3962 20527
+74953	ID:4	Powertrace 38533 2388009 3136 19962
+74978	ID:3	Powertrace 38102 2388440 2620 19768
+74979	ID:5	Powertrace 37963 2388579 2517 20167
+75029	ID:6	Powertrace 40166 2386376 4371 20380
+75107	ID:8	Powertrace 37845 2388697 2417 19815
+75317	ID:9	Powertrace 39182 2387360 3444 21301
+76472	ID:2	Powertrace 38686 2453392 2725 20297
+76492	ID:10	Powertrace 42077 2450001 5302 19933
+76732	ID:11	Powertrace 43420 2448658 4623 20241
+76803	ID:7	Powertrace 40518 2451560 3962 20943
+76953	ID:4	Powertrace 39235 2452843 3136 20378
+76978	ID:3	Powertrace 38804 2453274 2620 20184
+76979	ID:5	Powertrace 38665 2453413 2517 20583
+77029	ID:6	Powertrace 40868 2451210 4371 20796
+77107	ID:8	Powertrace 38547 2453531 2417 20231
+77317	ID:9	Powertrace 39884 2452194 3444 21717
+78472	ID:2	Powertrace 39399 2518226 2725 20713
+78492	ID:10	Powertrace 42790 2514835 5302 20349
+78732	ID:11	Powertrace 44133 2513492 4623 20657
+78803	ID:7	Powertrace 41231 2516394 3962 21359
+78953	ID:4	Powertrace 39949 2517676 3136 20794
+78978	ID:3	Powertrace 39517 2518108 2620 20600
+78980	ID:5	Powertrace 39378 2518247 2517 20999
+79029	ID:6	Powertrace 41581 2516044 4371 21212
+79107	ID:8	Powertrace 39261 2518364 2417 20647
+79318	ID:9	Powertrace 40598 2517027 3444 22133
+80471	ID:2	Powertrace 40102 2583048 2725 21129
+80492	ID:10	Powertrace 43493 2579657 5302 20765
+80732	ID:11	Powertrace 44836 2578314 4623 21073
+80803	ID:7	Powertrace 41934 2581216 3962 21775
+80953	ID:4	Powertrace 40653 2582497 3136 21210
+80978	ID:3	Powertrace 40220 2582930 2620 21016
+80979	ID:5	Powertrace 40081 2583069 2517 21415
+81029	ID:6	Powertrace 42284 2580866 4371 21628
+81107	ID:8	Powertrace 39964 2583186 2417 21063
+81317	ID:9	Powertrace 41301 2581849 3444 22549
+82471	ID:2	Powertrace 40804 2647882 2725 21545
+82492	ID:10	Powertrace 44195 2644491 5302 21181
+82732	ID:11	Powertrace 45538 2643148 4623 21489
+82803	ID:7	Powertrace 42636 2646050 3962 22191
+82953	ID:4	Powertrace 41355 2647331 3136 21626
+82978	ID:3	Powertrace 40922 2647764 2620 21432
+82979	ID:5	Powertrace 40783 2647903 2517 21831
+83029	ID:6	Powertrace 42986 2645700 4371 22044

@@ -1,0 +1,749 @@
+525	ID:4	Rime started with address 4.4
+536	ID:4	Short MAC 0404 MAC 00:12:74:04:00:04:04:04 Contiki-3.x-3153-g01bafba64 started. Node id is set to 4.
+544	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+547	ID:4	Init of IPv6 data structures
+548	ID:4	16 neighbors
+549	ID:4	2 default routers
+550	ID:4	3 prefixes
+551	ID:4	16 routes
+552	ID:4	3 unicast addresses
+554	ID:4	4 multicast addresses
+555	ID:4	0 anycast addresses
+560	ID:4	Adding prefix fe80::length 64, vlifetime 0
+562	ID:4	# Print interface address list: 
+566	ID:4	# Address 1: ::  state: 0  type: 0  isused: 0
+569	ID:4	# Address 2: ::  state: 0  type: 0  isused: 0
+575	ID:4	# Address 3: fe80::ff:fe00:404  state: 1  type: 1  isused: 1
+576	ID:4	Starting 'ln4'
+577	ID:4	I'm the 6LN4.
+843	ID:5	Rime started with address 5.5
+853	ID:5	Short MAC 0505 MAC 00:12:74:05:00:05:05:05 Contiki-3.x-3153-g01bafba64 started. Node id is set to 5.
+862	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+865	ID:5	Init of IPv6 data structures
+866	ID:5	16 neighbors
+867	ID:5	2 default routers
+868	ID:5	3 prefixes
+869	ID:5	16 routes
+870	ID:5	3 unicast addresses
+872	ID:5	4 multicast addresses
+873	ID:5	0 anycast addresses
+878	ID:5	Adding prefix fe80::length 64, vlifetime 0
+880	ID:5	# Print interface address list: 
+884	ID:5	# Address 1: ::  state: 0  type: 0  isused: 0
+887	ID:5	# Address 2: ::  state: 0  type: 0  isused: 0
+891	ID:1	Rime started with address 1.1
+893	ID:5	# Address 3: fe80::ff:fe00:505  state: 1  type: 1  isused: 1
+894	ID:5	Starting 'ln3'
+895	ID:5	I'm the 6LN3.
+902	ID:1	Short MAC 0101 MAC 00:12:74:01:00:01:01:01 Contiki-3.x-3153-g01bafba64 started. Node id is set to 1.
+911	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+913	ID:1	Init of IPv6 data structures
+914	ID:1	16 neighbors
+916	ID:1	2 default routers
+917	ID:1	3 prefixes
+917	ID:1	16 routes
+919	ID:1	3 unicast addresses
+920	ID:1	5 multicast addresses
+922	ID:1	2 anycast addresses
+927	ID:1	# Initial registration list
+941	ID:1	[ MAC 00:12:74:02:00:02:02:02   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0111aeccd1b2020200a2bb879de20202 ]
+954	ID:1	[ MAC 00:12:74:03:00:03:03:03   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0222df0200c3192a12b3cc42aefef203 ]
+962	ID:7	Rime started with address 7.7
+968	ID:1	[ MAC 00:12:74:04:00:04:04:04   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0333df0200c3192a12b3cc42aefef203 ]
+973	ID:7	Short MAC 0707 MAC 00:12:74:07:00:07:07:07 Contiki-3.x-3153-g01bafba64 started. Node id is set to 7.
+982	ID:1	[ MAC 00:12:74:05:00:05:05:05   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0444df0200c3192a12b3cc42aefef203 ]
+982	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+985	ID:7	Init of IPv6 data structures
+986	ID:7	16 neighbors
+987	ID:7	2 default routers
+988	ID:7	3 prefixes
+989	ID:7	16 routes
+990	ID:7	3 unicast addresses
+992	ID:7	4 multicast addresses
+993	ID:7	0 anycast addresses
+995	ID:1	[ MAC 00:12:74:06:00:06:06:06   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0555df0200c3192a12b3cc42aefef203 ]
+998	ID:7	Adding prefix fe80::length 64, vlifetime 0
+999	ID:2	Rime started with address 2.2
+1000	ID:7	# Print interface address list: 
+1003	ID:7	# Address 1: ::  state: 0  type: 0  isused: 0
+1007	ID:7	# Address 2: ::  state: 0  type: 0  isused: 0
+1009	ID:1	[ MAC 00:12:74:07:00:07:07:07   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0666df0200c3192a12b3cc42aefef203 ]
+1010	ID:2	Short MAC 0202 MAC 00:12:74:02:00:02:02:02 Contiki-3.x-3153-g01bafba64 started. Node id is set to 2.
+1012	ID:7	# Address 3: fe80::ff:fe00:707  state: 1  type: 1  isused: 1
+1014	ID:7	Starting 'ln6'
+1015	ID:7	I'm the 6LN6.
+1018	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1021	ID:2	Init of IPv6 data structures
+1022	ID:2	16 neighbors
+1022	ID:1	[ MAC 00:12:74:08:00:08:08:08   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0777df0200c3192a12b3cc42aefef203 ]
+1023	ID:2	2 default routers
+1024	ID:2	3 prefixes
+1024	ID:1	#list of authorized node
+1025	ID:2	16 routes
+1026	ID:2	3 unicast addresses
+1028	ID:2	4 multicast addresses
+1029	ID:2	0 anycast addresses
+1031	ID:6	Rime started with address 6.6
+1034	ID:2	Adding prefix fe80::length 64, vlifetime 0
+1035	ID:1	MAC:00:12:74:02:00:02:02:02  KEY:0111aeccd1b2020200a2bb879de20202
+1036	ID:2	# Print interface address list: 
+1040	ID:2	# Address 1: ::  state: 0  type: 0  isused: 0
+1041	ID:6	Short MAC 0606 MAC 00:12:74:06:00:06:06:06 Contiki-3.x-3153-g01bafba64 started. Node id is set to 6.
+1043	ID:2	# Address 2: ::  state: 0  type: 0  isused: 0
+1045	ID:1	MAC:00:12:74:03:00:03:03:03  KEY:0222df0200c3192a12b3cc42aefef203
+1049	ID:2	# Address 3: fe80::ff:fe00:202  state: 1  type: 1  isused: 1
+1050	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1051	ID:2	Starting 'ln1'
+1051	ID:2	I'm the 6LN1.
+1053	ID:6	Init of IPv6 data structures
+1054	ID:6	16 neighbors
+1054	ID:1	MAC:00:12:74:04:00:04:04:04  KEY:0333df0200c3192a12b3cc42aefef203
+1055	ID:6	2 default routers
+1056	ID:6	3 prefixes
+1057	ID:6	16 routes
+1058	ID:6	3 unicast addresses
+1060	ID:6	4 multicast addresses
+1061	ID:6	0 anycast addresses
+1064	ID:1	MAC:00:12:74:05:00:05:05:05  KEY:0444df0200c3192a12b3cc42aefef203
+1066	ID:6	Adding prefix fe80::length 64, vlifetime 0
+1068	ID:6	# Print interface address list: 
+1068	ID:3	Rime started with address 3.3
+1071	ID:6	# Address 1: ::  state: 0  type: 0  isused: 0
+1073	ID:1	MAC:00:12:74:06:00:06:06:06  KEY:0555df0200c3192a12b3cc42aefef203
+1075	ID:6	# Address 2: ::  state: 0  type: 0  isused: 0
+1079	ID:3	Short MAC 0303 MAC 00:12:74:03:00:03:03:03 Contiki-3.x-3153-g01bafba64 started. Node id is set to 3.
+1081	ID:6	# Address 3: fe80::ff:fe00:606  state: 1  type: 1  isused: 1
+1082	ID:6	Starting 'ln5'
+1083	ID:1	MAC:00:12:74:07:00:07:07:07  KEY:0666df0200c3192a12b3cc42aefef203
+1083	ID:6	I'm the 6LN5.
+1087	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1090	ID:3	Init of IPv6 data structures
+1091	ID:3	16 neighbors
+1092	ID:1	MAC:00:12:74:08:00:08:08:08  KEY:0777df0200c3192a12b3cc42aefef203
+1093	ID:3	2 default routers
+1093	ID:3	3 prefixes
+1094	ID:3	16 routes
+1096	ID:3	3 unicast addresses
+1097	ID:3	4 multicast addresses
+1099	ID:3	0 anycast addresses
+1099	ID:1	Adding prefix fe80::length 64, flags 0, Valid lifetime 0, Preffered lifetime 0
+1103	ID:3	Adding prefix fe80::length 64, vlifetime 0
+1106	ID:3	# Print interface address list: 
+1108	ID:1	Adding prefix 2001:da8::length 64, flags c0, Valid lifetime 258, Preffered lifetime 258
+1109	ID:3	# Address 1: ::  state: 0  type: 0  isused: 0
+1111	ID:1	# Print interface address list: 
+1113	ID:3	# Address 2: ::  state: 0  type: 0  isused: 0
+1114	ID:1	# Address 1: ::  state: 0  type: 0  isused: 0
+1118	ID:3	# Address 3: fe80::ff:fe00:303  state: 1  type: 1  isused: 1
+1120	ID:3	Starting 'ln2'
+1120	ID:1	# Address 2: 2001:da8::ff:fe00:101  state: 1  type: 1  isused: 1
+1121	ID:3	I'm the 6LN2.
+1126	ID:1	# Address 3: fe80::ff:fe00:12  state: 1  type: 1  isused: 1
+1128	ID:1	Starting 'lbr'
+1129	ID:1	I'm the 6LBR.
+2580	ID:4	Powertrace 2260 64987 0 416
+2898	ID:5	Powertrace 2260 64987 0 416
+3018	ID:7	Powertrace 2260 64987 0 416
+3054	ID:2	Powertrace 2259 64988 0 416
+3086	ID:6	Powertrace 2259 64988 0 416
+3124	ID:3	Powertrace 2260 64987 0 416
+3134	ID:1	Powertrace 8272 65118 0 442
+3620	ID:2	Sending RS 0
+3625	ID:2	Sending RS to ff02::2 from fe80::ff:fe00:202
+3667	ID:1	Received RS from fe80::ff:fe00:202 to ff02::2
+3674	ID:1	Adding neighbor with ip addr fe80::ff:fe00:202 link addr 02:02 state 2
+3675	ID:1	Solicited RA: 
+3681	ID:1	Sending RA to fe80::ff:fe00:202 from fe80::ff:fe00:12
+3685	ID:1	next hop is fe80::ff:fe00:202
+3906	ID:2	Received RA from fe80::ff:fe00:12 to fe80::ff:fe00:202
+3908	ID:2	uip_ds6_if.cur_hop_limit 64
+3910	ID:2	Processing PREFIX option in RA
+3915	ID:2	Adding prefix 2001:da8::length 64, vlifetime 600
+3918	ID:2	# Print interface address list: 
+3921	ID:2	# Address 1: ::  state: 0  type: 0  isused: 0
+3927	ID:2	# Address 2: 2001:da8::ff:fe00:202  state: 0  type: 1  isused: 1
+3933	ID:2	# Address 3: fe80::ff:fe00:202  state: 1  type: 1  isused: 1
+3935	ID:2	Processing 6CO option in RA
+3937	ID:2	Processing ABRO option in RA
+3939	ID:2	Processing SLLAO option in RA
+3946	ID:2	Adding neighbor with ip addr fe80::ff:fe00:12 link addr 01:01 state 2
+3947	ID:2	Processing MTU option in RA
+3949	ID:2	uip_ds6_defrt_add
+3954	ID:2	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:12
+3998	ID:2	m[128]=20010da800000000000000fffe00020200127402000202020708030440c000000258000002580000000020010da80000000000000000000000002203401100007fff20010da80000000000000000000000002303cdab3412ffff20010da800000000000000fffe0001010000000000010111aeccd1b2020200a2bb879de20202
+4355	ID:2	 -> h[32]=ab069a0960120d2d0b90b0b305d2526e610c85fabfff0a0164d14b7e1e0b9d7a
+4355	ID:2	
+4358	ID:2	ARO supported in this message
+4368	ID:2	Sending NS to fe80::ff:fe00:12 from 2001:da8::ff:fe00:202 with target address fe80::ff:fe00:12
+4371	ID:2	next hop is fe80::ff:fe00:12
+4431	ID:1	Received NS from 2001:da8::ff:fe00:202 to fe80::ff:fe00:12 with target address fe80::ff:fe00:12
+4433	ID:1	Processing ARO option in NS
+4437	ID:1	Authorized node MAC address in NS, continue verification ...
+4439	ID:1	Processing NONCE option in NS
+4442	ID:1	Nonce is valid in NS, continue verification ...
+4444	ID:1	Processing AUTH option in NS
+4488	ID:1	m[128]=20010da800000000000000fffe00020200127402000202020708030440c000000258000002580000000020010da80000000000000000000000002203401100007fff20010da80000000000000000000000002303cdab3412ffff20010da800000000000000fffe0001010000000000010111aeccd1b2020200a2bb879de20202
+4581	ID:4	Powertrace 3019 129764 0 1125
+4845	ID:1	 -> h[32]=ab069a0960120d2d0b90b0b305d2526e610c85fabfff0a0164d14b7e1e0b9d7a
+4858	ID:1	# received auth:ab069a0960120d2d0b90b0b305d2526e610c85fabfff0a0164d14b7e1e0b9d7a
+4871	ID:1	# calculate auth:ab069a0960120d2d0b90b0b305d2526e610c85fabfff0a0164d14b7e1e0b9d7a
+4874	ID:1	Authentication passed, execute DAD next ...
+4876	ID:1	Processing SLLAO option in NS
+4883	ID:1	Adding neighbor with ip addr 2001:da8::ff:fe00:202 link addr 02:02 state 2
+4885	ID:1	Processing ARO option in NS
+4888	ID:1	ND ARO option is supported in received NS
+4891	ID:1	DAD passed, update registration entries.
+4899	ID:5	Powertrace 2989 129794 0 1047
+4910	ID:1	[ MAC 00:12:74:02:00:02:02:02   GIP16 2001:da8::ff:fe00:202  Lifetime 1800  Counter 000000000001  Key 0111aeccd1b2020200a2bb879de20202 ]
+4923	ID:1	[ MAC 00:12:74:03:00:03:03:03   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0222df0200c3192a12b3cc42aefef203 ]
+4937	ID:1	[ MAC 00:12:74:04:00:04:04:04   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0333df0200c3192a12b3cc42aefef203 ]
+4950	ID:1	[ MAC 00:12:74:05:00:05:05:05   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0444df0200c3192a12b3cc42aefef203 ]
+4964	ID:1	[ MAC 00:12:74:06:00:06:06:06   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0555df0200c3192a12b3cc42aefef203 ]
+4978	ID:1	[ MAC 00:12:74:07:00:07:07:07   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0666df0200c3192a12b3cc42aefef203 ]
+4991	ID:1	[ MAC 00:12:74:08:00:08:08:08   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0777df0200c3192a12b3cc42aefef203 ]
+4993	ID:1	ARO supported in NA message 
+4995	ID:1	ARO supported in NA message 
+5006	ID:1	Sending NA to 2001:da8::ff:fe00:202 from fe80::ff:fe00:12 with target address fe80::ff:fe00:12
+5009	ID:1	next hop is 2001:da8::ff:fe00:202
+5018	ID:7	Powertrace 2997 129786 0 994
+5056	ID:2	Powertrace 24958 107825 3492 1549
+5087	ID:6	Powertrace 3016 129767 0 1203
+5124	ID:3	Powertrace 2989 129794 0 1220
+5156	ID:1	Powertrace 35442 104071 3883 2953
+5157	ID:2	Received NA from fe80::ff:fe00:12 to 2001:da8::ff:fe00:202 with target address fe80::ff:fe00:12
+5163	ID:2	2001:da8::ff:fe00:202 address registered successfully.
+5165	ID:2	# Print interface address list: 
+5168	ID:2	# Address 1: ::  state: 0  type: 0  isused: 0
+5175	ID:2	# Address 2: 2001:da8::ff:fe00:202  state: 1  type: 1  isused: 1
+5180	ID:2	# Address 3: fe80::ff:fe00:202  state: 1  type: 1  isused: 1
+6581	ID:4	Powertrace 3662 194668 0 1718
+6899	ID:5	Powertrace 3647 194683 0 1640
+7019	ID:7	Powertrace 3629 194701 0 1587
+7057	ID:2	Powertrace 26909 171423 3492 2232
+7087	ID:6	Powertrace 3659 194671 0 1619
+7125	ID:3	Powertrace 3632 194698 0 1636
+7136	ID:1	Powertrace 36202 168260 3883 3369
+8581	ID:4	Powertrace 4294 259561 0 2134
+8899	ID:5	Powertrace 4279 259576 0 2056
+9019	ID:7	Powertrace 4262 259593 0 2003
+9056	ID:2	Powertrace 27631 236224 3492 2648
+9087	ID:6	Powertrace 4291 259564 0 2035
+9103	ID:3	Sending RS 0
+9108	ID:3	Sending RS to ff02::2 from fe80::ff:fe00:303
+9136	ID:1	Powertrace 36837 233161 3883 3785
+9168	ID:1	Received RS from fe80::ff:fe00:303 to ff02::2
+9175	ID:1	Adding neighbor with ip addr fe80::ff:fe00:303 link addr 03:03 state 2
+9176	ID:1	Solicited RA: 
+9183	ID:1	Sending RA to fe80::ff:fe00:303 from fe80::ff:fe00:12
+9186	ID:1	next hop is fe80::ff:fe00:303
+9257	ID:3	Powertrace 9078 259079 2689 2130
+9352	ID:3	Received RA from fe80::ff:fe00:12 to fe80::ff:fe00:303
+9354	ID:3	uip_ds6_if.cur_hop_limit 64
+9357	ID:3	Processing PREFIX option in RA
+9362	ID:3	Adding prefix 2001:da8::length 64, vlifetime 600
+9364	ID:3	# Print interface address list: 
+9368	ID:3	# Address 1: ::  state: 0  type: 0  isused: 0
+9374	ID:3	# Address 2: 2001:da8::ff:fe00:303  state: 0  type: 1  isused: 1
+9380	ID:3	# Address 3: fe80::ff:fe00:303  state: 1  type: 1  isused: 1
+9381	ID:3	Processing 6CO option in RA
+9383	ID:3	Processing ABRO option in RA
+9385	ID:3	Processing SLLAO option in RA
+9392	ID:3	Adding neighbor with ip addr fe80::ff:fe00:12 link addr 01:01 state 2
+9394	ID:3	Processing MTU option in RA
+9395	ID:3	uip_ds6_defrt_add
+9401	ID:3	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:12
+9445	ID:3	m[128]=20010da800000000000000fffe00030300127403000303030708030440c000000258000002580000000020010da80000000000000000000000002203401100007fff20010da80000000000000000000000002303cdab3412ffff20010da800000000000000fffe0001010000000000010222df0200c3192a12b3cc42aefef203
+9802	ID:3	 -> h[32]=1351165c34cac89abcd38d99670ea9c0b279cb9ba32b2513dd000b9d99160ce0
+9802	ID:3	
+9805	ID:3	ARO supported in this message
+9815	ID:3	Sending NS to fe80::ff:fe00:12 from 2001:da8::ff:fe00:303 with target address fe80::ff:fe00:12
+9818	ID:3	next hop is fe80::ff:fe00:12
+9928	ID:1	Received NS from 2001:da8::ff:fe00:303 to fe80::ff:fe00:12 with target address fe80::ff:fe00:12
+9930	ID:1	Processing ARO option in NS
+9934	ID:1	Authorized node MAC address in NS, continue verification ...
+9936	ID:1	Processing NONCE option in NS
+9939	ID:1	Nonce is valid in NS, continue verification ...
+9941	ID:1	Processing AUTH option in NS
+9985	ID:1	m[128]=20010da800000000000000fffe00030300127403000303030708030440c000000258000002580000000020010da80000000000000000000000002203401100007fff20010da80000000000000000000000002303cdab3412ffff20010da800000000000000fffe0001010000000000010222df0200c3192a12b3cc42aefef203
+10343	ID:1	 -> h[32]=1351165c34cac89abcd38d99670ea9c0b279cb9ba32b2513dd000b9d99160ce0
+10356	ID:1	# received auth:1351165c34cac89abcd38d99670ea9c0b279cb9ba32b2513dd000b9d99160ce0
+10369	ID:1	# calculate auth:1351165c34cac89abcd38d99670ea9c0b279cb9ba32b2513dd000b9d99160ce0
+10372	ID:1	Authentication passed, execute DAD next ...
+10374	ID:1	Processing SLLAO option in NS
+10382	ID:1	Adding neighbor with ip addr 2001:da8::ff:fe00:303 link addr 03:03 state 2
+10384	ID:1	Processing ARO option in NS
+10387	ID:1	ND ARO option is supported in received NS
+10390	ID:1	DAD passed, update registration entries.
+10408	ID:1	[ MAC 00:12:74:02:00:02:02:02   GIP16 2001:da8::ff:fe00:202  Lifetime 1795  Counter 000000000001  Key 0111aeccd1b2020200a2bb879de20202 ]
+10425	ID:1	[ MAC 00:12:74:03:00:03:03:03   GIP16 2001:da8::ff:fe00:303  Lifetime 1800  Counter 000000000001  Key 0222df0200c3192a12b3cc42aefef203 ]
+10439	ID:1	[ MAC 00:12:74:04:00:04:04:04   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0333df0200c3192a12b3cc42aefef203 ]
+10452	ID:1	[ MAC 00:12:74:05:00:05:05:05   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0444df0200c3192a12b3cc42aefef203 ]
+10466	ID:1	[ MAC 00:12:74:06:00:06:06:06   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0555df0200c3192a12b3cc42aefef203 ]
+10480	ID:1	[ MAC 00:12:74:07:00:07:07:07   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0666df0200c3192a12b3cc42aefef203 ]
+10493	ID:1	[ MAC 00:12:74:08:00:08:08:08   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0777df0200c3192a12b3cc42aefef203 ]
+10495	ID:1	ARO supported in NA message 
+10497	ID:1	ARO supported in NA message 
+10508	ID:1	Sending NA to 2001:da8::ff:fe00:303 from fe80::ff:fe00:12 with target address fe80::ff:fe00:12
+10511	ID:1	next hop is 2001:da8::ff:fe00:303
+10581	ID:4	Powertrace 5069 324322 0 3080
+10600	ID:3	Received NA from fe80::ff:fe00:12 to 2001:da8::ff:fe00:303 with target address fe80::ff:fe00:12
+10606	ID:3	2001:da8::ff:fe00:303 address registered successfully.
+10608	ID:3	# Print interface address list: 
+10611	ID:3	# Address 1: ::  state: 0  type: 0  isused: 0
+10618	ID:3	# Address 2: 2001:da8::ff:fe00:303  state: 1  type: 1  isused: 1
+10623	ID:3	# Address 3: fe80::ff:fe00:303  state: 1  type: 1  isused: 1
+10899	ID:5	Powertrace 5039 324352 0 2871
+11019	ID:7	Powertrace 5022 324369 0 2791
+11056	ID:2	Powertrace 28475 300916 3492 3466
+11087	ID:6	Powertrace 5060 324331 0 3016
+11126	ID:3	Powertrace 29916 299475 4791 3804
+11136	ID:1	Powertrace 63616 271918 7345 5979
+11706	ID:5	Sending RS 0
+11711	ID:5	Sending RS to ff02::2 from fe80::ff:fe00:505
+11792	ID:1	Received RS from fe80::ff:fe00:505 to ff02::2
+11799	ID:1	Adding neighbor with ip addr fe80::ff:fe00:505 link addr 05:05 state 2
+11800	ID:1	Solicited RA: 
+11807	ID:1	Sending RA to fe80::ff:fe00:505 from fe80::ff:fe00:12
+11810	ID:1	next hop is fe80::ff:fe00:505
+12001	ID:5	Received RA from fe80::ff:fe00:12 to fe80::ff:fe00:505
+12003	ID:5	uip_ds6_if.cur_hop_limit 64
+12006	ID:5	Processing PREFIX option in RA
+12011	ID:5	Adding prefix 2001:da8::length 64, vlifetime 600
+12013	ID:5	# Print interface address list: 
+12017	ID:5	# Address 1: ::  state: 0  type: 0  isused: 0
+12023	ID:5	# Address 2: 2001:da8::ff:fe00:505  state: 0  type: 1  isused: 1
+12028	ID:5	# Address 3: fe80::ff:fe00:505  state: 1  type: 1  isused: 1
+12030	ID:5	Processing 6CO option in RA
+12032	ID:5	Processing ABRO option in RA
+12034	ID:5	Processing SLLAO option in RA
+12041	ID:5	Adding neighbor with ip addr fe80::ff:fe00:12 link addr 01:01 state 2
+12043	ID:5	Processing MTU option in RA
+12044	ID:5	uip_ds6_defrt_add
+12050	ID:5	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:12
+12094	ID:5	m[128]=20010da800000000000000fffe00050500127405000505050708030440c000000258000002580000000020010da80000000000000000000000002203401100007fff20010da80000000000000000000000002303cdab3412ffff20010da800000000000000fffe0001010000000000010444df0200c3192a12b3cc42aefef203
+12452	ID:5	 -> h[32]=501ad89dab99e3abd459b975ee234ee5f28640bde44ea67f618295f6fe6b4d7b
+12452	ID:5	
+12454	ID:5	ARO supported in this message
+12464	ID:5	Sending NS to fe80::ff:fe00:12 from 2001:da8::ff:fe00:505 with target address fe80::ff:fe00:12
+12468	ID:5	next hop is fe80::ff:fe00:12
+12553	ID:1	Received NS from 2001:da8::ff:fe00:505 to fe80::ff:fe00:12 with target address fe80::ff:fe00:12
+12555	ID:1	Processing ARO option in NS
+12559	ID:1	Authorized node MAC address in NS, continue verification ...
+12561	ID:1	Processing NONCE option in NS
+12564	ID:1	Nonce is valid in NS, continue verification ...
+12566	ID:1	Processing AUTH option in NS
+12581	ID:4	Powertrace 5835 389103 0 3711
+12610	ID:1	m[128]=20010da800000000000000fffe00050500127405000505050708030440c000000258000002580000000020010da80000000000000000000000002203401100007fff20010da80000000000000000000000002303cdab3412ffff20010da800000000000000fffe0001010000000000010444df0200c3192a12b3cc42aefef203
+12653	ID:7	Sending RS 0
+12658	ID:7	Sending RS to ff02::2 from fe80::ff:fe00:707
+12901	ID:5	Powertrace 28761 366179 4142 4424
+12968	ID:1	 -> h[32]=501ad89dab99e3abd459b975ee234ee5f28640bde44ea67f618295f6fe6b4d7b
+12982	ID:1	# received auth:501ad89dab99e3abd459b975ee234ee5f28640bde44ea67f618295f6fe6b4d7b
+12995	ID:1	# calculate auth:501ad89dab99e3abd459b975ee234ee5f28640bde44ea67f618295f6fe6b4d7b
+12998	ID:1	Authentication passed, execute DAD next ...
+13000	ID:1	Processing SLLAO option in NS
+13008	ID:1	Adding neighbor with ip addr 2001:da8::ff:fe00:505 link addr 05:05 state 2
+13010	ID:1	Processing ARO option in NS
+13013	ID:1	ND ARO option is supported in received NS
+13016	ID:1	DAD passed, update registration entries.
+13020	ID:7	Powertrace 10607 384331 2692 3647
+13034	ID:1	[ MAC 00:12:74:02:00:02:02:02   GIP16 2001:da8::ff:fe00:202  Lifetime 1792  Counter 000000000001  Key 0111aeccd1b2020200a2bb879de20202 ]
+13051	ID:1	[ MAC 00:12:74:03:00:03:03:03   GIP16 2001:da8::ff:fe00:303  Lifetime 1797  Counter 000000000001  Key 0222df0200c3192a12b3cc42aefef203 ]
+13057	ID:2	Powertrace 29477 365463 3492 4430
+13065	ID:1	[ MAC 00:12:74:04:00:04:04:04   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0333df0200c3192a12b3cc42aefef203 ]
+13082	ID:1	[ MAC 00:12:74:05:00:05:05:05   GIP16 2001:da8::ff:fe00:505  Lifetime 1800  Counter 000000000001  Key 0444df0200c3192a12b3cc42aefef203 ]
+13087	ID:6	Powertrace 6007 388931 0 4001
+13095	ID:1	[ MAC 00:12:74:06:00:06:06:06   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0555df0200c3192a12b3cc42aefef203 ]
+13109	ID:1	[ MAC 00:12:74:07:00:07:07:07   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0666df0200c3192a12b3cc42aefef203 ]
+13123	ID:1	[ MAC 00:12:74:08:00:08:08:08   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0777df0200c3192a12b3cc42aefef203 ]
+13125	ID:1	ARO supported in NA message 
+13126	ID:3	Powertrace 30913 364027 4791 4768
+13127	ID:1	ARO supported in NA message 
+13137	ID:1	Sending NA to 2001:da8::ff:fe00:505 from fe80::ff:fe00:12 with target address fe80::ff:fe00:12
+13141	ID:1	next hop is 2001:da8::ff:fe00:505
+13156	ID:1	Received RS from fe80::ff:fe00:707 to ff02::2
+13163	ID:1	Adding neighbor with ip addr fe80::ff:fe00:707 link addr 07:07 state 2
+13164	ID:1	Solicited RA: 
+13171	ID:1	Sending RA to fe80::ff:fe00:707 from fe80::ff:fe00:12
+13174	ID:1	next hop is fe80::ff:fe00:707
+13187	ID:1	Powertrace 88641 314076 8822 11553
+13245	ID:7	Received RA from fe80::ff:fe00:12 to fe80::ff:fe00:707
+13247	ID:7	uip_ds6_if.cur_hop_limit 64
+13249	ID:7	Processing PREFIX option in RA
+13254	ID:7	Adding prefix 2001:da8::length 64, vlifetime 600
+13257	ID:7	# Print interface address list: 
+13260	ID:7	# Address 1: ::  state: 0  type: 0  isused: 0
+13267	ID:7	# Address 2: 2001:da8::ff:fe00:707  state: 0  type: 1  isused: 1
+13272	ID:7	# Address 3: fe80::ff:fe00:707  state: 1  type: 1  isused: 1
+13274	ID:7	Processing 6CO option in RA
+13276	ID:7	Processing ABRO option in RA
+13278	ID:7	Processing SLLAO option in RA
+13285	ID:7	Adding neighbor with ip addr fe80::ff:fe00:12 link addr 01:01 state 2
+13287	ID:7	Processing MTU option in RA
+13288	ID:7	uip_ds6_defrt_add
+13294	ID:7	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:12
+13338	ID:7	m[128]=20010da800000000000000fffe00070700127407000707070708030440c000000258000002580000000020010da80000000000000000000000002203401100007fff20010da80000000000000000000000002303cdab3412ffff20010da800000000000000fffe0001010000000000010666df0200c3192a12b3cc42aefef203
+13374	ID:5	Received NA from fe80::ff:fe00:12 to 2001:da8::ff:fe00:505 with target address fe80::ff:fe00:12
+13380	ID:5	2001:da8::ff:fe00:505 address registered successfully.
+13382	ID:5	# Print interface address list: 
+13386	ID:5	# Address 1: ::  state: 0  type: 0  isused: 0
+13392	ID:5	# Address 2: 2001:da8::ff:fe00:505  state: 1  type: 1  isused: 1
+13398	ID:5	# Address 3: fe80::ff:fe00:505  state: 1  type: 1  isused: 1
+13622	ID:2	Defrt, IP address fe80::ff:fe00:12
+13626	ID:2	Defrt found, IP address fe80::ff:fe00:12
+13630	ID:2	Defrt, IP address fe80::ff:fe00:12
+13634	ID:2	Defrt found, IP address fe80::ff:fe00:12
+13636	ID:2	Router found ? (boolean): 1
+13696	ID:7	 -> h[32]=41947f5cfe050b98f1fc18b334176101e90a61ebb7796d25c392878547bceb0d
+13696	ID:7	
+13698	ID:7	ARO supported in this message
+13709	ID:7	Sending NS to fe80::ff:fe00:12 from 2001:da8::ff:fe00:707 with target address fe80::ff:fe00:12
+13712	ID:7	next hop is fe80::ff:fe00:12
+13802	ID:1	Received NS from 2001:da8::ff:fe00:707 to fe80::ff:fe00:12 with target address fe80::ff:fe00:12
+13804	ID:1	Processing ARO option in NS
+13808	ID:1	Authorized node MAC address in NS, continue verification ...
+13810	ID:1	Processing NONCE option in NS
+13814	ID:1	Nonce is valid in NS, continue verification ...
+13816	ID:1	Processing AUTH option in NS
+13860	ID:1	m[128]=20010da800000000000000fffe00070700127407000707070708030440c000000258000002580000000020010da80000000000000000000000002203401100007fff20010da80000000000000000000000002303cdab3412ffff20010da800000000000000fffe0001010000000000010666df0200c3192a12b3cc42aefef203
+14217	ID:1	 -> h[32]=41947f5cfe050b98f1fc18b334176101e90a61ebb7796d25c392878547bceb0d
+14230	ID:1	# received auth:41947f5cfe050b98f1fc18b334176101e90a61ebb7796d25c392878547bceb0d
+14243	ID:1	# calculate auth:41947f5cfe050b98f1fc18b334176101e90a61ebb7796d25c392878547bceb0d
+14246	ID:1	Authentication passed, execute DAD next ...
+14248	ID:1	Processing SLLAO option in NS
+14256	ID:1	Adding neighbor with ip addr 2001:da8::ff:fe00:707 link addr 07:07 state 2
+14258	ID:1	Processing ARO option in NS
+14261	ID:1	ND ARO option is supported in received NS
+14264	ID:1	DAD passed, update registration entries.
+14283	ID:1	[ MAC 00:12:74:02:00:02:02:02   GIP16 2001:da8::ff:fe00:202  Lifetime 1791  Counter 000000000001  Key 0111aeccd1b2020200a2bb879de20202 ]
+14300	ID:1	[ MAC 00:12:74:03:00:03:03:03   GIP16 2001:da8::ff:fe00:303  Lifetime 1796  Counter 000000000001  Key 0222df0200c3192a12b3cc42aefef203 ]
+14313	ID:1	[ MAC 00:12:74:04:00:04:04:04   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0333df0200c3192a12b3cc42aefef203 ]
+14330	ID:1	[ MAC 00:12:74:05:00:05:05:05   GIP16 2001:da8::ff:fe00:505  Lifetime 1799  Counter 000000000001  Key 0444df0200c3192a12b3cc42aefef203 ]
+14344	ID:1	[ MAC 00:12:74:06:00:06:06:06   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0555df0200c3192a12b3cc42aefef203 ]
+14361	ID:1	[ MAC 00:12:74:07:00:07:07:07   GIP16 2001:da8::ff:fe00:707  Lifetime 1800  Counter 000000000001  Key 0666df0200c3192a12b3cc42aefef203 ]
+14374	ID:1	[ MAC 00:12:74:08:00:08:08:08   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0777df0200c3192a12b3cc42aefef203 ]
+14377	ID:1	ARO supported in NA message 
+14379	ID:1	ARO supported in NA message 
+14389	ID:1	Sending NA to 2001:da8::ff:fe00:707 from fe80::ff:fe00:12 with target address fe80::ff:fe00:12
+14393	ID:1	next hop is 2001:da8::ff:fe00:707
+14493	ID:7	Received NA from fe80::ff:fe00:12 to 2001:da8::ff:fe00:707 with target address fe80::ff:fe00:12
+14500	ID:7	2001:da8::ff:fe00:707 address registered successfully.
+14502	ID:7	# Print interface address list: 
+14505	ID:7	# Address 1: ::  state: 0  type: 0  isused: 0
+14511	ID:7	# Address 2: 2001:da8::ff:fe00:707  state: 1  type: 1  isused: 1
+14517	ID:7	# Address 3: fe80::ff:fe00:707  state: 1  type: 1  isused: 1
+14581	ID:4	Powertrace 6620 453843 0 4650
+14900	ID:5	Powertrace 30755 429708 4142 5286
+15020	ID:7	Powertrace 30878 429585 4278 5324
+15056	ID:2	Powertrace 30738 429724 3492 5023
+15087	ID:6	Powertrace 6640 453823 0 4771
+15126	ID:3	Powertrace 31651 428812 4791 5728
+15137	ID:1	Powertrace 117151 349455 13928 14173
+16581	ID:4	Powertrace 7253 518746 0 5066
+16900	ID:5	Powertrace 31478 494521 4142 5702
+17020	ID:7	Powertrace 31601 494398 4278 5740
+17056	ID:2	Powertrace 31417 494581 3492 5439
+17087	ID:6	Powertrace 7273 518726 0 5187
+17126	ID:3	Powertrace 32374 493625 4791 6144
+17137	ID:1	Powertrace 117822 414320 13928 14589
+18581	ID:4	Powertrace 7897 583649 0 5482
+18901	ID:5	Powertrace 32214 559334 4142 6118
+19020	ID:7	Powertrace 32337 559211 4278 6156
+19057	ID:2	Powertrace 32107 559438 3492 5855
+19087	ID:6	Powertrace 7917 583629 0 5603
+19106	ID:3	Defrt, IP address fe80::ff:fe00:12
+19110	ID:3	Defrt found, IP address fe80::ff:fe00:12
+19113	ID:3	Defrt, IP address fe80::ff:fe00:12
+19117	ID:3	Defrt found, IP address fe80::ff:fe00:12
+19119	ID:3	Router found ? (boolean): 1
+19128	ID:3	Powertrace 33684 557926 4791 6560
+19137	ID:1	Powertrace 118510 479168 13928 15005
+20581	ID:4	Powertrace 8530 648541 0 5898
+20900	ID:5	Powertrace 32937 624134 4142 6534
+21020	ID:7	Powertrace 33060 624011 4278 6572
+21056	ID:2	Powertrace 32787 624283 3492 6271
+21087	ID:6	Powertrace 8550 648521 0 6019
+21126	ID:3	Powertrace 34364 622706 4791 6976
+21137	ID:1	Powertrace 119181 544033 13928 15421
+21708	ID:5	Defrt, IP address fe80::ff:fe00:12
+21713	ID:5	Defrt found, IP address fe80::ff:fe00:12
+21716	ID:5	Defrt, IP address fe80::ff:fe00:12
+21721	ID:5	Defrt found, IP address fe80::ff:fe00:12
+21723	ID:5	Router found ? (boolean): 1
+22581	ID:4	Powertrace 9163 713444 0 6314
+22656	ID:7	Defrt, IP address fe80::ff:fe00:12
+22660	ID:7	Defrt found, IP address fe80::ff:fe00:12
+22664	ID:7	Defrt, IP address fe80::ff:fe00:12
+22668	ID:7	Defrt found, IP address fe80::ff:fe00:12
+22670	ID:7	Router found ? (boolean): 1
+22900	ID:5	Powertrace 34218 688388 4142 6950
+23020	ID:7	Powertrace 34367 688239 4278 6988
+23056	ID:2	Powertrace 33466 689140 3492 6687
+23087	ID:6	Powertrace 9183 713424 0 6435
+23126	ID:3	Powertrace 35044 687562 4791 7392
+23137	ID:1	Powertrace 119852 608898 13928 15837
+23974	ID:4	Sending RS 0
+23979	ID:4	Sending RS to ff02::2 from fe80::ff:fe00:404
+24042	ID:1	Received RS from fe80::ff:fe00:404 to ff02::2
+24050	ID:1	Adding neighbor with ip addr fe80::ff:fe00:404 link addr 04:04 state 2
+24051	ID:1	Solicited RA: 
+24058	ID:1	Sending RA to fe80::ff:fe00:404 from fe80::ff:fe00:12
+24061	ID:1	next hop is fe80::ff:fe00:404
+24306	ID:4	Received RA from fe80::ff:fe00:12 to fe80::ff:fe00:404
+24309	ID:4	uip_ds6_if.cur_hop_limit 64
+24311	ID:4	Processing PREFIX option in RA
+24316	ID:4	Adding prefix 2001:da8::length 64, vlifetime 600
+24318	ID:4	# Print interface address list: 
+24322	ID:4	# Address 1: ::  state: 0  type: 0  isused: 0
+24328	ID:4	# Address 2: 2001:da8::ff:fe00:404  state: 0  type: 1  isused: 1
+24334	ID:4	# Address 3: fe80::ff:fe00:404  state: 1  type: 1  isused: 1
+24336	ID:4	Processing 6CO option in RA
+24338	ID:4	Processing ABRO option in RA
+24340	ID:4	Processing SLLAO option in RA
+24347	ID:4	Adding neighbor with ip addr fe80::ff:fe00:12 link addr 01:01 state 2
+24349	ID:4	Processing MTU option in RA
+24350	ID:4	uip_ds6_defrt_add
+24355	ID:4	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:12
+24400	ID:4	m[128]=20010da800000000000000fffe00040400127404000404040708030440c000000258000002580000000020010da80000000000000000000000002203401100007fff20010da80000000000000000000000002303cdab3412ffff20010da800000000000000fffe0001010000000000010333df0200c3192a12b3cc42aefef203
+24757	ID:4	 -> h[32]=5c894964fdc88c916f3f0d5d219df3efd585c03885075446b4dd6ad92dee7128
+24757	ID:4	
+24759	ID:4	ARO supported in this message
+24770	ID:4	Sending NS to fe80::ff:fe00:12 from 2001:da8::ff:fe00:404 with target address fe80::ff:fe00:12
+24773	ID:4	next hop is fe80::ff:fe00:12
+24901	ID:5	Powertrace 35057 753096 4142 7940
+24927	ID:4	Powertrace 35055 764398 5971 8134
+24929	ID:1	Received NS from 2001:da8::ff:fe00:404 to fe80::ff:fe00:12 with target address fe80::ff:fe00:12
+24931	ID:1	Processing ARO option in NS
+24936	ID:1	Authorized node MAC address in NS, continue verification ...
+24938	ID:1	Processing NONCE option in NS
+24941	ID:1	Nonce is valid in NS, continue verification ...
+24943	ID:1	Processing AUTH option in NS
+24987	ID:1	m[128]=20010da800000000000000fffe00040400127404000404040708030440c000000258000002580000000020010da80000000000000000000000002203401100007fff20010da80000000000000000000000002303cdab3412ffff20010da800000000000000fffe0001010000000000010333df0200c3192a12b3cc42aefef203
+25020	ID:7	Powertrace 35184 752969 4278 7917
+25057	ID:2	Powertrace 34274 753879 3492 7639
+25087	ID:6	Powertrace 9966 778188 0 7383
+25126	ID:3	Powertrace 35874 752279 4791 8373
+25344	ID:1	 -> h[32]=5c894964fdc88c916f3f0d5d219df3efd585c03885075446b4dd6ad92dee7128
+25358	ID:1	# received auth:5c894964fdc88c916f3f0d5d219df3efd585c03885075446b4dd6ad92dee7128
+25371	ID:1	# calculate auth:5c894964fdc88c916f3f0d5d219df3efd585c03885075446b4dd6ad92dee7128
+25375	ID:1	Authentication passed, execute DAD next ...
+25377	ID:1	Processing SLLAO option in NS
+25385	ID:1	Adding neighbor with ip addr 2001:da8::ff:fe00:404 link addr 04:04 state 2
+25387	ID:1	Processing ARO option in NS
+25389	ID:1	ND ARO option is supported in received NS
+25393	ID:1	DAD passed, update registration entries.
+25411	ID:1	[ MAC 00:12:74:02:00:02:02:02   GIP16 2001:da8::ff:fe00:202  Lifetime 1780  Counter 000000000001  Key 0111aeccd1b2020200a2bb879de20202 ]
+25428	ID:1	[ MAC 00:12:74:03:00:03:03:03   GIP16 2001:da8::ff:fe00:303  Lifetime 1785  Counter 000000000001  Key 0222df0200c3192a12b3cc42aefef203 ]
+25445	ID:1	[ MAC 00:12:74:04:00:04:04:04   GIP16 2001:da8::ff:fe00:404  Lifetime 1800  Counter 000000000001  Key 0333df0200c3192a12b3cc42aefef203 ]
+25462	ID:1	[ MAC 00:12:74:05:00:05:05:05   GIP16 2001:da8::ff:fe00:505  Lifetime 1788  Counter 000000000001  Key 0444df0200c3192a12b3cc42aefef203 ]
+25476	ID:1	[ MAC 00:12:74:06:00:06:06:06   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0555df0200c3192a12b3cc42aefef203 ]
+25492	ID:1	[ MAC 00:12:74:07:00:07:07:07   GIP16 2001:da8::ff:fe00:707  Lifetime 1789  Counter 000000000001  Key 0666df0200c3192a12b3cc42aefef203 ]
+25506	ID:1	[ MAC 00:12:74:08:00:08:08:08   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0777df0200c3192a12b3cc42aefef203 ]
+25508	ID:1	ARO supported in NA message 
+25510	ID:1	ARO supported in NA message 
+25521	ID:1	Sending NA to 2001:da8::ff:fe00:404 from fe80::ff:fe00:12 with target address fe80::ff:fe00:12
+25524	ID:1	next hop is 2001:da8::ff:fe00:404
+25556	ID:1	Powertrace 147039 660970 17449 18072
+25558	ID:4	Received NA from fe80::ff:fe00:12 to 2001:da8::ff:fe00:404 with target address fe80::ff:fe00:12
+25564	ID:4	2001:da8::ff:fe00:404 address registered successfully.
+25567	ID:4	# Print interface address list: 
+25570	ID:4	# Address 1: ::  state: 0  type: 0  isused: 0
+25576	ID:4	# Address 2: 2001:da8::ff:fe00:404  state: 1  type: 1  isused: 1
+25582	ID:4	# Address 3: fe80::ff:fe00:404  state: 1  type: 1  isused: 1
+26582	ID:4	Powertrace 37017 816662 5971 8742
+26900	ID:5	Powertrace 35737 817941 4142 8356
+27020	ID:7	Powertrace 35864 817814 4278 8333
+27056	ID:2	Powertrace 34954 818724 3492 8055
+27087	ID:6	Powertrace 10621 843058 0 7854
+27126	ID:3	Powertrace 36554 817124 4791 8789
+27137	ID:1	Powertrace 147707 712115 17449 18384
+27308	ID:6	Sending RS 0
+27313	ID:6	Sending RS to ff02::2 from fe80::ff:fe00:606
+27415	ID:1	Received RS from fe80::ff:fe00:606 to ff02::2
+27423	ID:1	Adding neighbor with ip addr fe80::ff:fe00:606 link addr 06:06 state 2
+27424	ID:1	Solicited RA: 
+27430	ID:1	Sending RA to fe80::ff:fe00:606 from fe80::ff:fe00:12
+27434	ID:1	next hop is fe80::ff:fe00:606
+27566	ID:6	Received RA from fe80::ff:fe00:12 to fe80::ff:fe00:606
+27568	ID:6	uip_ds6_if.cur_hop_limit 64
+27570	ID:6	Processing PREFIX option in RA
+27576	ID:6	Adding prefix 2001:da8::length 64, vlifetime 600
+27578	ID:6	# Print interface address list: 
+27582	ID:6	# Address 1: ::  state: 0  type: 0  isused: 0
+27588	ID:6	# Address 2: 2001:da8::ff:fe00:606  state: 0  type: 1  isused: 1
+27593	ID:6	# Address 3: fe80::ff:fe00:606  state: 1  type: 1  isused: 1
+27595	ID:6	Processing 6CO option in RA
+27597	ID:6	Processing ABRO option in RA
+27599	ID:6	Processing SLLAO option in RA
+27607	ID:6	Adding neighbor with ip addr fe80::ff:fe00:12 link addr 01:01 state 2
+27609	ID:6	Processing MTU option in RA
+27610	ID:6	uip_ds6_defrt_add
+27615	ID:6	uip_ds6_defrt_add: adding default route to fe80::ff:fe00:12
+27660	ID:6	m[128]=20010da800000000000000fffe00060600127406000606060708030440c000000258000002580000000020010da80000000000000000000000002203401100007fff20010da80000000000000000000000002303cdab3412ffff20010da800000000000000fffe0001010000000000010555df0200c3192a12b3cc42aefef203
+28017	ID:6	 -> h[32]=46a47fe1dfdeedfac1819b9492c248f9546ccd08d9704bc2fd93cdbbe4a69d77
+28017	ID:6	
+28019	ID:6	ARO supported in this message
+28030	ID:6	Sending NS to fe80::ff:fe00:12 from 2001:da8::ff:fe00:606 with target address fe80::ff:fe00:12
+28033	ID:6	next hop is fe80::ff:fe00:12
+28178	ID:1	Received NS from 2001:da8::ff:fe00:606 to fe80::ff:fe00:12 with target address fe80::ff:fe00:12
+28180	ID:1	Processing ARO option in NS
+28184	ID:1	Authorized node MAC address in NS, continue verification ...
+28186	ID:1	Processing NONCE option in NS
+28190	ID:1	Nonce is valid in NS, continue verification ...
+28192	ID:1	Processing AUTH option in NS
+28236	ID:1	m[128]=20010da800000000000000fffe00060600127406000606060708030440c000000258000002580000000020010da80000000000000000000000002203401100007fff20010da80000000000000000000000002303cdab3412ffff20010da800000000000000fffe0001010000000000010555df0200c3192a12b3cc42aefef203
+28582	ID:4	Powertrace 37868 881347 5971 9514
+28593	ID:1	 -> h[32]=46a47fe1dfdeedfac1819b9492c248f9546ccd08d9704bc2fd93cdbbe4a69d77
+28607	ID:1	# received auth:46a47fe1dfdeedfac1819b9492c248f9546ccd08d9704bc2fd93cdbbe4a69d77
+28621	ID:1	# calculate auth:46a47fe1dfdeedfac1819b9492c248f9546ccd08d9704bc2fd93cdbbe4a69d77
+28624	ID:1	Authentication passed, execute DAD next ...
+28626	ID:1	Processing SLLAO option in NS
+28634	ID:1	Adding neighbor with ip addr 2001:da8::ff:fe00:606 link addr 06:06 state 2
+28636	ID:1	Processing ARO option in NS
+28639	ID:1	ND ARO option is supported in received NS
+28642	ID:1	DAD passed, update registration entries.
+28661	ID:1	[ MAC 00:12:74:02:00:02:02:02   GIP16 2001:da8::ff:fe00:202  Lifetime 1777  Counter 000000000001  Key 0111aeccd1b2020200a2bb879de20202 ]
+28678	ID:1	[ MAC 00:12:74:03:00:03:03:03   GIP16 2001:da8::ff:fe00:303  Lifetime 1782  Counter 000000000001  Key 0222df0200c3192a12b3cc42aefef203 ]
+28694	ID:1	[ MAC 00:12:74:04:00:04:04:04   GIP16 2001:da8::ff:fe00:404  Lifetime 1797  Counter 000000000001  Key 0333df0200c3192a12b3cc42aefef203 ]
+28711	ID:1	[ MAC 00:12:74:05:00:05:05:05   GIP16 2001:da8::ff:fe00:505  Lifetime 1785  Counter 000000000001  Key 0444df0200c3192a12b3cc42aefef203 ]
+28728	ID:1	[ MAC 00:12:74:06:00:06:06:06   GIP16 2001:da8::ff:fe00:606  Lifetime 1800  Counter 000000000001  Key 0555df0200c3192a12b3cc42aefef203 ]
+28745	ID:1	[ MAC 00:12:74:07:00:07:07:07   GIP16 2001:da8::ff:fe00:707  Lifetime 1786  Counter 000000000001  Key 0666df0200c3192a12b3cc42aefef203 ]
+28759	ID:1	[ MAC 00:12:74:08:00:08:08:08   GIP16 ::  Lifetime 0  Counter 000000000000  Key 0777df0200c3192a12b3cc42aefef203 ]
+28761	ID:1	ARO supported in NA message 
+28763	ID:1	ARO supported in NA message 
+28773	ID:1	Sending NA to 2001:da8::ff:fe00:606 from fe80::ff:fe00:12 with target address fe80::ff:fe00:12
+28777	ID:1	next hop is 2001:da8::ff:fe00:606
+28812	ID:6	Received NA from fe80::ff:fe00:12 to 2001:da8::ff:fe00:606 with target address fe80::ff:fe00:12
+28818	ID:6	2001:da8::ff:fe00:606 address registered successfully.
+28820	ID:6	# Print interface address list: 
+28824	ID:6	# Address 1: ::  state: 0  type: 0  isused: 0
+28830	ID:6	# Address 2: 2001:da8::ff:fe00:606  state: 1  type: 1  isused: 1
+28836	ID:6	# Address 3: fe80::ff:fe00:606  state: 1  type: 1  isused: 1
+28900	ID:5	Powertrace 36535 882679 4142 9152
+29020	ID:7	Powertrace 36683 882531 4278 9159
+29056	ID:2	Powertrace 35763 883451 3492 9061
+29088	ID:6	Powertrace 37498 881717 5707 9829
+29126	ID:3	Powertrace 37363 881851 4791 9582
+29137	ID:1	Powertrace 173125 752233 19388 20047
+30583	ID:4	Powertrace 38604 946160 5971 9930
+30901	ID:5	Powertrace 37225 947536 4142 9568
+31020	ID:7	Powertrace 37373 947388 4278 9575
+31057	ID:2	Powertrace 36453 948308 3492 9477
+31089	ID:6	Powertrace 38235 946529 5707 10245
+31126	ID:3	Powertrace 38054 946707 4791 9998
+31137	ID:1	Powertrace 173814 817080 19388 20463
+32583	ID:4	Powertrace 39330 1010957 5971 10346
+32901	ID:5	Powertrace 37908 1012378 4142 9984
+33020	ID:7	Powertrace 38056 1012230 4278 9991
+33057	ID:2	Powertrace 37136 1013150 3492 9893
+33089	ID:6	Powertrace 38972 1011315 5707 10661
+33126	ID:3	Powertrace 38738 1011548 4791 10414
+33137	ID:1	Powertrace 174488 881942 19388 20879
+33976	ID:4	Defrt, IP address fe80::ff:fe00:12
+33981	ID:4	Defrt found, IP address fe80::ff:fe00:12
+33984	ID:4	Defrt, IP address fe80::ff:fe00:12
+33989	ID:4	Defrt found, IP address fe80::ff:fe00:12
+33991	ID:4	Router found ? (boolean): 1
+34583	ID:4	Powertrace 40669 1075153 5971 10762
+34901	ID:5	Powertrace 38599 1077223 4142 10400
+35021	ID:7	Powertrace 38747 1077075 4278 10407
+35057	ID:2	Powertrace 37827 1077995 3492 10309
+35089	ID:6	Powertrace 39718 1076105 5707 11077
+35126	ID:3	Powertrace 39440 1076382 4791 10830
+35137	ID:1	Powertrace 175159 946807 19388 21295
+36583	ID:4	Powertrace 41382 1139987 5971 11178
+36901	ID:5	Powertrace 39312 1142057 4142 10816
+37021	ID:7	Powertrace 39460 1141909 4278 10823
+37057	ID:2	Powertrace 38540 1142829 3492 10725
+37089	ID:6	Powertrace 40477 1140895 5707 11493
+37127	ID:3	Powertrace 40153 1141216 4791 11246
+37138	ID:1	Powertrace 175848 1011654 19388 21711
+37310	ID:6	Defrt, IP address fe80::ff:fe00:12
+37315	ID:6	Defrt found, IP address fe80::ff:fe00:12
+37318	ID:6	Defrt, IP address fe80::ff:fe00:12
+37323	ID:6	Defrt found, IP address fe80::ff:fe00:12
+37325	ID:6	Router found ? (boolean): 1
+38583	ID:4	Powertrace 42085 1204809 5971 11594
+38901	ID:5	Powertrace 40015 1206879 4142 11232
+39021	ID:7	Powertrace 40163 1206731 4278 11239
+39057	ID:2	Powertrace 39243 1207651 3492 11141
+39089	ID:6	Powertrace 41801 1205093 5707 11909
+39126	ID:3	Powertrace 40856 1206038 4791 11662
+39138	ID:1	Powertrace 176528 1076510 19388 22127
+40583	ID:4	Powertrace 42787 1269643 5971 12010
+40901	ID:5	Powertrace 40717 1271713 4142 11648
+41021	ID:7	Powertrace 40865 1271565 4278 11655
+41057	ID:2	Powertrace 39945 1272485 3492 11557
+41089	ID:6	Powertrace 42503 1269927 5707 12325
+41126	ID:3	Powertrace 41558 1270872 4791 12078
+41138	ID:1	Powertrace 177209 1141365 19388 22543
+42583	ID:4	Powertrace 43500 1334477 5971 12426
+42901	ID:5	Powertrace 41430 1336547 4142 12064
+43021	ID:7	Powertrace 41578 1336399 4278 12071
+43057	ID:2	Powertrace 40658 1337319 3492 11973
+43089	ID:6	Powertrace 43216 1334761 5707 12741
+43127	ID:3	Powertrace 42272 1335705 4791 12494
+43138	ID:1	Powertrace 177907 1206203 19388 22959
+44583	ID:4	Powertrace 44203 1399299 5971 12842
+44901	ID:5	Powertrace 42133 1401369 4142 12480
+45021	ID:7	Powertrace 42281 1401221 4278 12487
+45057	ID:2	Powertrace 41361 1402141 3492 12389
+45089	ID:6	Powertrace 43919 1399583 5707 13157
+45126	ID:3	Powertrace 42975 1400527 4791 12910
+45138	ID:1	Powertrace 178587 1271059 19388 23375
+46583	ID:4	Powertrace 44905 1464133 5971 13258
+46901	ID:5	Powertrace 42835 1466203 4142 12896
+47021	ID:7	Powertrace 42983 1466055 4278 12903
+47057	ID:2	Powertrace 42063 1466975 3492 12805
+47089	ID:6	Powertrace 44621 1464417 5707 13573
+47126	ID:3	Powertrace 43677 1465361 4791 13326
+47138	ID:1	Powertrace 179268 1335914 19388 23791
+48583	ID:4	Powertrace 45618 1528967 5971 13674
+48901	ID:5	Powertrace 43548 1531037 4142 13312
+49021	ID:7	Powertrace 43696 1530889 4278 13319
+49057	ID:2	Powertrace 42776 1531809 3492 13221
+49089	ID:6	Powertrace 45334 1529251 5707 13989
+49127	ID:3	Powertrace 44390 1530195 4791 13742
+49138	ID:1	Powertrace 179966 1400752 19388 24207
+50583	ID:4	Powertrace 46321 1593789 5971 14090
+50901	ID:5	Powertrace 44251 1595859 4142 13728
+51021	ID:7	Powertrace 44399 1595711 4278 13735
+51057	ID:2	Powertrace 43479 1596631 3492 13637
+51089	ID:6	Powertrace 46037 1594073 5707 14405
+51126	ID:3	Powertrace 45094 1595016 4791 14158
+51138	ID:1	Powertrace 180646 1465608 19388 24623
+52583	ID:4	Powertrace 47023 1658623 5971 14506
+52901	ID:5	Powertrace 44953 1660693 4142 14144
+53021	ID:7	Powertrace 45102 1660544 4278 14151
+53057	ID:2	Powertrace 44182 1661464 3492 14053
+53089	ID:6	Powertrace 46739 1658907 5707 14821
+53126	ID:3	Powertrace 45797 1659849 4791 14574
+53138	ID:1	Powertrace 181327 1530463 19388 25039
+54583	ID:4	Powertrace 47736 1723457 5971 14922
+54901	ID:5	Powertrace 45666 1725527 4142 14560
+55021	ID:7	Powertrace 45815 1725378 4278 14567
+55057	ID:2	Powertrace 44895 1726298 3492 14469
+55089	ID:6	Powertrace 47452 1723741 5707 15237
+55127	ID:3	Powertrace 46510 1724683 4791 14990
+55138	ID:1	Powertrace 182025 1595301 19388 25455
+56583	ID:4	Powertrace 48439 1788279 5971 15338
+56901	ID:5	Powertrace 46369 1790349 4142 14976
+57021	ID:7	Powertrace 46518 1790200 4278 14983
+57057	ID:2	Powertrace 45598 1791120 3492 14885
+57089	ID:6	Powertrace 48155 1788563 5707 15653
+57126	ID:3	Powertrace 47213 1789505 4791 15406
+57138	ID:1	Powertrace 182705 1660157 19388 25871
+58583	ID:4	Powertrace 49142 1853112 5971 15754
+58901	ID:5	Powertrace 47072 1855182 4142 15392
+59021	ID:7	Powertrace 47220 1855034 4278 15399
+59057	ID:2	Powertrace 46301 1855953 3492 15301
+59089	ID:6	Powertrace 48857 1853397 5707 16069
+59126	ID:3	Powertrace 47915 1854339 4791 15822
+59138	ID:1	Powertrace 183386 1725012 19388 26287
+60583	ID:4	Powertrace 49856 1917945 5971 16170
+60901	ID:5	Powertrace 47785 1920016 4142 15808
+61021	ID:7	Powertrace 47933 1919868 4278 15815
+61057	ID:2	Powertrace 47015 1920786 3492 15717
+61089	ID:6	Powertrace 49570 1918231 5707 16485
+61127	ID:3	Powertrace 48629 1919172 4791 16238
+61138	ID:1	Powertrace 184084 1789850 19388 26703

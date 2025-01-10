@@ -1,0 +1,1609 @@
+424	ID:1	Rime started with address 0.18.116.1.0.1.1.1
+432	ID:9	Rime started with address 0.18.116.9.0.9.9.9
+434	ID:1	MAC 00:12:74:01:00:01:01:01 Contiki-3.x-3153-g01bafba64 started. Node id is set to 1.
+442	ID:9	MAC 00:12:74:09:00:09:09:09 Contiki-3.x-3153-g01bafba64 started. Node id is set to 9.
+442	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+445	ID:1	Init of IPv6 data structures
+446	ID:1	16 neighbors
+447	ID:1	2 default routers
+448	ID:1	3 prefixes
+449	ID:1	16 routes
+450	ID:9	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+450	ID:1	3 unicast addresses
+452	ID:1	5 multicast addresses
+453	ID:9	Init of IPv6 data structures
+453	ID:1	2 anycast addresses
+454	ID:9	16 neighbors
+456	ID:9	2 default routers
+456	ID:9	3 prefixes
+457	ID:9	16 routes
+459	ID:9	3 unicast addresses
+460	ID:9	4 multicast addresses
+461	ID:1	Adding prefix fe80::length 64, flags 0, Valid lifetime 0, Preffered lifetime 0
+462	ID:9	0 anycast addresses
+466	ID:9	Adding prefix fe80::length 64, vlifetime 0
+469	ID:9	# Print interface address list: 
+470	ID:1	Adding prefix 2001:da8::length 64, flags c0, Valid lifetime 258, Preffered lifetime 258
+472	ID:9	# Address 1: ::  state: 0  type: 0  isused: 0
+473	ID:1	# Print interface address list: 
+475	ID:9	# Address 2: ::  state: 0  type: 0  isused: 0
+476	ID:1	# Address 1: ::  state: 0  type: 0  isused: 0
+481	ID:9	# Address 3: fe80::212:7409:9:909  state: 1  type: 1  isused: 1
+483	ID:1	# Address 2: 2001:da8::212:7401:1:101  state: 1  type: 1  isused: 1
+483	ID:9	Starting 'ln'
+484	ID:9	I'm the 6LN.
+489	ID:1	# Address 3: fe80::212:7401:1:101  state: 1  type: 1  isused: 1
+490	ID:1	Starting 'lbr'
+491	ID:1	I'm the 6LBR.
+531	ID:14	Rime started with address 0.18.116.14.0.14.14.14
+541	ID:14	MAC 00:12:74:0e:00:0e:0e:0e Contiki-3.x-3153-g01bafba64 started. Node id is set to 14.
+549	ID:14	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+552	ID:14	Init of IPv6 data structures
+553	ID:14	16 neighbors
+554	ID:14	2 default routers
+555	ID:14	3 prefixes
+556	ID:14	16 routes
+557	ID:14	3 unicast addresses
+559	ID:14	4 multicast addresses
+560	ID:14	0 anycast addresses
+565	ID:14	Adding prefix fe80::length 64, vlifetime 0
+567	ID:14	# Print interface address list: 
+571	ID:14	# Address 1: ::  state: 0  type: 0  isused: 0
+574	ID:14	# Address 2: ::  state: 0  type: 0  isused: 0
+580	ID:2	Rime started with address 0.18.116.2.0.2.2.2
+580	ID:14	# Address 3: fe80::212:740e:e:e0e  state: 1  type: 1  isused: 1
+582	ID:14	Starting 'ln'
+583	ID:14	I'm the 6LN.
+589	ID:2	MAC 00:12:74:02:00:02:02:02 Contiki-3.x-3153-g01bafba64 started. Node id is set to 2.
+598	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+601	ID:2	Init of IPv6 data structures
+602	ID:2	16 neighbors
+603	ID:2	2 default routers
+603	ID:5	Rime started with address 0.18.116.5.0.5.5.5
+604	ID:2	3 prefixes
+605	ID:2	16 routes
+606	ID:2	3 unicast addresses
+608	ID:2	4 multicast addresses
+609	ID:2	0 anycast addresses
+613	ID:5	MAC 00:12:74:05:00:05:05:05 Contiki-3.x-3153-g01bafba64 started. Node id is set to 5.
+613	ID:2	Adding prefix fe80::length 64, vlifetime 0
+616	ID:2	# Print interface address list: 
+619	ID:2	# Address 1: ::  state: 0  type: 0  isused: 0
+621	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+623	ID:2	# Address 2: ::  state: 0  type: 0  isused: 0
+624	ID:5	Init of IPv6 data structures
+625	ID:5	16 neighbors
+626	ID:5	2 default routers
+627	ID:5	3 prefixes
+628	ID:5	16 routes
+629	ID:2	# Address 3: fe80::212:7402:2:202  state: 1  type: 1  isused: 1
+630	ID:5	3 unicast addresses
+630	ID:2	Starting 'ln'
+631	ID:5	4 multicast addresses
+631	ID:2	I'm the 6LN.
+633	ID:5	0 anycast addresses
+637	ID:5	Adding prefix fe80::length 64, vlifetime 0
+639	ID:5	# Print interface address list: 
+641	ID:7	Rime started with address 0.18.116.7.0.7.7.7
+643	ID:5	# Address 1: ::  state: 0  type: 0  isused: 0
+646	ID:10	Rime started with address 0.18.116.10.0.10.10.10
+646	ID:5	# Address 2: ::  state: 0  type: 0  isused: 0
+650	ID:7	MAC 00:12:74:07:00:07:07:07 Contiki-3.x-3153-g01bafba64 started. Node id is set to 7.
+652	ID:5	# Address 3: fe80::212:7405:5:505  state: 1  type: 1  isused: 1
+654	ID:5	Starting 'ln'
+655	ID:5	I'm the 6LN.
+655	ID:10	MAC 00:12:74:0a:00:0a:0a:0a Contiki-3.x-3153-g01bafba64 started. Node id is set to 10.
+659	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+660	ID:12	Rime started with address 0.18.116.12.0.12.12.12
+662	ID:7	Init of IPv6 data structures
+663	ID:7	16 neighbors
+664	ID:10	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+664	ID:7	2 default routers
+665	ID:7	3 prefixes
+666	ID:7	16 routes
+667	ID:10	Init of IPv6 data structures
+667	ID:7	3 unicast addresses
+668	ID:10	16 neighbors
+669	ID:7	4 multicast addresses
+669	ID:10	2 default routers
+670	ID:12	MAC 00:12:74:0c:00:0c:0c:0c Contiki-3.x-3153-g01bafba64 started. Node id is set to 12.
+670	ID:10	3 prefixes
+670	ID:7	0 anycast addresses
+671	ID:10	16 routes
+672	ID:10	3 unicast addresses
+674	ID:10	4 multicast addresses
+675	ID:7	Adding prefix fe80::length 64, vlifetime 0
+675	ID:10	0 anycast addresses
+677	ID:7	# Print interface address list: 
+678	ID:12	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+680	ID:10	Adding prefix fe80::length 64, vlifetime 0
+680	ID:7	# Address 1: ::  state: 0  type: 0  isused: 0
+681	ID:12	Init of IPv6 data structures
+682	ID:10	# Print interface address list: 
+682	ID:12	16 neighbors
+683	ID:12	2 default routers
+684	ID:7	# Address 2: ::  state: 0  type: 0  isused: 0
+684	ID:12	3 prefixes
+685	ID:12	16 routes
+685	ID:10	# Address 1: ::  state: 0  type: 0  isused: 0
+686	ID:12	3 unicast addresses
+688	ID:13	Rime started with address 0.18.116.13.0.13.13.13
+688	ID:12	4 multicast addresses
+689	ID:10	# Address 2: ::  state: 0  type: 0  isused: 0
+689	ID:12	0 anycast addresses
+690	ID:7	# Address 3: fe80::212:7407:7:707  state: 1  type: 1  isused: 1
+691	ID:7	Starting 'ln'
+692	ID:7	I'm the 6LN.
+694	ID:12	Adding prefix fe80::length 64, vlifetime 0
+695	ID:10	# Address 3: fe80::212:740a:a:a0a  state: 1  type: 1  isused: 1
+696	ID:12	# Print interface address list: 
+697	ID:10	Starting 'ln'
+697	ID:13	MAC 00:12:74:0d:00:0d:0d:0d Contiki-3.x-3153-g01bafba64 started. Node id is set to 13.
+697	ID:10	I'm the 6LN.
+699	ID:21	Rime started with address 0.18.116.21.0.21.21.21
+700	ID:12	# Address 1: ::  state: 0  type: 0  isused: 0
+703	ID:12	# Address 2: ::  state: 0  type: 0  isused: 0
+706	ID:13	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+709	ID:13	Init of IPv6 data structures
+709	ID:21	MAC 00:12:74:15:00:15:15:15 Contiki-3.x-3153-g01bafba64 started. Node id is set to 21.
+709	ID:12	# Address 3: fe80::212:740c:c:c0c  state: 1  type: 1  isused: 1
+710	ID:13	16 neighbors
+711	ID:12	Starting 'ln'
+711	ID:13	2 default routers
+712	ID:12	I'm the 6LN.
+712	ID:13	3 prefixes
+713	ID:13	16 routes
+714	ID:13	3 unicast addresses
+716	ID:13	4 multicast addresses
+717	ID:13	0 anycast addresses
+718	ID:21	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+720	ID:21	Init of IPv6 data structures
+722	ID:21	16 neighbors
+722	ID:13	Adding prefix fe80::length 64, vlifetime 0
+723	ID:21	2 default routers
+724	ID:21	3 prefixes
+724	ID:13	# Print interface address list: 
+724	ID:21	16 routes
+726	ID:21	3 unicast addresses
+727	ID:21	4 multicast addresses
+727	ID:13	# Address 1: ::  state: 0  type: 0  isused: 0
+729	ID:21	0 anycast addresses
+731	ID:13	# Address 2: ::  state: 0  type: 0  isused: 0
+733	ID:21	Adding prefix fe80::length 64, vlifetime 0
+736	ID:21	# Print interface address list: 
+737	ID:13	# Address 3: fe80::212:740d:d:d0d  state: 1  type: 1  isused: 1
+739	ID:13	Starting 'ln'
+739	ID:21	# Address 1: ::  state: 0  type: 0  isused: 0
+739	ID:13	I'm the 6LN.
+743	ID:21	# Address 2: ::  state: 0  type: 0  isused: 0
+749	ID:21	# Address 3: fe80::212:7415:15:1515  state: 1  type: 1  isused: 1
+751	ID:21	Starting 'ln'
+751	ID:21	I'm the 6LN.
+805	ID:19	Rime started with address 0.18.116.19.0.19.19.19
+815	ID:19	MAC 00:12:74:13:00:13:13:13 Contiki-3.x-3153-g01bafba64 started. Node id is set to 19.
+823	ID:19	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+826	ID:19	Init of IPv6 data structures
+827	ID:19	16 neighbors
+828	ID:19	2 default routers
+829	ID:19	3 prefixes
+830	ID:19	16 routes
+831	ID:19	3 unicast addresses
+833	ID:8	Rime started with address 0.18.116.8.0.8.8.8
+833	ID:19	4 multicast addresses
+834	ID:19	0 anycast addresses
+839	ID:19	Adding prefix fe80::length 64, vlifetime 0
+841	ID:19	# Print interface address list: 
+842	ID:8	MAC 00:12:74:08:00:08:08:08 Contiki-3.x-3153-g01bafba64 started. Node id is set to 8.
+845	ID:19	# Address 1: ::  state: 0  type: 0  isused: 0
+848	ID:19	# Address 2: ::  state: 0  type: 0  isused: 0
+850	ID:6	Rime started with address 0.18.116.6.0.6.6.6
+851	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+854	ID:8	Init of IPv6 data structures
+854	ID:19	# Address 3: fe80::212:7413:13:1313  state: 1  type: 1  isused: 1
+855	ID:8	16 neighbors
+856	ID:8	2 default routers
+856	ID:19	Starting 'ln'
+857	ID:8	3 prefixes
+857	ID:19	I'm the 6LN.
+858	ID:8	16 routes
+859	ID:8	3 unicast addresses
+859	ID:6	MAC 00:12:74:06:00:06:06:06 Contiki-3.x-3153-g01bafba64 started. Node id is set to 6.
+860	ID:8	4 multicast addresses
+862	ID:8	0 anycast addresses
+866	ID:8	Adding prefix fe80::length 64, vlifetime 0
+868	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+869	ID:8	# Print interface address list: 
+871	ID:6	Init of IPv6 data structures
+872	ID:6	16 neighbors
+872	ID:8	# Address 1: ::  state: 0  type: 0  isused: 0
+873	ID:6	2 default routers
+874	ID:6	3 prefixes
+875	ID:6	16 routes
+876	ID:8	# Address 2: ::  state: 0  type: 0  isused: 0
+876	ID:6	3 unicast addresses
+878	ID:6	4 multicast addresses
+879	ID:6	0 anycast addresses
+882	ID:8	# Address 3: fe80::212:7408:8:808  state: 1  type: 1  isused: 1
+883	ID:8	Starting 'ln'
+884	ID:6	Adding prefix fe80::length 64, vlifetime 0
+884	ID:8	I'm the 6LN.
+886	ID:6	# Print interface address list: 
+890	ID:6	# Address 1: ::  state: 0  type: 0  isused: 0
+893	ID:6	# Address 2: ::  state: 0  type: 0  isused: 0
+899	ID:6	# Address 3: fe80::212:7406:6:606  state: 1  type: 1  isused: 1
+901	ID:6	Starting 'ln'
+901	ID:6	I'm the 6LN.
+913	ID:11	Rime started with address 0.18.116.11.0.11.11.11
+923	ID:11	MAC 00:12:74:0b:00:0b:0b:0b Contiki-3.x-3153-g01bafba64 started. Node id is set to 11.
+932	ID:11	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+934	ID:11	Init of IPv6 data structures
+936	ID:11	16 neighbors
+937	ID:11	2 default routers
+938	ID:11	3 prefixes
+938	ID:20	Rime started with address 0.18.116.20.0.20.20.20
+938	ID:11	16 routes
+940	ID:11	3 unicast addresses
+941	ID:11	4 multicast addresses
+943	ID:11	0 anycast addresses
+947	ID:11	Adding prefix fe80::length 64, vlifetime 0
+948	ID:20	MAC 00:12:74:14:00:14:14:14 Contiki-3.x-3153-g01bafba64 started. Node id is set to 20.
+950	ID:11	# Print interface address list: 
+953	ID:11	# Address 1: ::  state: 0  type: 0  isused: 0
+956	ID:20	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+957	ID:11	# Address 2: ::  state: 0  type: 0  isused: 0
+959	ID:20	Init of IPv6 data structures
+960	ID:20	16 neighbors
+961	ID:20	2 default routers
+962	ID:20	3 prefixes
+963	ID:11	# Address 3: fe80::212:740b:b:b0b  state: 1  type: 1  isused: 1
+963	ID:20	16 routes
+964	ID:11	Starting 'ln'
+965	ID:20	3 unicast addresses
+965	ID:11	I'm the 6LN.
+966	ID:20	4 multicast addresses
+968	ID:20	0 anycast addresses
+972	ID:20	Adding prefix fe80::length 64, vlifetime 0
+974	ID:20	# Print interface address list: 
+978	ID:20	# Address 1: ::  state: 0  type: 0  isused: 0
+979	ID:18	Rime started with address 0.18.116.18.0.18.18.18
+981	ID:20	# Address 2: ::  state: 0  type: 0  isused: 0
+988	ID:20	# Address 3: fe80::212:7414:14:1414  state: 1  type: 1  isused: 1
+989	ID:18	MAC 00:12:74:12:00:12:12:12 Contiki-3.x-3153-g01bafba64 started. Node id is set to 18.
+989	ID:20	Starting 'ln'
+990	ID:20	I'm the 6LN.
+998	ID:17	Rime started with address 0.18.116.17.0.17.17.17
+998	ID:18	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1001	ID:18	Init of IPv6 data structures
+1002	ID:18	16 neighbors
+1003	ID:18	2 default routers
+1004	ID:18	3 prefixes
+1005	ID:18	16 routes
+1006	ID:18	3 unicast addresses
+1008	ID:18	4 multicast addresses
+1008	ID:17	MAC 00:12:74:11:00:11:11:11 Contiki-3.x-3153-g01bafba64 started. Node id is set to 17.
+1009	ID:18	0 anycast addresses
+1013	ID:18	Adding prefix fe80::length 64, vlifetime 0
+1016	ID:18	# Print interface address list: 
+1016	ID:17	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1019	ID:17	Init of IPv6 data structures
+1019	ID:18	# Address 1: ::  state: 0  type: 0  isused: 0
+1020	ID:17	16 neighbors
+1021	ID:17	2 default routers
+1022	ID:17	3 prefixes
+1023	ID:18	# Address 2: ::  state: 0  type: 0  isused: 0
+1023	ID:17	16 routes
+1024	ID:17	3 unicast addresses
+1026	ID:17	4 multicast addresses
+1027	ID:17	0 anycast addresses
+1029	ID:18	# Address 3: fe80::212:7412:12:1212  state: 1  type: 1  isused: 1
+1031	ID:18	Starting 'ln'
+1031	ID:18	I'm the 6LN.
+1032	ID:17	Adding prefix fe80::length 64, vlifetime 0
+1034	ID:17	# Print interface address list: 
+1038	ID:17	# Address 1: ::  state: 0  type: 0  isused: 0
+1041	ID:17	# Address 2: ::  state: 0  type: 0  isused: 0
+1047	ID:17	# Address 3: fe80::212:7411:11:1111  state: 1  type: 1  isused: 1
+1049	ID:17	Starting 'ln'
+1050	ID:17	I'm the 6LN.
+1099	ID:3	Rime started with address 0.18.116.3.0.3.3.3
+1108	ID:3	MAC 00:12:74:03:00:03:03:03 Contiki-3.x-3153-g01bafba64 started. Node id is set to 3.
+1117	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1120	ID:3	Init of IPv6 data structures
+1121	ID:3	16 neighbors
+1122	ID:3	2 default routers
+1123	ID:3	3 prefixes
+1124	ID:3	16 routes
+1125	ID:3	3 unicast addresses
+1127	ID:3	4 multicast addresses
+1128	ID:3	0 anycast addresses
+1133	ID:3	Adding prefix fe80::length 64, vlifetime 0
+1134	ID:4	Rime started with address 0.18.116.4.0.4.4.4
+1135	ID:3	# Print interface address list: 
+1138	ID:3	# Address 1: ::  state: 0  type: 0  isused: 0
+1142	ID:3	# Address 2: ::  state: 0  type: 0  isused: 0
+1144	ID:4	MAC 00:12:74:04:00:04:04:04 Contiki-3.x-3153-g01bafba64 started. Node id is set to 4.
+1148	ID:3	# Address 3: fe80::212:7403:3:303  state: 1  type: 1  isused: 1
+1149	ID:3	Starting 'ln'
+1150	ID:3	I'm the 6LN.
+1152	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1155	ID:4	Init of IPv6 data structures
+1156	ID:4	16 neighbors
+1158	ID:4	2 default routers
+1158	ID:4	3 prefixes
+1159	ID:4	16 routes
+1160	ID:16	Rime started with address 0.18.116.16.0.16.16.16
+1161	ID:4	3 unicast addresses
+1162	ID:4	4 multicast addresses
+1164	ID:4	0 anycast addresses
+1168	ID:4	Adding prefix fe80::length 64, vlifetime 0
+1170	ID:16	MAC 00:12:74:10:00:10:10:10 Contiki-3.x-3153-g01bafba64 started. Node id is set to 16.
+1171	ID:4	# Print interface address list: 
+1174	ID:4	# Address 1: ::  state: 0  type: 0  isused: 0
+1177	ID:4	# Address 2: ::  state: 0  type: 0  isused: 0
+1179	ID:16	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1182	ID:16	Init of IPv6 data structures
+1183	ID:16	16 neighbors
+1183	ID:4	# Address 3: fe80::212:7404:4:404  state: 1  type: 1  isused: 1
+1184	ID:16	2 default routers
+1185	ID:16	3 prefixes
+1185	ID:4	Starting 'ln'
+1186	ID:16	16 routes
+1186	ID:4	I'm the 6LN.
+1187	ID:16	3 unicast addresses
+1189	ID:16	4 multicast addresses
+1190	ID:16	0 anycast addresses
+1195	ID:16	Adding prefix fe80::length 64, vlifetime 0
+1197	ID:16	# Print interface address list: 
+1200	ID:16	# Address 1: ::  state: 0  type: 0  isused: 0
+1204	ID:16	# Address 2: ::  state: 0  type: 0  isused: 0
+1210	ID:16	# Address 3: fe80::212:7410:10:1010  state: 1  type: 1  isused: 1
+1212	ID:16	Starting 'ln'
+1213	ID:16	I'm the 6LN.
+1219	ID:15	Rime started with address 0.18.116.15.0.15.15.15
+1228	ID:15	MAC 00:12:74:0f:00:0f:0f:0f Contiki-3.x-3153-g01bafba64 started. Node id is set to 15.
+1237	ID:15	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1240	ID:15	Init of IPv6 data structures
+1241	ID:15	16 neighbors
+1242	ID:15	2 default routers
+1243	ID:15	3 prefixes
+1244	ID:15	16 routes
+1245	ID:15	3 unicast addresses
+1247	ID:15	4 multicast addresses
+1248	ID:15	0 anycast addresses
+1252	ID:15	Adding prefix fe80::length 64, vlifetime 0
+1255	ID:15	# Print interface address list: 
+1258	ID:15	# Address 1: ::  state: 0  type: 0  isused: 0
+1262	ID:15	# Address 2: ::  state: 0  type: 0  isused: 0
+1268	ID:15	# Address 3: fe80::212:740f:f:f0f  state: 1  type: 1  isused: 1
+1269	ID:15	Starting 'ln'
+1270	ID:15	I'm the 6LN.
+1419	ID:12	Sending RS 0
+1426	ID:12	Sending RS to ff02::2 from fe80::212:740c:c:c0c
+1450	ID:1	Received RS from fe80::212:740c:c:c0c to ff02::2
+1452	ID:1	Solicited RA: 
+1459	ID:1	Sending RA to fe80::212:740c:c:c0c from fe80::212:7401:1:101
+1692	ID:12	Received RA from fe80::212:7401:1:101 to fe80::212:740c:c:c0c
+1694	ID:12	uip_ds6_if.cur_hop_limit 64
+1696	ID:12	Processing PREFIX option in RA
+1701	ID:12	Adding prefix 2001:da8::length 64, vlifetime 600
+1704	ID:12	# Print interface address list: 
+1707	ID:12	# Address 1: ::  state: 0  type: 0  isused: 0
+1714	ID:12	# Address 2: 2001:da8::212:740c:c:c0c  state: 0  type: 1  isused: 1
+1720	ID:12	# Address 3: fe80::212:740c:c:c0c  state: 1  type: 1  isused: 1
+1722	ID:12	ND option not supported in RA
+1724	ID:12	Processing SLLAO option in RA
+1726	ID:12	Processing MTU option in RA
+1728	ID:12	ARO supported in this message
+1740	ID:12	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:740c:c:c0c with target address fe80::212:7401:1:101
+1833	ID:1	Received NS from 2001:da8::212:740c:c:c0c to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+1836	ID:1	ND ARO option is supported in received NS
+1843	ID:1	2001:da8::212:740c:c:c0c has been added to the registration list.
+1844	ID:1	ARO supported in NA message 
+1856	ID:1	Sending NA to 2001:da8::212:740c:c:c0c from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+1943	ID:12	Received NA from fe80::212:7401:1:101 to 2001:da8::212:740c:c:c0c with target address fe80::212:7401:1:101
+1949	ID:12	2001:da8::212:740c:c:c0c address registered successfully.
+1951	ID:12	# Print interface address list: 
+1955	ID:12	# Address 1: ::  state: 0  type: 0  isused: 0
+1961	ID:12	# Address 2: 2001:da8::212:740c:c:c0c  state: 1  type: 1  isused: 1
+1967	ID:12	# Address 3: fe80::212:740c:c:c0c  state: 1  type: 1  isused: 1
+2486	ID:9	Powertrace 2438 64809 0 588
+2584	ID:14	Powertrace 2456 64791 0 1112
+2633	ID:2	Powertrace 2432 64815 0 582
+2657	ID:5	Powertrace 2432 64815 0 568
+2694	ID:7	Powertrace 2449 64798 0 1120
+2699	ID:10	Powertrace 2466 64781 0 1072
+2715	ID:12	Powertrace 13036 54211 3859 1611
+2741	ID:13	Powertrace 2460 64787 0 589
+2752	ID:21	Powertrace 2480 64767 0 571
+2857	ID:19	Powertrace 2505 64742 0 612
+2886	ID:8	Powertrace 2431 64816 0 578
+2903	ID:6	Powertrace 2439 64808 0 495
+2967	ID:11	Powertrace 2516 64731 0 1000
+2990	ID:20	Powertrace 2480 64767 0 578
+3032	ID:18	Powertrace 2486 64761 0 588
+3050	ID:17	Powertrace 2479 64768 0 939
+3152	ID:3	Powertrace 2440 64807 0 535
+3188	ID:4	Powertrace 2439 64808 0 1100
+3213	ID:16	Powertrace 2511 64736 0 1112
+3271	ID:15	Powertrace 2457 64790 0 578
+4118	ID:14	Sending RS 0
+4123	ID:14	Sending RS to ff02::2 from fe80::212:740e:e:e0e
+4201	ID:1	Received RS from fe80::212:740e:e:e0e to ff02::2
+4202	ID:1	Solicited RA: 
+4210	ID:1	Sending RA to fe80::212:740e:e:e0e from fe80::212:7401:1:101
+4314	ID:14	Received RA from fe80::212:7401:1:101 to fe80::212:740e:e:e0e
+4316	ID:14	uip_ds6_if.cur_hop_limit 64
+4318	ID:14	Processing PREFIX option in RA
+4323	ID:14	Adding prefix 2001:da8::length 64, vlifetime 600
+4326	ID:14	# Print interface address list: 
+4329	ID:14	# Address 1: ::  state: 0  type: 0  isused: 0
+4336	ID:14	# Address 2: 2001:da8::212:740e:e:e0e  state: 0  type: 1  isused: 1
+4342	ID:14	# Address 3: fe80::212:740e:e:e0e  state: 1  type: 1  isused: 1
+4344	ID:14	ND option not supported in RA
+4346	ID:14	Processing SLLAO option in RA
+4348	ID:14	Processing MTU option in RA
+4351	ID:14	ARO supported in this message
+4363	ID:14	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:740e:e:e0e with target address fe80::212:7401:1:101
+4459	ID:1	Received NS from 2001:da8::212:740e:e:e0e to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+4463	ID:1	ND ARO option is supported in received NS
+4469	ID:1	2001:da8::212:740e:e:e0e has been added to the registration list.
+4471	ID:1	ARO supported in NA message 
+4483	ID:1	Sending NA to 2001:da8::212:740e:e:e0e from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+4486	ID:9	Powertrace 3194 129589 0 1278
+4565	ID:14	Received NA from fe80::212:7401:1:101 to 2001:da8::212:740e:e:e0e with target address fe80::212:7401:1:101
+4572	ID:14	2001:da8::212:740e:e:e0e address registered successfully.
+4574	ID:14	# Print interface address list: 
+4577	ID:14	# Address 1: ::  state: 0  type: 0  isused: 0
+4584	ID:14	# Address 2: 2001:da8::212:740e:e:e0e  state: 1  type: 1  isused: 1
+4590	ID:14	# Address 3: fe80::212:740e:e:e0e  state: 1  type: 1  isused: 1
+4599	ID:14	Powertrace 13873 119330 3959 2840
+4634	ID:2	Powertrace 3188 129595 0 1175
+4657	ID:5	Powertrace 3191 129592 0 1147
+4695	ID:7	Powertrace 3229 129554 0 2078
+4699	ID:10	Powertrace 3247 129536 0 1971
+4715	ID:12	Powertrace 13931 118852 3859 2598
+4741	ID:13	Powertrace 3206 129577 0 1120
+4753	ID:21	Powertrace 3236 129547 0 1148
+4858	ID:19	Powertrace 3285 129498 0 1278
+4887	ID:8	Powertrace 3187 129596 0 1166
+4904	ID:6	Powertrace 3195 129588 0 1064
+4967	ID:11	Powertrace 3328 129455 0 1827
+4991	ID:20	Powertrace 3236 129547 0 1166
+5033	ID:18	Powertrace 3245 129538 0 1125
+5051	ID:17	Powertrace 3235 129548 0 1997
+5153	ID:3	Powertrace 3191 129592 0 1080
+5188	ID:4	Powertrace 3198 129585 0 2004
+5214	ID:16	Powertrace 3333 129450 0 2142
+5272	ID:15	Powertrace 3215 129568 0 1168
+6487	ID:9	Powertrace 3837 194492 0 1694
+6586	ID:14	Powertrace 14608 183723 3959 3256
+6634	ID:2	Powertrace 3831 194498 0 1591
+6658	ID:5	Powertrace 3834 194495 0 1563
+6695	ID:7	Powertrace 3871 194458 0 2494
+6700	ID:10	Powertrace 3889 194440 0 2387
+6715	ID:12	Powertrace 14665 183666 3859 3014
+6742	ID:13	Powertrace 3848 194481 0 1536
+6753	ID:21	Powertrace 3878 194451 0 1564
+6858	ID:19	Powertrace 3927 194402 0 1694
+6887	ID:8	Powertrace 3830 194499 0 1582
+6904	ID:6	Powertrace 3838 194491 0 1480
+6967	ID:11	Powertrace 3970 194359 0 2243
+6992	ID:20	Powertrace 3878 194451 0 1582
+7033	ID:18	Powertrace 3887 194442 0 1541
+7051	ID:17	Powertrace 3877 194452 0 2413
+7153	ID:3	Powertrace 3834 194495 0 1496
+7189	ID:4	Powertrace 3841 194488 0 2420
+7214	ID:16	Powertrace 3975 194354 0 2558
+7272	ID:15	Powertrace 3857 194472 0 1584
+7575	ID:16	Sending RS 0
+7581	ID:16	Sending RS to ff02::2 from fe80::212:7410:10:1010
+7700	ID:1	Received RS from fe80::212:7410:10:1010 to ff02::2
+7702	ID:1	Solicited RA: 
+7710	ID:1	Sending RA to fe80::212:7410:10:1010 from fe80::212:7401:1:101
+7941	ID:16	Received RA from fe80::212:7401:1:101 to fe80::212:7410:10:1010
+7943	ID:16	uip_ds6_if.cur_hop_limit 64
+7945	ID:16	Processing PREFIX option in RA
+7951	ID:16	Adding prefix 2001:da8::length 64, vlifetime 600
+7953	ID:16	# Print interface address list: 
+7957	ID:16	# Address 1: ::  state: 0  type: 0  isused: 0
+7963	ID:16	# Address 2: 2001:da8::212:7410:10:1010  state: 0  type: 1  isused: 1
+7970	ID:16	# Address 3: fe80::212:7410:10:1010  state: 1  type: 1  isused: 1
+7972	ID:16	ND option not supported in RA
+7974	ID:16	Processing SLLAO option in RA
+7976	ID:16	Processing MTU option in RA
+7979	ID:16	ARO supported in this message
+7991	ID:16	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:7410:10:1010 with target address fe80::212:7401:1:101
+8084	ID:1	Received NS from 2001:da8::212:7410:10:1010 to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+8088	ID:1	ND ARO option is supported in received NS
+8094	ID:1	2001:da8::212:7410:10:1010 has been added to the registration list.
+8096	ID:1	ARO supported in NA message 
+8109	ID:1	Sending NA to 2001:da8::212:7410:10:1010 from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+8196	ID:16	Received NA from fe80::212:7401:1:101 to 2001:da8::212:7410:10:1010 with target address fe80::212:7401:1:101
+8203	ID:16	2001:da8::212:7410:10:1010 address registered successfully.
+8205	ID:16	# Print interface address list: 
+8209	ID:16	# Address 1: ::  state: 0  type: 0  isused: 0
+8216	ID:16	# Address 2: 2001:da8::212:7410:10:1010  state: 1  type: 1  isused: 1
+8222	ID:16	# Address 3: fe80::212:7410:10:1010  state: 1  type: 1  isused: 1
+8222	ID:18	Sending RS 0
+8228	ID:18	Sending RS to ff02::2 from fe80::212:7412:12:1212
+8325	ID:1	Received RS from fe80::212:7412:12:1212 to ff02::2
+8327	ID:1	Solicited RA: 
+8335	ID:1	Sending RA to fe80::212:7412:12:1212 from fe80::212:7401:1:101
+8486	ID:9	Powertrace 4470 259385 0 2110
+8511	ID:18	Received RA from fe80::212:7401:1:101 to fe80::212:7412:12:1212
+8513	ID:18	uip_ds6_if.cur_hop_limit 64
+8515	ID:18	Processing PREFIX option in RA
+8520	ID:18	Adding prefix 2001:da8::length 64, vlifetime 600
+8523	ID:18	# Print interface address list: 
+8526	ID:18	# Address 1: ::  state: 0  type: 0  isused: 0
+8533	ID:18	# Address 2: 2001:da8::212:7412:12:1212  state: 0  type: 1  isused: 1
+8539	ID:18	# Address 3: fe80::212:7412:12:1212  state: 1  type: 1  isused: 1
+8541	ID:18	ND option not supported in RA
+8543	ID:18	Processing SLLAO option in RA
+8546	ID:18	Processing MTU option in RA
+8549	ID:18	ARO supported in this message
+8561	ID:18	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:7412:12:1212 with target address fe80::212:7401:1:101
+8586	ID:14	Powertrace 15639 248216 3959 4498
+8634	ID:2	Powertrace 4470 259385 0 2374
+8657	ID:5	Powertrace 4789 259066 0 2900
+8695	ID:7	Powertrace 4661 259194 0 3613
+8699	ID:10	Powertrace 4848 259007 0 3863
+8707	ID:1	Received NS from 2001:da8::212:7412:12:1212 to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+8711	ID:1	ND ARO option is supported in received NS
+8715	ID:12	Powertrace 15699 248156 3859 4490
+8718	ID:1	2001:da8::212:7412:12:1212 has been added to the registration list.
+8720	ID:1	ARO supported in NA message 
+8732	ID:1	Sending NA to 2001:da8::212:7412:12:1212 from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+8741	ID:13	Powertrace 4780 259075 0 2448
+8753	ID:21	Powertrace 4821 259034 0 2661
+8858	ID:19	Powertrace 4889 258966 0 2665
+8887	ID:8	Powertrace 4475 259380 0 2542
+8890	ID:18	Received NA from fe80::212:7401:1:101 to 2001:da8::212:7412:12:1212 with target address fe80::212:7401:1:101
+8897	ID:18	2001:da8::212:7412:12:1212 address registered successfully.
+8899	ID:18	# Print interface address list: 
+8902	ID:18	# Address 1: ::  state: 0  type: 0  isused: 0
+8904	ID:6	Powertrace 4483 259372 0 2427
+8909	ID:18	# Address 2: 2001:da8::212:7412:12:1212  state: 1  type: 1  isused: 1
+8916	ID:18	# Address 3: fe80::212:7412:12:1212  state: 1  type: 1  isused: 1
+8967	ID:11	Powertrace 4942 258913 0 3831
+8991	ID:20	Powertrace 4811 259044 0 2652
+9034	ID:18	Powertrace 17234 246621 5199 3915
+9051	ID:17	Powertrace 4813 259042 0 4013
+9131	ID:3	Sending RS 0
+9137	ID:3	Sending RS to ff02::2 from fe80::212:7403:3:303
+9188	ID:4	Powertrace 4630 259225 0 3731
+9201	ID:1	Received RS from fe80::212:7403:3:303 to ff02::2
+9203	ID:1	Solicited RA: 
+9210	ID:1	Sending RA to fe80::212:7403:3:303 from fe80::212:7401:1:101
+9215	ID:16	Powertrace 15553 248302 3861 4697
+9272	ID:15	Powertrace 4954 258901 0 3208
+9284	ID:3	Powertrace 9378 258730 2206 2890
+9381	ID:3	Received RA from fe80::212:7401:1:101 to fe80::212:7403:3:303
+9384	ID:3	uip_ds6_if.cur_hop_limit 64
+9386	ID:3	Processing PREFIX option in RA
+9391	ID:3	Adding prefix 2001:da8::length 64, vlifetime 600
+9393	ID:3	# Print interface address list: 
+9397	ID:3	# Address 1: ::  state: 0  type: 0  isused: 0
+9403	ID:3	# Address 2: 2001:da8::212:7403:3:303  state: 0  type: 1  isused: 1
+9409	ID:3	# Address 3: fe80::212:7403:3:303  state: 1  type: 1  isused: 1
+9411	ID:3	ND option not supported in RA
+9413	ID:3	Processing SLLAO option in RA
+9416	ID:3	Processing MTU option in RA
+9419	ID:3	ARO supported in this message
+9430	ID:3	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:7403:3:303 with target address fe80::212:7401:1:101
+9581	ID:1	Received NS from 2001:da8::212:7403:3:303 to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+9585	ID:1	ND ARO option is supported in received NS
+9592	ID:1	2001:da8::212:7403:3:303 has been added to the registration list.
+9594	ID:1	ARO supported in NA message 
+9606	ID:1	Sending NA to 2001:da8::212:7403:3:303 from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+9758	ID:3	Received NA from fe80::212:7401:1:101 to 2001:da8::212:7403:3:303 with target address fe80::212:7401:1:101
+9765	ID:3	2001:da8::212:7403:3:303 address registered successfully.
+9767	ID:3	# Print interface address list: 
+9770	ID:3	# Address 1: ::  state: 0  type: 0  isused: 0
+9777	ID:3	# Address 2: 2001:da8::212:7403:3:303  state: 1  type: 1  isused: 1
+9783	ID:3	# Address 3: fe80::212:7403:3:303  state: 1  type: 1  isused: 1
+10486	ID:9	Powertrace 5254 324137 0 3400
+10586	ID:14	Powertrace 16518 312873 3959 5768
+10634	ID:2	Powertrace 5254 324137 0 3676
+10657	ID:5	Powertrace 5613 323778 0 4111
+10695	ID:7	Powertrace 5445 323946 0 4728
+10699	ID:10	Powertrace 5627 323764 0 4937
+10715	ID:12	Powertrace 16566 312825 3859 5602
+10741	ID:13	Powertrace 5574 323817 0 3764
+10753	ID:21	Powertrace 5614 323777 0 3939
+10858	ID:19	Powertrace 5682 323709 0 3794
+10887	ID:8	Powertrace 5259 324132 0 3672
+10904	ID:6	Powertrace 5259 324132 0 3546
+10967	ID:11	Powertrace 5737 323654 0 4753
+10991	ID:20	Powertrace 5603 323788 0 3760
+11009	ID:20	Sending RS 0
+11015	ID:20	Sending RS to ff02::2 from fe80::212:7414:14:1414
+11034	ID:18	Powertrace 18156 311235 5199 4883
+11051	ID:17	Powertrace 5601 323790 0 4927
+11076	ID:1	Received RS from fe80::212:7414:14:1414 to ff02::2
+11078	ID:1	Solicited RA: 
+11086	ID:1	Sending RA to fe80::212:7414:14:1414 from fe80::212:7401:1:101
+11154	ID:3	Powertrace 18065 311326 5297 5062
+11188	ID:4	Powertrace 5561 323830 0 4781
+11215	ID:16	Powertrace 16426 312965 3861 5435
+11272	ID:15	Powertrace 5739 323652 0 4495
+11344	ID:20	Received RA from fe80::212:7401:1:101 to fe80::212:7414:14:1414
+11346	ID:20	uip_ds6_if.cur_hop_limit 64
+11348	ID:20	Processing PREFIX option in RA
+11353	ID:20	Adding prefix 2001:da8::length 64, vlifetime 600
+11356	ID:20	# Print interface address list: 
+11359	ID:20	# Address 1: ::  state: 0  type: 0  isused: 0
+11366	ID:20	# Address 2: 2001:da8::212:7414:14:1414  state: 0  type: 1  isused: 1
+11372	ID:20	# Address 3: fe80::212:7414:14:1414  state: 1  type: 1  isused: 1
+11374	ID:20	ND option not supported in RA
+11377	ID:20	Processing SLLAO option in RA
+11380	ID:20	Processing MTU option in RA
+11382	ID:20	ARO supported in this message
+11394	ID:20	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:7414:14:1414 with target address fe80::212:7401:1:101
+11429	ID:12	Router found ? (boolean): 1
+11459	ID:1	Received NS from 2001:da8::212:7414:14:1414 to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+11463	ID:1	ND ARO option is supported in received NS
+11464	ID:5	Sending RS 0
+11469	ID:5	Sending RS to ff02::2 from fe80::212:7405:5:505
+11470	ID:1	2001:da8::212:7414:14:1414 has been added to the registration list.
+11472	ID:1	ARO supported in NA message 
+11484	ID:1	Sending NA to 2001:da8::212:7414:14:1414 from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+11575	ID:1	Received RS from fe80::212:7405:5:505 to ff02::2
+11578	ID:1	Solicited RA: 
+11585	ID:1	Sending RA to fe80::212:7405:5:505 from fe80::212:7401:1:101
+11760	ID:5	Received RA from fe80::212:7401:1:101 to fe80::212:7405:5:505
+11762	ID:5	uip_ds6_if.cur_hop_limit 64
+11764	ID:5	Processing PREFIX option in RA
+11769	ID:5	Adding prefix 2001:da8::length 64, vlifetime 600
+11771	ID:5	# Print interface address list: 
+11775	ID:5	# Address 1: ::  state: 0  type: 0  isused: 0
+11781	ID:5	# Address 2: 2001:da8::212:7405:5:505  state: 0  type: 1  isused: 1
+11787	ID:5	# Address 3: fe80::212:7405:5:505  state: 1  type: 1  isused: 1
+11790	ID:5	ND option not supported in RA
+11792	ID:5	Processing SLLAO option in RA
+11795	ID:5	Processing MTU option in RA
+11797	ID:5	ARO supported in this message
+11809	ID:5	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:7405:5:505 with target address fe80::212:7401:1:101
+11956	ID:1	Received NS from 2001:da8::212:7405:5:505 to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+11961	ID:1	ND ARO option is supported in received NS
+11968	ID:1	2001:da8::212:7405:5:505 has been added to the registration list.
+11970	ID:1	ARO supported in NA message 
+11982	ID:1	Sending NA to 2001:da8::212:7405:5:505 from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+12140	ID:5	Received NA from fe80::212:7401:1:101 to 2001:da8::212:7405:5:505 with target address fe80::212:7401:1:101
+12147	ID:5	2001:da8::212:7405:5:505 address registered successfully.
+12149	ID:5	# Print interface address list: 
+12153	ID:5	# Address 1: ::  state: 0  type: 0  isused: 0
+12159	ID:5	# Address 2: 2001:da8::212:7405:5:505  state: 1  type: 1  isused: 1
+12165	ID:5	# Address 3: fe80::212:7405:5:505  state: 1  type: 1  isused: 1
+12330	ID:7	Sending RS 0
+12335	ID:7	Sending RS to ff02::2 from fe80::212:7407:7:707
+12449	ID:1	Received RS from fe80::212:7407:7:707 to ff02::2
+12452	ID:1	Solicited RA: 
+12459	ID:1	Sending RA to fe80::212:7407:7:707 from fe80::212:7401:1:101
+12487	ID:9	Powertrace 6207 388730 0 4638
+12549	ID:7	Received RA from fe80::212:7401:1:101 to fe80::212:7407:7:707
+12551	ID:7	uip_ds6_if.cur_hop_limit 64
+12553	ID:7	Processing PREFIX option in RA
+12558	ID:7	Adding prefix 2001:da8::length 64, vlifetime 600
+12561	ID:7	# Print interface address list: 
+12564	ID:7	# Address 1: ::  state: 0  type: 0  isused: 0
+12571	ID:7	# Address 2: 2001:da8::212:7407:7:707  state: 0  type: 1  isused: 1
+12577	ID:7	# Address 3: fe80::212:7407:7:707  state: 1  type: 1  isused: 1
+12579	ID:7	ND option not supported in RA
+12581	ID:7	Processing SLLAO option in RA
+12584	ID:7	Processing MTU option in RA
+12586	ID:14	Powertrace 17732 377207 3959 7524
+12587	ID:7	ARO supported in this message
+12599	ID:7	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:7407:7:707 with target address fe80::212:7401:1:101
+12634	ID:2	Powertrace 6385 388552 0 5291
+12659	ID:5	Powertrace 19136 375804 5193 6878
+12700	ID:10	Powertrace 6780 388157 0 6823
+12704	ID:7	Powertrace 16371 378816 4269 7127
+12708	ID:1	Received NS from 2001:da8::212:7407:7:707 to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+12713	ID:1	ND ARO option is supported in received NS
+12715	ID:12	Powertrace 17895 377042 3859 7602
+12720	ID:1	2001:da8::212:7407:7:707 has been added to the registration list.
+12722	ID:1	ARO supported in NA message 
+12734	ID:1	Sending NA to 2001:da8::212:7407:7:707 from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+12742	ID:13	Powertrace 6557 388380 0 5232
+12753	ID:21	Powertrace 6589 388348 0 5202
+12799	ID:7	Received NA from fe80::212:7401:1:101 to 2001:da8::212:7407:7:707 with target address fe80::212:7401:1:101
+12806	ID:7	2001:da8::212:7407:7:707 address registered successfully.
+12808	ID:7	# Print interface address list: 
+12812	ID:7	# Address 1: ::  state: 0  type: 0  isused: 0
+12819	ID:7	# Address 2: 2001:da8::212:7407:7:707  state: 1  type: 1  isused: 1
+12825	ID:7	# Address 3: fe80::212:7407:7:707  state: 1  type: 1  isused: 1
+12847	ID:20	Received NA from fe80::212:7401:1:101 to 2001:da8::212:7414:14:1414 with target address fe80::212:7401:1:101
+12854	ID:20	2001:da8::212:7414:14:1414 address registered successfully.
+12856	ID:20	# Print interface address list: 
+12858	ID:19	Powertrace 6860 388077 0 5503
+12859	ID:20	# Address 1: ::  state: 0  type: 0  isused: 0
+12866	ID:20	# Address 2: 2001:da8::212:7414:14:1414  state: 1  type: 1  isused: 1
+12872	ID:20	# Address 3: fe80::212:7414:14:1414  state: 1  type: 1  isused: 1
+12887	ID:8	Powertrace 6213 388724 0 5009
+12904	ID:6	Powertrace 6232 388705 0 5189
+12967	ID:11	Powertrace 6887 388050 0 6677
+12993	ID:20	Powertrace 16472 378468 3137 5855
+13034	ID:18	Powertrace 19370 375569 5199 6641
+13051	ID:17	Powertrace 6752 388185 0 6612
+13155	ID:3	Powertrace 19137 375802 5297 6695
+13189	ID:4	Powertrace 6520 388417 0 6416
+13216	ID:16	Powertrace 17313 377626 3861 6899
+13272	ID:15	Powertrace 6718 388219 0 5880
+14119	ID:14	Router found ? (boolean): 1
+14486	ID:9	Powertrace 6840 453623 0 5231
+14586	ID:14	Powertrace 18547 441915 3959 8137
+14634	ID:2	Powertrace 7018 453445 0 5707
+14659	ID:5	Powertrace 19859 440604 5193 7294
+14696	ID:7	Powertrace 18473 441990 4269 7800
+14699	ID:10	Powertrace 7432 453031 0 7292
+14715	ID:12	Powertrace 18575 441887 3859 8018
+14741	ID:13	Powertrace 7195 453268 0 5825
+14753	ID:21	Powertrace 7222 453241 0 5618
+14858	ID:19	Powertrace 7493 452970 0 5919
+14887	ID:8	Powertrace 6846 453617 0 5425
+14904	ID:6	Powertrace 6865 453598 0 5605
+14949	ID:9	Sending RS 0
+14955	ID:9	Sending RS to ff02::2 from fe80::212:7409:9:909
+14967	ID:11	Powertrace 7520 452943 0 7093
+14993	ID:20	Powertrace 17194 443269 3137 6271
+15034	ID:18	Powertrace 20092 440371 5199 7057
+15051	ID:17	Powertrace 7551 452912 0 7183
+15075	ID:1	Received RS from fe80::212:7409:9:909 to ff02::2
+15078	ID:1	Solicited RA: 
+15085	ID:1	Sending RA to fe80::212:7409:9:909 from fe80::212:7401:1:101
+15154	ID:3	Powertrace 20029 440434 5297 7275
+15188	ID:4	Powertrace 7306 453157 0 6977
+15215	ID:16	Powertrace 18035 442428 3861 7315
+15272	ID:15	Powertrace 7525 452938 0 6618
+15337	ID:9	Received RA from fe80::212:7401:1:101 to fe80::212:7409:9:909
+15339	ID:9	uip_ds6_if.cur_hop_limit 64
+15342	ID:9	Processing PREFIX option in RA
+15347	ID:9	Adding prefix 2001:da8::length 64, vlifetime 600
+15349	ID:9	# Print interface address list: 
+15353	ID:9	# Address 1: ::  state: 0  type: 0  isused: 0
+15359	ID:9	# Address 2: 2001:da8::212:7409:9:909  state: 0  type: 1  isused: 1
+15365	ID:9	# Address 3: fe80::212:7409:9:909  state: 1  type: 1  isused: 1
+15367	ID:9	ND option not supported in RA
+15370	ID:9	Processing SLLAO option in RA
+15373	ID:9	Processing MTU option in RA
+15375	ID:9	ARO supported in this message
+15387	ID:9	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:7409:9:909 with target address fe80::212:7401:1:101
+15459	ID:1	Received NS from 2001:da8::212:7409:9:909 to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+15465	ID:1	ND ARO option is supported in received NS
+15471	ID:1	2001:da8::212:7409:9:909 has been added to the registration list.
+15473	ID:1	ARO supported in NA message 
+15485	ID:1	Sending NA to 2001:da8::212:7409:9:909 from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+15592	ID:9	Received NA from fe80::212:7401:1:101 to 2001:da8::212:7409:9:909 with target address fe80::212:7401:1:101
+15599	ID:9	2001:da8::212:7409:9:909 address registered successfully.
+15601	ID:9	# Print interface address list: 
+15605	ID:9	# Address 1: ::  state: 0  type: 0  isused: 0
+15611	ID:9	# Address 2: 2001:da8::212:7409:9:909  state: 1  type: 1  isused: 1
+15617	ID:9	# Address 3: fe80::212:7409:9:909  state: 1  type: 1  isused: 1
+16258	ID:11	Sending RS 0
+16264	ID:11	Sending RS to ff02::2 from fe80::212:740b:b:b0b
+16325	ID:1	Received RS from fe80::212:740b:b:b0b to ff02::2
+16328	ID:1	Solicited RA: 
+16336	ID:1	Sending RA to fe80::212:740b:b:b0b from fe80::212:7401:1:101
+16488	ID:9	Powertrace 17737 508262 3339 6842
+16572	ID:11	Received RA from fe80::212:7401:1:101 to fe80::212:740b:b:b0b
+16574	ID:11	uip_ds6_if.cur_hop_limit 64
+16577	ID:11	Processing PREFIX option in RA
+16582	ID:11	Adding prefix 2001:da8::length 64, vlifetime 600
+16584	ID:11	# Print interface address list: 
+16586	ID:14	Powertrace 19560 506438 3959 9604
+16588	ID:11	# Address 1: ::  state: 0  type: 0  isused: 0
+16594	ID:11	# Address 2: 2001:da8::212:740b:b:b0b  state: 0  type: 1  isused: 1
+16600	ID:11	# Address 3: fe80::212:740b:b:b0b  state: 1  type: 1  isused: 1
+16602	ID:11	ND option not supported in RA
+16604	ID:11	Processing SLLAO option in RA
+16608	ID:11	Processing MTU option in RA
+16611	ID:11	ARO supported in this message
+16623	ID:11	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:740b:b:b0b with target address fe80::212:7401:1:101
+16634	ID:2	Powertrace 7975 518024 0 6750
+16659	ID:5	Powertrace 20912 505087 5193 8164
+16696	ID:7	Powertrace 19538 506461 4269 9414
+16699	ID:10	Powertrace 8407 517592 0 8915
+16708	ID:1	Received NS from 2001:da8::212:740b:b:b0b to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+16714	ID:1	ND ARO option is supported in received NS
+16715	ID:12	Powertrace 19598 506400 3859 9637
+16720	ID:1	2001:da8::212:740b:b:b0b has been added to the registration list.
+16722	ID:1	ARO supported in NA message 
+16734	ID:1	Sending NA to 2001:da8::212:740b:b:b0b from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+16741	ID:13	Powertrace 7992 518007 0 6856
+16753	ID:21	Powertrace 8168 517831 0 6488
+16823	ID:11	Received NA from fe80::212:7401:1:101 to 2001:da8::212:740b:b:b0b with target address fe80::212:7401:1:101
+16830	ID:11	2001:da8::212:740b:b:b0b address registered successfully.
+16832	ID:11	# Print interface address list: 
+16836	ID:11	# Address 1: ::  state: 0  type: 0  isused: 0
+16842	ID:11	# Address 2: 2001:da8::212:740b:b:b0b  state: 1  type: 1  isused: 1
+16849	ID:11	# Address 3: fe80::212:740b:b:b0b  state: 1  type: 1  isused: 1
+16858	ID:19	Powertrace 8317 517682 0 6910
+16887	ID:8	Powertrace 7806 518193 0 6320
+16904	ID:6	Powertrace 7816 518183 0 6454
+16968	ID:11	Powertrace 18910 507089 3656 9364
+16993	ID:20	Powertrace 18125 507874 3137 7112
+17034	ID:18	Powertrace 20981 505018 5199 7813
+17051	ID:17	Powertrace 8354 517645 0 8492
+17154	ID:3	Powertrace 20917 505082 5297 8016
+17188	ID:4	Powertrace 8112 517887 0 8452
+17215	ID:16	Powertrace 18914 507085 3861 8762
+17272	ID:15	Powertrace 8331 517668 0 7194
+17577	ID:16	Router found ? (boolean): 1
+18224	ID:18	Router found ? (boolean): 1
+18488	ID:9	Powertrace 18472 573075 3339 7258
+18587	ID:14	Powertrace 20256 571289 3959 10374
+18634	ID:2	Powertrace 8618 582927 0 7166
+18659	ID:5	Powertrace 21647 569900 5193 8580
+18697	ID:7	Powertrace 20273 571274 4269 10007
+18700	ID:10	Powertrace 9050 582495 0 9508
+18716	ID:12	Powertrace 20288 571257 3859 10230
+18742	ID:13	Powertrace 8635 582910 0 7272
+18753	ID:21	Powertrace 8811 582734 0 6904
+18858	ID:19	Powertrace 8960 582585 0 7326
+18861	ID:13	Sending RS 0
+18866	ID:13	Sending RS to ff02::2 from fe80::212:740d:d:d0d
+18887	ID:8	Powertrace 8449 583096 0 6736
+18904	ID:6	Powertrace 8459 583086 0 6870
+18950	ID:1	Received RS from fe80::212:740d:d:d0d to ff02::2
+18953	ID:1	Solicited RA: 
+18961	ID:1	Sending RA to fe80::212:740d:d:d0d from fe80::212:7401:1:101
+18969	ID:11	Powertrace 19817 571730 3656 9911
+18993	ID:20	Powertrace 19031 572516 3137 7671
+19034	ID:18	Powertrace 21974 569571 5199 8381
+19051	ID:17	Powertrace 9171 582374 0 9063
+19134	ID:3	Router found ? (boolean): 1
+19154	ID:3	Powertrace 21931 569614 5297 8597
+19189	ID:4	Powertrace 8919 582626 0 9020
+19216	ID:16	Powertrace 19880 571665 3861 9308
+19272	ID:15	Powertrace 9139 582406 0 7755
+19347	ID:13	Received RA from fe80::212:7401:1:101 to fe80::212:740d:d:d0d
+19349	ID:13	uip_ds6_if.cur_hop_limit 64
+19351	ID:13	Processing PREFIX option in RA
+19356	ID:13	Adding prefix 2001:da8::length 64, vlifetime 600
+19359	ID:13	# Print interface address list: 
+19362	ID:13	# Address 1: ::  state: 0  type: 0  isused: 0
+19369	ID:13	# Address 2: 2001:da8::212:740d:d:d0d  state: 0  type: 1  isused: 1
+19375	ID:13	# Address 3: fe80::212:740d:d:d0d  state: 1  type: 1  isused: 1
+19377	ID:13	ND option not supported in RA
+19379	ID:13	Processing SLLAO option in RA
+19382	ID:13	Processing MTU option in RA
+19385	ID:13	ARO supported in this message
+19397	ID:13	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:740d:d:d0d with target address fe80::212:7401:1:101
+19457	ID:1	Received NS from 2001:da8::212:740d:d:d0d to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+19463	ID:1	ND ARO option is supported in received NS
+19469	ID:1	2001:da8::212:740d:d:d0d has been added to the registration list.
+19471	ID:1	ARO supported in NA message 
+19483	ID:1	Sending NA to 2001:da8::212:740d:d:d0d from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+19596	ID:13	Received NA from fe80::212:7401:1:101 to 2001:da8::212:740d:d:d0d with target address fe80::212:7401:1:101
+19603	ID:13	2001:da8::212:740d:d:d0d address registered successfully.
+19605	ID:13	# Print interface address list: 
+19609	ID:13	# Address 1: ::  state: 0  type: 0  isused: 0
+19615	ID:13	# Address 2: 2001:da8::212:740d:d:d0d  state: 1  type: 1  isused: 1
+19621	ID:13	# Address 3: fe80::212:740d:d:d0d  state: 1  type: 1  isused: 1
+20220	ID:15	Sending RS 0
+20225	ID:15	Sending RS to ff02::2 from fe80::212:740f:f:f0f
+20323	ID:1	Received RS from fe80::212:740f:f:f0f to ff02::2
+20326	ID:1	Solicited RA: 
+20334	ID:1	Sending RA to fe80::212:740f:f:f0f from fe80::212:7401:1:101
+20488	ID:9	Powertrace 19369 637702 3339 8127
+20503	ID:15	Received RA from fe80::212:7401:1:101 to fe80::212:740f:f:f0f
+20505	ID:15	uip_ds6_if.cur_hop_limit 64
+20508	ID:15	Processing PREFIX option in RA
+20513	ID:15	Adding prefix 2001:da8::length 64, vlifetime 600
+20515	ID:15	# Print interface address list: 
+20519	ID:15	# Address 1: ::  state: 0  type: 0  isused: 0
+20525	ID:15	# Address 2: 2001:da8::212:740f:f:f0f  state: 0  type: 1  isused: 1
+20531	ID:15	# Address 3: fe80::212:740f:f:f0f  state: 1  type: 1  isused: 1
+20533	ID:15	ND option not supported in RA
+20535	ID:15	Processing SLLAO option in RA
+20539	ID:15	Processing MTU option in RA
+20542	ID:15	ARO supported in this message
+20554	ID:15	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:740f:f:f0f with target address fe80::212:7401:1:101
+20586	ID:14	Powertrace 21294 635776 3959 11468
+20634	ID:2	Powertrace 9428 647643 0 8041
+20659	ID:5	Powertrace 22758 634313 5193 9516
+20697	ID:7	Powertrace 21184 635887 4269 10931
+20700	ID:10	Powertrace 10050 647021 0 10613
+20710	ID:1	Received NS from 2001:da8::212:740f:f:f0f to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+20715	ID:12	Powertrace 21324 635746 3859 11486
+20715	ID:1	ND ARO option is supported in received NS
+20722	ID:1	2001:da8::212:740f:f:f0f has been added to the registration list.
+20724	ID:1	ARO supported in NA message 
+20736	ID:1	Sending NA to 2001:da8::212:740f:f:f0f from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+20743	ID:13	Powertrace 19215 637856 3029 9008
+20753	ID:21	Powertrace 9770 647301 0 7990
+20858	ID:19	Powertrace 9967 647104 0 8879
+20876	ID:15	Received NA from fe80::212:7401:1:101 to 2001:da8::212:740f:f:f0f with target address fe80::212:7401:1:101
+20884	ID:15	2001:da8::212:740f:f:f0f address registered successfully.
+20886	ID:15	# Print interface address list: 
+20887	ID:8	Powertrace 9262 647809 0 7867
+20890	ID:15	# Address 1: ::  state: 0  type: 0  isused: 0
+20896	ID:15	# Address 2: 2001:da8::212:740f:f:f0f  state: 1  type: 1  isused: 1
+20902	ID:15	# Address 3: fe80::212:740f:f:f0f  state: 1  type: 1  isused: 1
+20904	ID:6	Powertrace 9280 647791 0 7873
+20969	ID:11	Powertrace 20718 636353 3656 11386
+20993	ID:20	Powertrace 19959 637112 3137 8981
+21012	ID:20	Router found ? (boolean): 1
+21034	ID:18	Powertrace 22832 634238 5199 9129
+21051	ID:17	Powertrace 9995 647076 0 10185
+21154	ID:3	Powertrace 22811 634259 5297 9622
+21189	ID:4	Powertrace 9730 647341 0 10135
+21216	ID:16	Powertrace 20728 636342 3861 10591
+21274	ID:15	Powertrace 22703 634368 5402 9826
+21467	ID:5	Router found ? (boolean): 1
+22333	ID:7	Router found ? (boolean): 1
+22488	ID:9	Powertrace 20102 702505 3339 8910
+22586	ID:14	Powertrace 21985 700621 3959 12238
+22634	ID:2	Powertrace 10060 712547 0 8634
+22659	ID:5	Powertrace 23591 699015 5193 9932
+22697	ID:7	Powertrace 22052 700554 4269 11537
+22700	ID:10	Powertrace 10708 711899 0 11206
+22715	ID:12	Powertrace 22015 700591 3859 12079
+22743	ID:13	Powertrace 19937 702670 3029 9601
+22753	ID:21	Powertrace 10402 712205 0 8583
+22827	ID:17	Sending RS 0
+22832	ID:17	Sending RS to ff02::2 from fe80::212:7411:11:1111
+22858	ID:19	Powertrace 10599 712008 0 9295
+22887	ID:8	Powertrace 10070 712537 0 8416
+22904	ID:6	Powertrace 10080 712527 0 8463
+22950	ID:1	Received RS from fe80::212:7411:11:1111 to ff02::2
+22953	ID:1	Solicited RA: 
+22961	ID:1	Sending RA to fe80::212:7411:11:1111 from fe80::212:7401:1:101
+22969	ID:11	Powertrace 21633 700974 3656 11924
+22993	ID:20	Powertrace 20938 701668 3137 9530
+23034	ID:18	Powertrace 23685 698921 5199 9685
+23053	ID:17	Powertrace 15401 707206 2212 10654
+23154	ID:3	Powertrace 23664 698942 5297 10364
+23156	ID:17	Received RA from fe80::212:7401:1:101 to fe80::212:7411:11:1111
+23158	ID:17	uip_ds6_if.cur_hop_limit 64
+23160	ID:17	Processing PREFIX option in RA
+23166	ID:17	Adding prefix 2001:da8::length 64, vlifetime 600
+23168	ID:17	# Print interface address list: 
+23172	ID:17	# Address 1: ::  state: 0  type: 0  isused: 0
+23179	ID:17	# Address 2: 2001:da8::212:7411:11:1111  state: 0  type: 1  isused: 1
+23185	ID:17	# Address 3: fe80::212:7411:11:1111  state: 1  type: 1  isused: 1
+23187	ID:17	ND option not supported in RA
+23189	ID:17	Processing SLLAO option in RA
+23189	ID:4	Powertrace 10553 712054 0 10714
+23193	ID:17	Processing MTU option in RA
+23196	ID:17	ARO supported in this message
+23198	ID:2	Sending RS 0
+23204	ID:2	Sending RS to ff02::2 from fe80::212:7402:2:202
+23208	ID:17	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:7411:11:1111 with target address fe80::212:7401:1:101
+23216	ID:16	Powertrace 21592 701014 3861 11128
+23274	ID:15	Powertrace 23791 698816 5402 10723
+23324	ID:1	Received RS from fe80::212:7402:2:202 to ff02::2
+23328	ID:1	Solicited RA: 
+23335	ID:1	Sending RA to fe80::212:7402:2:202 from fe80::212:7401:1:101
+23462	ID:19	Sending RS 0
+23467	ID:19	Sending RS to ff02::2 from fe80::212:7413:13:1313
+23489	ID:2	Received RA from fe80::212:7401:1:101 to fe80::212:7402:2:202
+23491	ID:2	uip_ds6_if.cur_hop_limit 64
+23493	ID:2	Processing PREFIX option in RA
+23498	ID:2	Adding prefix 2001:da8::length 64, vlifetime 600
+23501	ID:2	# Print interface address list: 
+23504	ID:2	# Address 1: ::  state: 0  type: 0  isused: 0
+23511	ID:2	# Address 2: 2001:da8::212:7402:2:202  state: 0  type: 1  isused: 1
+23517	ID:2	# Address 3: fe80::212:7402:2:202  state: 1  type: 1  isused: 1
+23519	ID:2	ND option not supported in RA
+23521	ID:2	Processing SLLAO option in RA
+23525	ID:2	Processing MTU option in RA
+23527	ID:2	ARO supported in this message
+23539	ID:2	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:7402:2:202 with target address fe80::212:7401:1:101
+23709	ID:1	Received NS from 2001:da8::212:7411:11:1111 to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+23715	ID:1	ND ARO option is supported in received NS
+23722	ID:1	2001:da8::212:7411:11:1111 has been added to the registration list.
+23724	ID:1	ARO supported in NA message 
+23736	ID:1	Sending NA to 2001:da8::212:7411:11:1111 from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+23835	ID:1	Received NS from 2001:da8::212:7402:2:202 to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+23841	ID:1	ND ARO option is supported in received NS
+23848	ID:1	2001:da8::212:7402:2:202 has been added to the registration list.
+23850	ID:1	ARO supported in NA message 
+23861	ID:1	Sending NA to 2001:da8::212:7402:2:202 from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+23988	ID:2	Received NA from fe80::212:7401:1:101 to 2001:da8::212:7402:2:202 with target address fe80::212:7401:1:101
+23996	ID:2	2001:da8::212:7402:2:202 address registered successfully.
+23998	ID:2	# Print interface address list: 
+24002	ID:2	# Address 1: ::  state: 0  type: 0  isused: 0
+24008	ID:2	# Address 2: 2001:da8::212:7402:2:202  state: 1  type: 1  isused: 1
+24014	ID:2	# Address 3: fe80::212:7402:2:202  state: 1  type: 1  isused: 1
+24032	ID:17	Received NA from fe80::212:7401:1:101 to 2001:da8::212:7411:11:1111 with target address fe80::212:7401:1:101
+24040	ID:17	2001:da8::212:7411:11:1111 address registered successfully.
+24042	ID:17	# Print interface address list: 
+24045	ID:17	# Address 1: ::  state: 0  type: 0  isused: 0
+24052	ID:17	# Address 2: 2001:da8::212:7411:11:1111  state: 1  type: 1  isused: 1
+24059	ID:17	# Address 3: fe80::212:7411:11:1111  state: 1  type: 1  isused: 1
+24489	ID:9	Powertrace 21196 766959 3339 10131
+24581	ID:4	Sending RS 0
+24587	ID:14	Powertrace 23228 764925 3959 13681
+24587	ID:4	Sending RS to ff02::2 from fe80::212:7404:4:404
+24636	ID:2	Powertrace 25474 762682 6433 11474
+24659	ID:5	Powertrace 24842 763311 5193 11718
+24697	ID:7	Powertrace 23441 764712 4269 13085
+24700	ID:10	Powertrace 12092 776061 0 12742
+24701	ID:1	Received RS from fe80::212:7404:4:404 to ff02::2
+24705	ID:1	Solicited RA: 
+24713	ID:1	Sending RA to fe80::212:7404:4:404 from fe80::212:7401:1:101
+24716	ID:12	Powertrace 23444 764709 3859 13630
+24743	ID:13	Powertrace 21015 767140 3029 10878
+24753	ID:21	Powertrace 11406 776747 0 9823
+24788	ID:4	Received RA from fe80::212:7401:1:101 to fe80::212:7404:4:404
+24790	ID:4	uip_ds6_if.cur_hop_limit 64
+24793	ID:4	Processing PREFIX option in RA
+24798	ID:4	Adding prefix 2001:da8::length 64, vlifetime 600
+24800	ID:4	# Print interface address list: 
+24804	ID:4	# Address 1: ::  state: 0  type: 0  isused: 0
+24810	ID:4	# Address 2: 2001:da8::212:7404:4:404  state: 0  type: 1  isused: 1
+24816	ID:4	# Address 3: fe80::212:7404:4:404  state: 1  type: 1  isused: 1
+24818	ID:4	ND option not supported in RA
+24820	ID:4	Processing SLLAO option in RA
+24825	ID:4	Processing MTU option in RA
+24827	ID:4	ARO supported in this message
+24839	ID:4	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:7404:4:404 with target address fe80::212:7401:1:101
+24860	ID:19	Powertrace 16299 771855 2224 10335
+24887	ID:8	Powertrace 11094 777059 0 9958
+24905	ID:6	Powertrace 11085 777068 0 10288
+24953	ID:9	Router found ? (boolean): 1
+24958	ID:1	Received NS from 2001:da8::212:7404:4:404 to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+24965	ID:1	ND ARO option is supported in received NS
+24969	ID:11	Powertrace 22757 765398 3656 13535
+24971	ID:1	2001:da8::212:7404:4:404 has been added to the registration list.
+24973	ID:1	ARO supported in NA message 
+24985	ID:1	Sending NA to 2001:da8::212:7404:4:404 from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+24993	ID:20	Powertrace 21999 766154 3137 10825
+25035	ID:18	Powertrace 24604 763549 5199 11217
+25043	ID:4	Received NA from fe80::212:7401:1:101 to 2001:da8::212:7404:4:404 with target address fe80::212:7401:1:101
+25051	ID:4	2001:da8::212:7404:4:404 address registered successfully.
+25053	ID:4	# Print interface address list: 
+25053	ID:17	Powertrace 21329 766826 2418 13212
+25057	ID:4	# Address 1: ::  state: 0  type: 0  isused: 0
+25063	ID:4	# Address 2: 2001:da8::212:7404:4:404  state: 1  type: 1  isused: 1
+25069	ID:4	# Address 3: fe80::212:7404:4:404  state: 1  type: 1  isused: 1
+25155	ID:3	Powertrace 24787 763366 5297 11967
+25191	ID:4	Powertrace 23146 765010 4472 13078
+25216	ID:16	Powertrace 22471 765682 3861 12040
+25274	ID:15	Powertrace 24728 763427 5402 12021
+26184	ID:21	Sending RS 0
+26190	ID:21	Sending RS to ff02::2 from fe80::212:7415:15:1515
+26262	ID:11	Router found ? (boolean): 1
+26325	ID:1	Received RS from fe80::212:7415:15:1515 to ff02::2
+26329	ID:1	Solicited RA: 
+26337	ID:1	Sending RA to fe80::212:7415:15:1515 from fe80::212:7401:1:101
+26481	ID:21	Received RA from fe80::212:7401:1:101 to fe80::212:7415:15:1515
+26483	ID:21	uip_ds6_if.cur_hop_limit 64
+26485	ID:21	Processing PREFIX option in RA
+26488	ID:9	Powertrace 22373 831305 3339 11011
+26490	ID:21	Adding prefix 2001:da8::length 64, vlifetime 600
+26493	ID:21	# Print interface address list: 
+26497	ID:21	# Address 1: ::  state: 0  type: 0  isused: 0
+26503	ID:21	# Address 2: 2001:da8::212:7415:15:1515  state: 0  type: 1  isused: 1
+26510	ID:21	# Address 3: fe80::212:7415:15:1515  state: 1  type: 1  isused: 1
+26512	ID:21	ND option not supported in RA
+26514	ID:21	Processing SLLAO option in RA
+26518	ID:21	Processing MTU option in RA
+26521	ID:21	ARO supported in this message
+26533	ID:21	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:7415:15:1515 with target address fe80::212:7401:1:101
+26582	ID:1	Received NS from 2001:da8::212:7415:15:1515 to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+26586	ID:14	Powertrace 24309 829369 3959 14683
+26589	ID:1	ND ARO option is supported in received NS
+26596	ID:1	2001:da8::212:7415:15:1515 has been added to the registration list.
+26598	ID:1	ARO supported in NA message 
+26610	ID:1	Sending NA to 2001:da8::212:7415:15:1515 from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+26635	ID:2	Powertrace 26411 827268 6433 12121
+26659	ID:5	Powertrace 25710 827968 5193 12573
+26697	ID:7	Powertrace 24138 829540 4269 14142
+26700	ID:10	Powertrace 12951 840728 0 13824
+26715	ID:12	Powertrace 24350 829328 3859 14879
+26733	ID:21	Received NA from fe80::212:7401:1:101 to 2001:da8::212:7415:15:1515 with target address fe80::212:7401:1:101
+26741	ID:21	2001:da8::212:7415:15:1515 address registered successfully.
+26743	ID:13	Powertrace 21936 831743 3029 11775
+26744	ID:21	# Print interface address list: 
+26747	ID:21	# Address 1: ::  state: 0  type: 0  isused: 0
+26754	ID:21	# Address 2: 2001:da8::212:7415:15:1515  state: 1  type: 1  isused: 1
+26760	ID:21	# Address 3: fe80::212:7415:15:1515  state: 1  type: 1  isused: 1
+26769	ID:21	Powertrace 21547 832610 2723 11071
+26860	ID:19	Powertrace 17179 836500 2224 11466
+26887	ID:8	Powertrace 11909 841770 0 10459
+26905	ID:6	Powertrace 11741 841938 0 10881
+26969	ID:11	Powertrace 23827 829851 3656 14679
+26993	ID:20	Powertrace 22939 830739 3137 11883
+27034	ID:18	Powertrace 25478 828200 5199 11935
+27053	ID:17	Powertrace 22270 831409 2418 14148
+27125	ID:6	Sending RS 0
+27130	ID:6	Sending RS to ff02::2 from fe80::212:7406:6:606
+27154	ID:3	Powertrace 25660 828018 5297 12706
+27190	ID:4	Powertrace 24269 829410 4472 14156
+27202	ID:1	Received RS from fe80::212:7406:6:606 to ff02::2
+27206	ID:1	Solicited RA: 
+27213	ID:1	Sending RA to fe80::212:7406:6:606 from fe80::212:7401:1:101
+27216	ID:16	Powertrace 23339 830339 3861 13149
+27274	ID:15	Powertrace 25843 827836 5402 12873
+27385	ID:6	Received RA from fe80::212:7401:1:101 to fe80::212:7406:6:606
+27387	ID:6	uip_ds6_if.cur_hop_limit 64
+27389	ID:6	Processing PREFIX option in RA
+27394	ID:6	Adding prefix 2001:da8::length 64, vlifetime 600
+27396	ID:6	# Print interface address list: 
+27400	ID:6	# Address 1: ::  state: 0  type: 0  isused: 0
+27406	ID:6	# Address 2: 2001:da8::212:7406:6:606  state: 0  type: 1  isused: 1
+27412	ID:6	# Address 3: fe80::212:7406:6:606  state: 1  type: 1  isused: 1
+27415	ID:6	ND option not supported in RA
+27417	ID:6	Processing SLLAO option in RA
+27421	ID:6	Processing MTU option in RA
+27423	ID:6	ARO supported in this message
+27435	ID:6	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:7406:6:606 with target address fe80::212:7401:1:101
+27583	ID:1	Received NS from 2001:da8::212:7406:6:606 to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+27590	ID:1	ND ARO option is supported in received NS
+27596	ID:1	2001:da8::212:7406:6:606 has been added to the registration list.
+27598	ID:1	ARO supported in NA message 
+27610	ID:1	Sending NA to 2001:da8::212:7406:6:606 from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+27760	ID:6	Received NA from fe80::212:7401:1:101 to 2001:da8::212:7406:6:606 with target address fe80::212:7401:1:101
+27768	ID:6	2001:da8::212:7406:6:606 address registered successfully.
+27770	ID:6	# Print interface address list: 
+27774	ID:6	# Address 1: ::  state: 0  type: 0  isused: 0
+27780	ID:6	# Address 2: 2001:da8::212:7406:6:606  state: 1  type: 1  isused: 1
+27786	ID:6	# Address 3: fe80::212:7406:6:606  state: 1  type: 1  isused: 1
+27936	ID:8	Sending RS 0
+27941	ID:8	Sending RS to ff02::2 from fe80::212:7408:8:808
+28076	ID:1	Received RS from fe80::212:7408:8:808 to ff02::2
+28080	ID:1	Solicited RA: 
+28088	ID:1	Sending RA to fe80::212:7408:8:808 from fe80::212:7401:1:101
+28242	ID:8	Received RA from fe80::212:7401:1:101 to fe80::212:7408:8:808
+28244	ID:8	uip_ds6_if.cur_hop_limit 64
+28246	ID:8	Processing PREFIX option in RA
+28251	ID:8	Adding prefix 2001:da8::length 64, vlifetime 600
+28254	ID:8	# Print interface address list: 
+28257	ID:8	# Address 1: ::  state: 0  type: 0  isused: 0
+28264	ID:8	# Address 2: 2001:da8::212:7408:8:808  state: 0  type: 1  isused: 1
+28270	ID:8	# Address 3: fe80::212:7408:8:808  state: 1  type: 1  isused: 1
+28272	ID:8	ND option not supported in RA
+28274	ID:8	Processing SLLAO option in RA
+28278	ID:8	Processing MTU option in RA
+28281	ID:8	ARO supported in this message
+28293	ID:8	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:7408:8:808 with target address fe80::212:7401:1:101
+28334	ID:1	Received NS from 2001:da8::212:7408:8:808 to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+28340	ID:1	ND ARO option is supported in received NS
+28347	ID:1	2001:da8::212:7408:8:808 has been added to the registration list.
+28349	ID:1	ARO supported in NA message 
+28361	ID:1	Sending NA to 2001:da8::212:7408:8:808 from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+28488	ID:9	Powertrace 23426 895788 3339 12678
+28493	ID:8	Received NA from fe80::212:7401:1:101 to 2001:da8::212:7408:8:808 with target address fe80::212:7401:1:101
+28501	ID:8	2001:da8::212:7408:8:808 address registered successfully.
+28503	ID:8	# Print interface address list: 
+28506	ID:8	# Address 1: ::  state: 0  type: 0  isused: 0
+28513	ID:8	# Address 2: 2001:da8::212:7408:8:808  state: 1  type: 1  isused: 1
+28519	ID:8	# Address 3: fe80::212:7408:8:808  state: 1  type: 1  isused: 1
+28586	ID:14	Powertrace 25436 893778 3959 16348
+28635	ID:2	Powertrace 27547 891668 6433 13778
+28659	ID:5	Powertrace 26861 892353 5193 13988
+28697	ID:7	Powertrace 25209 894005 4269 15615
+28700	ID:10	Powertrace 14019 905196 0 15179
+28715	ID:12	Powertrace 25452 893762 3859 16345
+28743	ID:13	Powertrace 22675 896540 3029 12925
+28754	ID:21	Powertrace 22458 896757 2723 12327
+28860	ID:19	Powertrace 17890 901325 2224 12617
+28865	ID:13	Router found ? (boolean): 1
+28888	ID:8	Powertrace 21894 897321 2516 12455
+28906	ID:6	Powertrace 25229 893986 5195 13334
+28969	ID:11	Powertrace 24937 894277 3656 16129
+28993	ID:20	Powertrace 23645 895569 3137 13020
+29034	ID:18	Powertrace 26184 893030 5199 12895
+29053	ID:17	Powertrace 23426 895789 2418 15628
+29154	ID:3	Powertrace 26748 892466 5297 14160
+29190	ID:4	Powertrace 25217 893998 4472 15465
+29216	ID:16	Powertrace 24029 895185 3861 14096
+29274	ID:15	Powertrace 26784 892431 5402 14143
+30223	ID:15	Router found ? (boolean): 1
+30489	ID:9	Powertrace 24128 960633 3339 13094
+30576	ID:10	Sending RS 0
+30582	ID:10	Sending RS to ff02::2 from fe80::212:740a:a:a0a
+30587	ID:14	Powertrace 26138 958623 3959 16764
+30636	ID:2	Powertrace 28293 956470 6433 14194
+30659	ID:5	Powertrace 27766 956995 5193 14569
+30697	ID:7	Powertrace 26123 958638 4269 16152
+30701	ID:1	Received RS from fe80::212:740a:a:a0a to ff02::2
+30705	ID:1	Solicited RA: 
+30712	ID:1	Sending RA to fe80::212:740a:a:a0a from fe80::212:7401:1:101
+30716	ID:12	Powertrace 26360 958401 3859 16892
+30729	ID:10	Powertrace 19427 966252 2209 15647
+30743	ID:13	Powertrace 23722 961039 3029 13474
+30755	ID:21	Powertrace 23395 961368 2723 12920
+30804	ID:10	Received RA from fe80::212:7401:1:101 to fe80::212:740a:a:a0a
+30806	ID:10	uip_ds6_if.cur_hop_limit 64
+30808	ID:10	Processing PREFIX option in RA
+30813	ID:10	Adding prefix 2001:da8::length 64, vlifetime 600
+30815	ID:10	# Print interface address list: 
+30819	ID:10	# Address 1: ::  state: 0  type: 0  isused: 0
+30825	ID:10	# Address 2: 2001:da8::212:740a:a:a0a  state: 0  type: 1  isused: 1
+30831	ID:10	# Address 3: fe80::212:740a:a:a0a  state: 1  type: 1  isused: 1
+30834	ID:10	ND option not supported in RA
+30836	ID:10	Processing SLLAO option in RA
+30840	ID:10	Processing MTU option in RA
+30843	ID:10	ARO supported in this message
+30855	ID:10	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:740a:a:a0a with target address fe80::212:7401:1:101
+30860	ID:19	Powertrace 18765 965996 2224 13120
+30889	ID:8	Powertrace 22837 961926 2516 13144
+30906	ID:6	Powertrace 26157 958606 5195 14087
+30958	ID:1	Received NS from 2001:da8::212:740a:a:a0a to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+30965	ID:1	ND ARO option is supported in received NS
+30969	ID:11	Powertrace 25858 958903 3656 16894
+30971	ID:1	2001:da8::212:740a:a:a0a has been added to the registration list.
+30973	ID:1	ARO supported in NA message 
+30985	ID:1	Sending NA to 2001:da8::212:740a:a:a0a from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+30993	ID:20	Powertrace 24535 960226 3137 13559
+31035	ID:18	Powertrace 27078 957683 5199 13611
+31053	ID:17	Powertrace 24375 960388 2418 16740
+31057	ID:10	Received NA from fe80::212:7401:1:101 to 2001:da8::212:740a:a:a0a with target address fe80::212:7401:1:101
+31065	ID:10	2001:da8::212:740a:a:a0a address registered successfully.
+31067	ID:10	# Print interface address list: 
+31071	ID:10	# Address 1: ::  state: 0  type: 0  isused: 0
+31077	ID:10	# Address 2: 2001:da8::212:740a:a:a0a  state: 1  type: 1  isused: 1
+31083	ID:10	# Address 3: fe80::212:740a:a:a0a  state: 1  type: 1  isused: 1
+31155	ID:3	Powertrace 27655 957106 5297 14884
+31191	ID:4	Powertrace 26183 958580 4472 16558
+31216	ID:16	Powertrace 24916 959845 3861 14861
+31274	ID:15	Powertrace 27894 956867 5402 14913
+32489	ID:9	Powertrace 25005 1025281 3339 13638
+32587	ID:14	Powertrace 27034 1023252 3959 17515
+32636	ID:2	Powertrace 29209 1021078 6433 14738
+32659	ID:5	Powertrace 28465 1021821 5193 15162
+32697	ID:7	Powertrace 26822 1023464 4269 17112
+32701	ID:10	Powertrace 26677 1023610 4064 17315
+32716	ID:12	Powertrace 27054 1023232 3859 17498
+32743	ID:13	Powertrace 24416 1025870 3029 13890
+32755	ID:21	Powertrace 24132 1026155 2723 13336
+32831	ID:17	Router found ? (boolean): 1
+32860	ID:19	Powertrace 19484 1030803 2224 13558
+32889	ID:8	Powertrace 23574 1026713 2516 13560
+32906	ID:6	Powertrace 26894 1023393 5195 14503
+32969	ID:11	Powertrace 26552 1023734 3656 17310
+32993	ID:20	Powertrace 25229 1025057 3137 13975
+33035	ID:18	Powertrace 27772 1022514 5199 14027
+33053	ID:17	Powertrace 25261 1025025 2418 17156
+33155	ID:3	Powertrace 28349 1021937 5297 15300
+33191	ID:4	Powertrace 26920 1023367 4472 16974
+33202	ID:2	Router found ? (boolean): 1
+33216	ID:16	Powertrace 25611 1024675 3861 15277
+33274	ID:15	Powertrace 28588 1021698 5402 15329
+33462	ID:19	Sending RS 1
+33467	ID:19	Sending RS to ff02::2 from fe80::212:7413:13:1313
+33577	ID:1	Received RS from fe80::212:7413:13:1313 to ff02::2
+33582	ID:1	Solicited RA: 
+33590	ID:1	Sending RA to fe80::212:7413:13:1313 from fe80::212:7401:1:101
+33714	ID:19	Received RA from fe80::212:7401:1:101 to fe80::212:7413:13:1313
+33716	ID:19	uip_ds6_if.cur_hop_limit 64
+33718	ID:19	Processing PREFIX option in RA
+33723	ID:19	Adding prefix 2001:da8::length 64, vlifetime 600
+33726	ID:19	# Print interface address list: 
+33729	ID:19	# Address 1: ::  state: 0  type: 0  isused: 0
+33736	ID:19	# Address 2: 2001:da8::212:7413:13:1313  state: 0  type: 1  isused: 1
+33742	ID:19	# Address 3: fe80::212:7413:13:1313  state: 1  type: 1  isused: 1
+33744	ID:19	ND option not supported in RA
+33746	ID:19	Processing SLLAO option in RA
+33751	ID:19	Processing MTU option in RA
+33753	ID:19	ARO supported in this message
+33765	ID:19	Sending NS to fe80::212:7401:1:101 from 2001:da8::212:7413:13:1313 with target address fe80::212:7401:1:101
+33832	ID:1	Received NS from 2001:da8::212:7413:13:1313 to fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+33838	ID:1	ND ARO option is supported in received NS
+33845	ID:1	2001:da8::212:7413:13:1313 has been added to the registration list.
+33847	ID:1	ARO supported in NA message 
+33859	ID:1	Sending NA to 2001:da8::212:7413:13:1313 from fe80::212:7401:1:101 with target address fe80::212:7401:1:101
+33964	ID:19	Received NA from fe80::212:7401:1:101 to 2001:da8::212:7413:13:1313 with target address fe80::212:7401:1:101
+33972	ID:19	2001:da8::212:7413:13:1313 address registered successfully.
+33974	ID:19	# Print interface address list: 
+33978	ID:19	# Address 1: ::  state: 0  type: 0  isused: 0
+33984	ID:19	# Address 2: 2001:da8::212:7413:13:1313  state: 1  type: 1  isused: 1
+33991	ID:19	# Address 3: fe80::212:7413:13:1313  state: 1  type: 1  isused: 1
+34489	ID:9	Powertrace 25712 1090110 3339 14408
+34586	ID:4	Router found ? (boolean): 1
+34587	ID:14	Powertrace 27868 1087954 3959 18429
+34636	ID:2	Powertrace 30103 1085719 6433 15154
+34659	ID:5	Powertrace 29378 1086444 5193 15722
+34697	ID:7	Powertrace 27652 1088170 4269 17867
+34701	ID:10	Powertrace 27564 1088259 4064 18276
+34716	ID:12	Powertrace 27886 1087936 3859 18432
+34743	ID:13	Powertrace 25324 1090498 3029 14509
+34755	ID:21	Powertrace 25087 1090736 2723 13904
+34860	ID:19	Powertrace 30278 1085545 5357 14979
+34889	ID:8	Powertrace 24319 1091504 2516 13976
+34906	ID:6	Powertrace 27639 1088184 5195 14919
+34969	ID:11	Powertrace 27459 1088363 3656 18223
+34993	ID:20	Powertrace 26163 1089659 3137 14578
+35035	ID:18	Powertrace 28657 1087165 5199 14604
+35053	ID:17	Powertrace 26090 1089732 2418 17881
+35155	ID:3	Powertrace 29266 1086556 5297 15889
+35191	ID:4	Powertrace 27848 1087974 4472 17567
+35216	ID:16	Powertrace 26443 1089379 3861 16126
+35274	ID:15	Powertrace 29499 1086323 5402 15900
+36189	ID:21	Router found ? (boolean): 1
+36489	ID:9	Powertrace 26425 1154944 3339 14824
+36587	ID:14	Powertrace 28581 1152788 3959 18845
+36636	ID:2	Powertrace 30816 1150553 6433 15570
+36660	ID:5	Powertrace 30091 1151278 5193 16138
+36697	ID:7	Powertrace 28365 1153004 4269 18283
+36702	ID:10	Powertrace 28321 1153050 4064 18692
+36716	ID:12	Powertrace 28599 1152770 3859 18848
+36744	ID:13	Powertrace 26037 1155332 3029 14925
+36755	ID:21	Powertrace 26022 1155347 2723 14320
+36861	ID:19	Powertrace 31037 1150334 5357 15395
+36889	ID:8	Powertrace 25077 1156294 2516 14392
+36906	ID:6	Powertrace 28396 1152975 5195 15335
+36969	ID:11	Powertrace 28172 1153197 3656 18639
+36994	ID:20	Powertrace 26876 1154493 3137 14994
+37035	ID:18	Powertrace 29370 1151999 5199 15020
+37054	ID:17	Powertrace 26803 1154566 2418 18297
+37129	ID:6	Router found ? (boolean): 1
+37155	ID:3	Powertrace 29979 1151390 5297 16305
+37191	ID:4	Powertrace 28561 1152808 4472 17983
+37216	ID:16	Powertrace 27155 1154214 3861 16542
+37275	ID:15	Powertrace 30212 1151157 5402 16316
+37941	ID:8	Router found ? (boolean): 1
+38489	ID:9	Powertrace 27127 1219767 3339 15240
+38587	ID:14	Powertrace 29284 1217610 3959 19261
+38636	ID:2	Powertrace 31519 1215375 6433 15986
+38659	ID:5	Powertrace 30794 1216100 5193 16554
+38697	ID:7	Powertrace 29067 1217827 4269 18699
+38701	ID:10	Powertrace 29066 1217829 4064 19108
+38716	ID:12	Powertrace 29302 1217592 3859 19264
+38743	ID:13	Powertrace 26740 1220154 3029 15341
+38755	ID:21	Powertrace 26724 1220170 2723 14736
+38860	ID:19	Powertrace 31783 1215112 5357 15811
+38889	ID:8	Powertrace 26009 1220885 2516 14808
+38906	ID:6	Powertrace 29292 1217602 5195 15751
+38969	ID:11	Powertrace 28875 1218019 3656 19055
+38993	ID:20	Powertrace 27579 1219315 3137 15410
+39035	ID:18	Powertrace 30074 1216820 5199 15436
+39053	ID:17	Powertrace 27505 1219389 2418 18713
+39155	ID:3	Powertrace 30682 1216212 5297 16721
+39191	ID:4	Powertrace 29263 1217631 4472 18399
+39216	ID:16	Powertrace 27858 1219036 3861 16958
+39274	ID:15	Powertrace 30915 1215979 5402 16732
+40489	ID:9	Powertrace 27829 1284601 3339 15656
+40582	ID:10	Router found ? (boolean): 1
+40587	ID:14	Powertrace 29986 1282444 3959 19677
+40636	ID:2	Powertrace 32222 1280208 6433 16402
+40659	ID:5	Powertrace 31496 1280934 5193 16970
+40697	ID:7	Powertrace 29769 1282661 4269 19115
+40701	ID:10	Powertrace 30034 1282396 4064 19524
+40716	ID:12	Powertrace 30004 1282426 3859 19680
+40743	ID:13	Powertrace 27442 1284988 3029 15757
+40755	ID:21	Powertrace 27426 1285004 2723 15152
+40860	ID:19	Powertrace 32529 1279902 5357 16227
+40889	ID:8	Powertrace 26711 1285719 2516 15224
+40906	ID:6	Powertrace 29994 1282436 5195 16167
+40969	ID:11	Powertrace 29577 1282853 3656 19471
+40993	ID:20	Powertrace 28281 1284149 3137 15826
+41035	ID:18	Powertrace 30776 1281654 5199 15852
+41053	ID:17	Powertrace 28207 1284223 2418 19129
+41155	ID:3	Powertrace 31384 1281046 5297 17137
+41191	ID:4	Powertrace 29965 1282465 4472 18815
+41216	ID:16	Powertrace 28560 1283870 3861 17374
+41274	ID:15	Powertrace 31618 1280812 5402 17148
+42489	ID:9	Powertrace 28542 1349435 3339 16072
+42587	ID:14	Powertrace 30699 1347278 3959 20093
+42636	ID:2	Powertrace 32934 1345043 6433 16818
+42660	ID:5	Powertrace 32209 1345768 5193 17386
+42697	ID:7	Powertrace 30482 1347495 4269 19531
+42702	ID:10	Powertrace 30747 1347230 4064 19940
+42716	ID:12	Powertrace 30717 1347260 3859 20096
+42744	ID:13	Powertrace 28155 1349822 3029 16173
+42755	ID:21	Powertrace 28139 1349838 2723 15568
+42861	ID:19	Powertrace 33287 1344692 5357 16643
+42889	ID:8	Powertrace 27424 1350553 2516 15640
+42906	ID:6	Powertrace 30707 1347270 5195 16583
+42969	ID:11	Powertrace 30290 1347687 3656 19887
+42994	ID:20	Powertrace 28994 1348983 3137 16242
+43035	ID:18	Powertrace 31489 1346488 5199 16268
+43054	ID:17	Powertrace 28920 1349057 2418 19545
+43155	ID:3	Powertrace 32097 1345880 5297 17553
+43191	ID:4	Powertrace 30678 1347299 4472 19231
+43216	ID:16	Powertrace 29273 1348704 3861 17790
+43275	ID:15	Powertrace 32331 1345646 5402 17564
+43467	ID:19	Router found ? (boolean): 1
+44489	ID:9	Powertrace 29245 1414257 3339 16488
+44587	ID:14	Powertrace 31402 1412100 3959 20509
+44636	ID:2	Powertrace 33636 1409866 6433 17234
+44659	ID:5	Powertrace 32911 1410591 5193 17802
+44697	ID:7	Powertrace 31185 1412317 4269 19947
+44701	ID:10	Powertrace 31449 1412053 4064 20356
+44716	ID:12	Powertrace 31420 1412082 3859 20512
+44743	ID:13	Powertrace 28858 1414644 3029 16589
+44755	ID:21	Powertrace 28842 1414660 2723 15984
+44860	ID:19	Powertrace 34218 1409284 5357 17059
+44889	ID:8	Powertrace 28127 1415375 2516 16056
+44906	ID:6	Powertrace 31410 1412092 5195 16999
+44969	ID:11	Powertrace 30993 1412509 3656 20303
+44993	ID:20	Powertrace 29697 1413805 3137 16658
+45035	ID:18	Powertrace 32192 1411310 5199 16684
+45053	ID:17	Powertrace 29623 1413879 2418 19961
+45155	ID:3	Powertrace 32799 1410703 5297 17969
+45191	ID:4	Powertrace 31381 1412121 4472 19647
+45216	ID:16	Powertrace 29976 1413526 3861 18206
+45274	ID:15	Powertrace 33033 1410469 5402 17980
+46489	ID:9	Powertrace 29947 1479091 3339 16904
+46587	ID:14	Powertrace 32104 1476934 3959 20925
+46636	ID:2	Powertrace 34338 1474700 6433 17650
+46659	ID:5	Powertrace 33613 1475425 5193 18218
+46697	ID:7	Powertrace 31887 1477151 4269 20363
+46701	ID:10	Powertrace 32151 1476887 4064 20772
+46716	ID:12	Powertrace 32122 1476916 3859 20928
+46743	ID:13	Powertrace 29560 1479478 3029 17005
+46755	ID:21	Powertrace 29544 1479494 2723 16400
+46860	ID:19	Powertrace 34920 1474118 5357 17475
+46889	ID:8	Powertrace 28829 1480209 2516 16472
+46906	ID:6	Powertrace 32112 1476926 5195 17415
+46969	ID:11	Powertrace 31695 1477343 3656 20719
+46993	ID:20	Powertrace 30399 1478639 3137 17074
+47035	ID:18	Powertrace 32894 1476144 5199 17100
+47053	ID:17	Powertrace 30325 1478713 2418 20377
+47155	ID:3	Powertrace 33501 1475537 5297 18385
+47191	ID:4	Powertrace 32083 1476955 4472 20063
+47216	ID:16	Powertrace 30678 1478360 3861 18622
+47274	ID:15	Powertrace 33735 1475303 5402 18396
+48489	ID:9	Powertrace 30660 1543925 3339 17320
+48587	ID:14	Powertrace 32817 1541768 3959 21341
+48636	ID:2	Powertrace 35051 1539534 6433 18066
+48660	ID:5	Powertrace 34326 1540259 5193 18634
+48697	ID:7	Powertrace 32600 1541985 4269 20779
+48702	ID:10	Powertrace 32864 1541721 4064 21188
+48716	ID:12	Powertrace 32835 1541750 3859 21344
+48744	ID:13	Powertrace 30273 1544312 3029 17421
+48755	ID:21	Powertrace 30257 1544328 2723 16816
+48861	ID:19	Powertrace 35633 1538952 5357 17891
+48889	ID:8	Powertrace 29542 1545043 2516 16888
+48906	ID:6	Powertrace 32825 1541760 5195 17831
+48969	ID:11	Powertrace 32408 1542177 3656 21135
+48994	ID:20	Powertrace 31112 1543473 3137 17490
+49035	ID:18	Powertrace 33607 1540978 5199 17516
+49054	ID:17	Powertrace 31038 1543547 2418 20793
+49155	ID:3	Powertrace 34214 1540371 5297 18801
+49191	ID:4	Powertrace 32796 1541789 4472 20479
+49216	ID:16	Powertrace 31391 1543194 3861 19038
+49275	ID:15	Powertrace 34448 1540137 5402 18812
+50489	ID:9	Powertrace 31363 1608747 3339 17736
+50587	ID:14	Powertrace 33520 1606590 3959 21757
+50636	ID:2	Powertrace 35754 1604356 6433 18482
+50659	ID:5	Powertrace 35029 1605081 5193 19050
+50697	ID:7	Powertrace 33303 1606807 4269 21195
+50701	ID:10	Powertrace 33567 1606543 4064 21604
+50716	ID:12	Powertrace 33538 1606572 3859 21760
+50743	ID:13	Powertrace 30976 1609134 3029 17837
+50755	ID:21	Powertrace 30959 1609151 2723 17232
+50860	ID:19	Powertrace 36336 1603774 5357 18307
+50889	ID:8	Powertrace 30245 1609865 2516 17304
+50906	ID:6	Powertrace 33528 1606582 5195 18247
+50969	ID:11	Powertrace 33111 1606999 3656 21551
+50993	ID:20	Powertrace 31815 1608295 3137 17906
+51035	ID:18	Powertrace 34310 1605800 5199 17932
+51053	ID:17	Powertrace 31741 1608369 2418 21209
+51155	ID:3	Powertrace 34917 1605193 5297 19217
+51191	ID:4	Powertrace 33499 1606611 4472 20895
+51216	ID:16	Powertrace 32094 1608016 3861 19454
+51274	ID:15	Powertrace 35151 1604959 5402 19228
+52489	ID:9	Powertrace 32065 1673581 3339 18152
+52587	ID:14	Powertrace 34222 1671424 3959 22173
+52636	ID:2	Powertrace 36456 1669190 6433 18898
+52659	ID:5	Powertrace 35731 1669915 5193 19466
+52697	ID:7	Powertrace 34005 1671641 4269 21611
+52701	ID:10	Powertrace 34269 1671377 4064 22020
+52716	ID:12	Powertrace 34240 1671406 3859 22176
+52743	ID:13	Powertrace 31678 1673968 3029 18253
+52755	ID:21	Powertrace 31661 1673985 2723 17648
+52860	ID:19	Powertrace 37038 1668608 5357 18723
+52889	ID:8	Powertrace 30947 1674699 2516 17720
+52906	ID:6	Powertrace 34230 1671416 5195 18663
+52969	ID:11	Powertrace 33813 1671833 3656 21967
+52993	ID:20	Powertrace 32517 1673129 3137 18322
+53035	ID:18	Powertrace 35012 1670634 5199 18348
+53053	ID:17	Powertrace 32443 1673203 2418 21625
+53155	ID:3	Powertrace 35619 1670027 5297 19633
+53191	ID:4	Powertrace 34201 1671445 4472 21311
+53216	ID:16	Powertrace 32795 1672851 3861 19870
+53274	ID:15	Powertrace 35853 1669793 5402 19644
+54489	ID:9	Powertrace 32778 1738415 3339 18568
+54587	ID:14	Powertrace 34935 1736258 3959 22589
+54636	ID:2	Powertrace 37169 1734024 6433 19314
+54660	ID:5	Powertrace 36444 1734749 5193 19882
+54697	ID:7	Powertrace 34718 1736475 4269 22027
+54702	ID:10	Powertrace 34982 1736211 4064 22436
+54716	ID:12	Powertrace 34953 1736240 3859 22592
+54744	ID:13	Powertrace 32391 1738802 3029 18669
+54755	ID:21	Powertrace 32374 1738819 2723 18064
+54861	ID:19	Powertrace 37751 1733442 5357 19139
+54889	ID:8	Powertrace 31660 1739533 2516 18136
+54906	ID:6	Powertrace 34943 1736250 5195 19079
+54969	ID:11	Powertrace 34526 1736667 3656 22383
+54994	ID:20	Powertrace 33230 1737963 3137 18738
+55035	ID:18	Powertrace 35725 1735468 5199 18764
+55054	ID:17	Powertrace 33156 1738037 2418 22041
+55155	ID:3	Powertrace 36332 1734861 5297 20049
+55191	ID:4	Powertrace 34914 1736279 4472 21727
+55216	ID:16	Powertrace 33508 1737685 3861 20286
+55275	ID:15	Powertrace 36566 1734627 5402 20060
+56489	ID:9	Powertrace 33481 1803237 3339 18984
+56587	ID:14	Powertrace 35638 1801080 3959 23005
+56636	ID:2	Powertrace 37872 1798846 6433 19730
+56659	ID:5	Powertrace 37147 1799571 5193 20298
+56697	ID:7	Powertrace 35421 1801297 4269 22443
+56701	ID:10	Powertrace 35685 1801033 4064 22852
+56716	ID:12	Powertrace 35656 1801062 3859 23008
+56743	ID:13	Powertrace 33094 1803624 3029 19085
+56755	ID:21	Powertrace 33077 1803641 2723 18480
+56860	ID:19	Powertrace 38454 1798264 5357 19555
+56889	ID:8	Powertrace 32363 1804355 2516 18552
+56906	ID:6	Powertrace 35646 1801072 5195 19495
+56969	ID:11	Powertrace 35229 1801489 3656 22799
+56993	ID:20	Powertrace 33933 1802785 3137 19154
+57035	ID:18	Powertrace 36428 1800290 5199 19180
+57053	ID:17	Powertrace 33859 1802859 2418 22457
+57155	ID:3	Powertrace 37035 1799683 5297 20465
+57191	ID:4	Powertrace 35617 1801101 4472 22143
+57216	ID:16	Powertrace 34211 1802507 3861 20702
+57274	ID:15	Powertrace 37269 1799449 5402 20476
+58489	ID:9	Powertrace 34183 1868071 3339 19400
+58587	ID:14	Powertrace 36340 1865914 3959 23421
+58636	ID:2	Powertrace 38574 1863680 6433 20146
+58659	ID:5	Powertrace 37849 1864405 5193 20714
+58697	ID:7	Powertrace 36123 1866131 4269 22859
+58701	ID:10	Powertrace 36387 1865867 4064 23268
+58716	ID:12	Powertrace 36358 1865896 3859 23424
+58743	ID:13	Powertrace 33796 1868458 3029 19501
+58755	ID:21	Powertrace 33779 1868475 2723 18896
+58860	ID:19	Powertrace 39156 1863098 5357 19971
+58889	ID:8	Powertrace 33065 1869189 2516 18968
+58906	ID:6	Powertrace 36348 1865906 5195 19911
+58969	ID:11	Powertrace 35931 1866323 3656 23215
+58993	ID:20	Powertrace 34635 1867619 3137 19570
+59035	ID:18	Powertrace 37130 1865124 5199 19596
+59053	ID:17	Powertrace 34561 1867693 2418 22873
+59155	ID:3	Powertrace 37737 1864517 5297 20881
+59191	ID:4	Powertrace 36319 1865935 4472 22559
+59216	ID:16	Powertrace 34913 1867341 3861 21118
+59274	ID:15	Powertrace 37971 1864283 5402 20892
+60489	ID:9	Powertrace 34896 1932905 3339 19816
+60587	ID:14	Powertrace 37053 1930748 3959 23837
+60636	ID:2	Powertrace 39287 1928514 6433 20562
+60660	ID:5	Powertrace 38562 1929239 5193 21130
+60697	ID:7	Powertrace 36836 1930965 4269 23275
+60702	ID:10	Powertrace 37100 1930701 4064 23684
+60716	ID:12	Powertrace 37071 1930730 3859 23840
+60744	ID:13	Powertrace 34509 1933292 3029 19917
+60755	ID:21	Powertrace 34492 1933309 2723 19312
+60861	ID:19	Powertrace 39870 1927931 5357 20387
+60889	ID:8	Powertrace 33778 1934023 2516 19384
+60906	ID:6	Powertrace 37061 1930740 5195 20327
+60969	ID:11	Powertrace 36644 1931157 3656 23631
+60994	ID:20	Powertrace 35348 1932453 3137 19986
+61035	ID:18	Powertrace 37843 1929958 5199 20012
+61054	ID:17	Powertrace 35274 1932527 2418 23289
+61155	ID:3	Powertrace 38450 1929351 5297 21297
+61191	ID:4	Powertrace 37032 1930769 4472 22975
+61216	ID:16	Powertrace 35626 1932175 3861 21534
+61275	ID:15	Powertrace 38684 1929117 5402 21308
+62489	ID:9	Powertrace 35603 1997723 3339 20232
+62587	ID:14	Powertrace 37760 1995566 3959 24253
+62636	ID:2	Powertrace 39993 1993333 6433 20978
+62659	ID:5	Powertrace 39269 1994057 5193 21546
+62697	ID:7	Powertrace 37543 1995783 4269 23691
+62701	ID:10	Powertrace 37807 1995519 4064 24100
+62716	ID:12	Powertrace 37778 1995548 3859 24256
+62743	ID:13	Powertrace 35216 1998110 3029 20333
+62755	ID:21	Powertrace 35199 1998127 2723 19728
+62860	ID:19	Powertrace 40577 1992749 5357 20803
+62889	ID:8	Powertrace 34485 1998841 2516 19800
+62906	ID:6	Powertrace 37768 1995558 5195 20743
+62969	ID:11	Powertrace 37351 1995975 3656 24047
+62993	ID:20	Powertrace 36055 1997271 3137 20402
+63035	ID:18	Powertrace 38550 1994776 5199 20428
+63053	ID:17	Powertrace 35981 1997345 2418 23705
+63155	ID:3	Powertrace 39156 1994170 5297 21713
+63191	ID:4	Powertrace 37739 1995587 4472 23391
+63216	ID:16	Powertrace 36333 1996993 3861 21950
+63274	ID:15	Powertrace 39391 1993935 5402 21724
+64489	ID:9	Powertrace 36305 2062557 3339 20648
+64587	ID:14	Powertrace 38462 2060400 3959 24669
+64636	ID:2	Powertrace 40695 2058167 6433 21394
+64659	ID:5	Powertrace 39971 2058891 5193 21962
+64697	ID:7	Powertrace 38246 2060616 4269 24107
+64701	ID:10	Powertrace 38510 2060352 4064 24516
+64716	ID:12	Powertrace 38480 2060382 3859 24672
+64743	ID:13	Powertrace 35918 2062944 3029 20749
